@@ -2,7 +2,7 @@
 draft = false
 +++
 
-Robust and Trustworthy NLP Through The Lens of Text Summarization [slides]
+Robust and Trustworthy NLP Through The Lens of Text Summarization [[slides]("/uploads/yue_job_talk_2022.pdf")]
 - Invited Talk at University of California - Riverside, March 2021
 - Invited Talk at University of National University of Singapore, March 2021
 - Invited Talk at Google AI, March 2021
