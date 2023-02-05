@@ -36,6 +36,6 @@ publication: '*Canadian conference on artificial intelligence*'
 links:
 - name: Paper
   url: https://link.springer.com/chapter/10.1007/978-3-319-34111-8_37
-- name: Won Best Paper Award
+- name: [<span style="color:red"> **Best Paper Award** </span>]
   url: 
 ---

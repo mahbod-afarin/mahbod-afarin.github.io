@@ -12,4 +12,4 @@ draft = false
 - Dean’s Merit Scholarships - Faculty of Science, University of Ottawa, 2014
 - University of Ottawa Women’s Summer Research Award, Summer 2013
 - University of Ottawa Work/Study Research Award, Summer 2012
-- [<span style="color:red">some **First prize in mathematics competition in Shaanxi province, China, 2008** text</span>](http://www.sneac.com/info/1009/2054.htm)
+- [<span style="color:red"> **First prize in mathematics competition in Shaanxi province, China, 2008** </span>](http://www.sneac.com/info/1009/2054.htm)
