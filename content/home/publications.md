@@ -7,16 +7,16 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 30
 
-title: Recent Posts
-subtitle:
+title: Recent Publications
+subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - post
+      - publication
     tag: ''
     category: ''
     publication_type: ''
@@ -30,9 +30,9 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-
 design:
   # Choose a view for the listings:
-  view: compact
+  view: citation
   columns: '2'
 ---
+
