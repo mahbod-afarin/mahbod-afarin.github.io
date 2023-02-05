@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
 title = "Recent News"
 subtitle = "[All news>>](/news)"
@@ -50,4 +50,4 @@ subtitle = "[All news>>](/news)"
  css_class = ""
 +++
 
-{{< readfromfile "/content/events/newslist.md" 5 >}} 
+{{< readfromfile "/content/en/newslist.md" 5 >}} 

@@ -1,14 +1,9 @@
-# [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
+# Personal Website and portfolio
 
-Static folder: files that will be linked to the website
+This webpage was built using [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic), [Hugo](https://gohugo.io/), [ox-hugo](https://ox-hugo.scripter.co/) and [Org-Mode](https://orgmode.org/).
 
-Content folder: contains the majority of the content of the website
+## Develop
 
-Config: seems not working yet
-	To do: change menu in the main top bar
+Write all posts in [content-org/all_posts.org](content-org/all_posts.org) file, then export to Hugo compatible markdown ox-hugo (`SPC m e H A`).
 
-Assets: media files
-
-My intro: content -> authors -> _index.md
-Recent news: content -> event -> newslist.md
-Website blocks: content -> home -> ads with position in weight
+Folders that do not touch: layouts, images, data, 
