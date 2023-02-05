@@ -16,9 +16,9 @@ name = "personal"
   home_section_even = "rgb(247, 247, 247)"
 
   # link
-  # link = "#3489e9"
-  link = "#5c10e3"
-  # link_hover = "#bbdefb"
+  link = "#3489e9"
+  # link = "#5c10e3"
+  link_hover = "#bbdefb"
 
 [dark]
   # Primary
