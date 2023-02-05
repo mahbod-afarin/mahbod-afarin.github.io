@@ -68,6 +68,6 @@ My research interests include natural language processing, machine learning, and
 
  {{< icon name="graduation-cap" pack="fas" >}} {{< staticref "event/phd_thesis/" "newtab" >}} PhD Thesis {{< /staticref >}}|
  {{< icon name="book-reader" pack="fas" >}} {{< staticref "uploads/research_statement.pdf" "newtab" >}} Research Statement {{< /staticref >}} |
-{{< icon name="adversal" pack="fab" >}} {{< staticref "uploads/research_statement.pdf" "newtab" >}} 招生 {{< /staticref >}} |
+{{< icon name="adversal" pack="fab" >}} {{< staticref "https://instant.1point3acres.com/thread/890304" "newtab" >}} 招生 {{< /staticref >}} |
 
 {style="text-align: justify;"}
