@@ -17,7 +17,7 @@ main:
     url: '/teaching/teachings'
     weight: 40
   - name: Services
-    url: '/services'
+    url: '/service/services'
     weight: 50
   - name: Talks
     url: '/talk/talks'
