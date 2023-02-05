@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Koustuv Sinha # Website name
-baseURL: "https://koustuvsinha.com/" # Website URL
+title: Yue Dong # Website name
+baseURL: "https://yuedong.netlify.app/" # Website URL
 # RelativeURLs: true
 # CanonifyURLs: true
 
