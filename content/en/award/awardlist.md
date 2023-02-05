@@ -3,6 +3,7 @@ draft = false
 +++
 
 - Alexander Graham Bell Canada Graduate Scholarship - Doctoral (CGS D) - Accepted, 2018-2019
+- [<span style="color:red"> **Best Paper Award** </span>] at Canadian conference on artificial intelligence
 - NSERC Postgraduate Scholarship - Doctoral (PGS D) - Accepted, 2017-2018
 - FRQNT Doctoral Scholarship - Declined (rank first in all 2016 applicants in mathematics), 2016
 - FRQNT Master’s Research Scholarship, 2016
