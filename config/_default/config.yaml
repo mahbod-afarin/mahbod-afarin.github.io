@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Yue Dong # Website name
+title: Yue Dong 董悦 # Website name
 baseURL: "https://yuedong.netlify.app/" # Website URL
 # RelativeURLs: true
 # CanonifyURLs: true
