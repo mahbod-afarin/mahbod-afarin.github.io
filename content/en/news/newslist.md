@@ -2,8 +2,11 @@
 draft = false
 +++
 
+-   [01/2023] Expressed my opinions about [chatGPT for education](https://news.ucr.edu/articles/2023/01/24/chatgpt-threat-education)
 -   [01/2023] Joined UCR as an assistant professor in the CSE department.
 -   [12/2022] The 4th workshop on ["New Frontiers in Summarization Workshop"](https://newsumm.github.io/2023/) has been accepted to EMNLP 2023.
+-   [11/2022] Career and Personal Pathway Panelist at [Google exploreCSR-DS and ML workshop @ University of California Riverside](https://sites.google.com/view/explorecsr2022ucr).
+-   [11/2022] Talk at UCR Data Science Seminar on ["hallucinations in text generation"](https://datascience.ucr.edu/news/2022/11/18/are-hallucinations-text-generation-always-undesirable-perspective-text-elaboration).
 -   [11/2022] Successfully defended my PhD! Checkout [my thesis here](/phd_thesis/).
 -   [10/2022] Our paper ["Faithful to the Document or to the World? Mitigating Hallucinations via Entity-Linked Knowledge in Abstractive Summarization"](https://arxiv.org/abs/2204.13761) has been accepted to the findings of EMNLP 2022.
 -   [10/2022] Our paper "Learning with Rejection for Abstractive Text Summarization" has been accepted to EMNLP 2022.
