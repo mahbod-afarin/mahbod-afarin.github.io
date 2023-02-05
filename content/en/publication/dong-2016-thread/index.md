@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Yue Dong
 - Nathalie Japkowicz
-tags: []
+tags: [[<span style="color:red"> **Best Paper Award** </span>]]
 categories: []
 date: '2016-05-13'
 lastmod: 2022-07-18T19:57:59-04:00
@@ -36,6 +36,6 @@ publication: '*Canadian conference on artificial intelligence*'
 links:
 - name: Paper
   url: https://link.springer.com/chapter/10.1007/978-3-319-34111-8_37
-- name: [<span style="color:red"> **Best Paper Award** </span>]
+- name: Best Paper Award
   url: 
 ---
