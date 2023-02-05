@@ -1,17 +1,6 @@
----
-title: "Talks"
-draft: false
-draft: false
-share: false
-commentable: false
-editable: false
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: ''
----
-
++++
+draft = false
++++
 
 Robust and Trustworthy NLP Through The Lens of Text Summarization [slides]
 - Invited Talk at University of California - Riverside, March 2021
@@ -23,4 +12,3 @@ Robust and Trustworthy NLP Through The Lens of Text Summarization [slides]
 - Invited Talk at HEC Montreal & Mila, February 2021
 - Invited Talk at University of Michigan - Dearborn, February 2021
 - Invited Talk at Queen's University, January 2021
-

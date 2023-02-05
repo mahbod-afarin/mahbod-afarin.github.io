@@ -20,7 +20,7 @@ main:
     url: '/services'
     weight: 50
   - name: Talks
-    url: '/talks'
+    url: '/talk/talks'
     weight: 60
   - name: Awards
     url: '/awards'
