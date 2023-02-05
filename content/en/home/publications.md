@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: Recent Publications
-subtitle = ""
+subtitle: ''
 
 content:
   # Filter on criteria
