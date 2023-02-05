@@ -12,7 +12,6 @@ header:
   image: ''
 ---
 
-## Services {#services}
 
 ### Co-organizer
 - EMNLP 2023 workshop on [New Frontiers in Summarization](https://newsumm.github.io/2023/)

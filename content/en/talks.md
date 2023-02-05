@@ -13,8 +13,6 @@ header:
 ---
 
 
-## Public Talks {#public-talks}
-
 Robust and Trustworthy NLP Through The Lens of Text Summarization [slides]
 - Invited Talk at University of California - Riverside, March 2021
 - Invited Talk at University of National University of Singapore, March 2021
