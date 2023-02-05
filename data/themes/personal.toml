@@ -19,7 +19,7 @@ name = "personal"
   link = "#2e48a3"
   # link = "#3489e9"
   # link = "#5c10e3"
-  link_hover = "#bbdefb"
+  link_hover = "#3489e9"
 
 [dark]
   # Primary
