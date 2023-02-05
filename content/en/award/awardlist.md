@@ -1,18 +1,6 @@
----
-title: "Awards"
-draft: false
-draft: false
-share: false
-commentable: false
-editable: false
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: ''
----
-
-## Awards {#awards}
++++
+draft = false
++++
 
 - Alexander Graham Bell Canada Graduate Scholarship - Doctoral (CGS D) - Accepted, 2018-2019
 - NSERC Postgraduate Scholarship - Doctoral (PGS D) - Accepted, 2017-2018
