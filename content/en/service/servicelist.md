@@ -10,7 +10,8 @@ draft = false
 - NAACL 2022 tutorial on [Text Generation with Text-Editing Models](https://text-editing.github.io/)
 
 ### Area Chair
-- EMNLP 2022 Summarization
+- NLPCC 2023 Summarization and Generation Track
+- EMNLP 2022 Summarization Track
 - ACL 2021 Nov. Rolling Review
 
 ### Reviewer
