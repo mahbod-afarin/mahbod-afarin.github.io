@@ -1,7 +1,7 @@
 +++
 draft = false
 +++
--   [03/2023] Our application to form a special interest group on summarization has been accepted by [ACL](https://www.aclweb.org/adminwiki/index.php?title=SIG_Compliance#SIGSUMM:_SIG_on_Summarization). Checkout the newest ACL's SIG - [SIGSUMM](https://sites.google.com/view/sigsumm)
+-   [03/2023] Our application to form a special interest group on summarization has been accepted by [ACL](https://www.aclweb.org/adminwiki/index.php?title=SIG_Compliance#SIGSUMM:_SIG_on_Summarization). Checkout the newest ACL's SIG - [SIGSUMM](www.sigsumm.org)
 -   [01/2023] Expressed my opinions about [chatGPT for education @UCR News](https://news.ucr.edu/articles/2023/01/24/chatgpt-threat-education)
 -   [01/2023] Joined UCR as an assistant professor in the [CSE department](https://www1.cs.ucr.edu/people/faculty)
 -   [12/2022] The 4th workshop on ["New Frontiers in Summarization Workshop"](https://newsumm.github.io/2023/) has been accepted to EMNLP 2023
