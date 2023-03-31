@@ -62,7 +62,7 @@ highlight_name: true
 first_name: Yue
 email: ""
 ---
-Hi, I am Yue Dong, an assistant professor of computer science and engineering at [the University of California, Riverside](https://www1.cs.ucr.edu/). I obtained my PhD in Computer Science at [McGill University](http://cs.mcgill.ca) and [Mila](https://mila.quebec), supervised by Dr. [Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/). I was fortunate to intern at [Google AI](https://ai.google/), [AI2](https://allenai.org/), [Microsoft](https://www.microsoft.com/en-us/research/), and [Noah’s Ark Lab](http://dev3.noahlab.com.hk/) during my PhD.
+Hi, I am Yue (/yoo-eh/) Dong, an assistant professor of computer science and engineering at [the University of California, Riverside](https://www1.cs.ucr.edu/). I obtained my PhD in Computer Science at [McGill University](http://cs.mcgill.ca) and [Mila](https://mila.quebec), supervised by Dr. [Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/). I was fortunate to intern at [Google AI](https://ai.google/), [AI2](https://allenai.org/), [Microsoft](https://www.microsoft.com/en-us/research/), and [Noah’s Ark Lab](http://dev3.noahlab.com.hk/) during my PhD.
 
 My research interests include natural language processing, machine learning, and artificial intelligence. I lead the Natural Language Processing group at UCR, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient.  I am looking for self-motivated PhDs / masters / interns to work in the area of NLP, please consider [applying](https://www1.cs.ucr.edu//graduate/admissions/overview) if you are interested in working with me. 
 
