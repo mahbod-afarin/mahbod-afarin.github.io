@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: yue.dong[at]ucr.edu
+  email: see my UCR profile https://profiles.ucr.edu/app/home/profile/yued
   phone: 
   address:
     street:
