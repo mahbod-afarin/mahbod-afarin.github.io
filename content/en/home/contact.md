@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: see my UCR profile https://profiles.ucr.edu/app/home/profile/yued
+  email: yued[AT]ucr.edu
   phone: 
   address:
     street:
