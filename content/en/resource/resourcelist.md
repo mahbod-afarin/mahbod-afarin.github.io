@@ -16,7 +16,7 @@ draft = false
 
 - [BanditSum](https://github.com/YueDongCS/BanditSum) an extractive summarization algorithm trained with reinforcement learning with the setup of contextual multi-armed bandits.
 
--[HierClass](https://github.com/koustuvsinha/hier-class) a deep hierarchical neural attention-based classifier for hierarchical taxonomy datasets.
+- [HierClass](https://github.com/koustuvsinha/hier-class) a deep hierarchical neural attention-based classifier for hierarchical taxonomy datasets.
 
  
 ## Dataset
