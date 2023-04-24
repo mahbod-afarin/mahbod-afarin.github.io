@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Recent Teachings"
-subtitle = "[All Teachings>>](/teaching/teachings)"
+subtitle = "[All Teachings>>](/teaching/teachinglist)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

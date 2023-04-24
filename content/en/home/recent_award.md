@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Recent Awards"
-subtitle = "[All Awards>>](/award/awards)"
+subtitle = "[All Awards>>](/award/awardlist)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
