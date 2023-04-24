@@ -7,3 +7,5 @@ This webpage was built using [Hugo Academic Theme](https://github.com/wowchemy/s
 Write all posts in [content-org/all_posts.org](content-org/all_posts.org) file, then export to Hugo compatible markdown ox-hugo (`SPC m e H A`).
 
 Folders that do not touch: layouts, images, data, 
+
+# to update the menu choices, go to -> config/menus

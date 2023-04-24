@@ -25,6 +25,9 @@ main:
   - name: Awards
     url: '/award/awards'
     weight: 70
+  - name: Resources
+    url: '/resource/resources'
+    weight: 80
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
