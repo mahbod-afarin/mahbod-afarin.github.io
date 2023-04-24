@@ -1,5 +1,5 @@
 ---
-title: "Services"
+title: "Resources"
 draft: false
 draft: false
 share: false
