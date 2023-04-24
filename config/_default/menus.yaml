@@ -14,19 +14,19 @@ main:
     url: '/publication'
     weight: 30
   - name: Teachings
-    url: '/teaching/teachings'
+    url: '/teaching/teachinglist'
     weight: 40
   - name: Services
-    url: '/service/services'
+    url: '/service/servicelist'
     weight: 50
   - name: Talks
-    url: '/talk/talks'
+    url: '/talk/talklist'
     weight: 60
   - name: Awards
-    url: '/award/awards'
+    url: '/award/awardlist'
     weight: 70
   - name: Resources
-    url: '/resource/resources'
+    url: '/resource/resourcelist'
     weight: 80
   # - name: Contact
   #   url: '#contact'
