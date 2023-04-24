@@ -9,8 +9,11 @@ draft = false
 - NeurIPS 2021 workshop on [Efficient Natural Language and Speech Processing](https://neurips2021-nlp.github.io/)
 - NAACL 2022 tutorial on [Text Generation with Text-Editing Models](https://text-editing.github.io/)
 
+### Senior Area Chair
+- IJCNLP-AACL 2023 Generation and Summarization Track
+
 ### Area Chair
-- NLPCC 2023 Summarization and Generation Track
+- NLPCC 2023 Generation and Summarization Track
 - EMNLP 2022 Summarization Track
 - ACL 2021 Nov. Rolling Review
 
