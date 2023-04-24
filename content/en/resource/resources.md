@@ -13,4 +13,4 @@ header:
 ---
 
 
-{{< readfromfile "/content/en/service/servicelist.md" 1000 >}} 
+{{< readfromfile "/content/en/resource/resourcelist.md" 1000 >}} 
