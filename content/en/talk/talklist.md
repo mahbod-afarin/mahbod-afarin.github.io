@@ -2,7 +2,7 @@
 draft = false
 +++
 What future do we want with Artificial Intelligence?
-- [TEDx UCR](https://www.tedxucr.org/)
+- [TEDx UCR](https://www.tedxucr.org/) - Riverside, May 18 2023
 
 Robust and Trustworthy NLP Through The Lens of Text Summarization 
 - Invited Talk at University of California - Riverside, March 2021
