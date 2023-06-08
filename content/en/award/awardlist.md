@@ -1,7 +1,11 @@
 +++
 draft = false
 +++
+### Fundings: 
+- UCR OASIS Internal Funding Awards, June 2023 
 
+
+### Academic Awards: 
 - Alexander Graham Bell Canada Graduate Scholarship - Doctoral (CGS D) - Accepted, 2018-2019
 - [<span style="color:red"> **Best Paper Award** </span>] at Canadian conference on artificial intelligence
 - NSERC Postgraduate Scholarship - Doctoral (PGS D) - Accepted, 2017-2018
