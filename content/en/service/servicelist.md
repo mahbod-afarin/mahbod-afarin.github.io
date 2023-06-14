@@ -15,7 +15,7 @@ draft = false
 
 ### Area Chair
 - NLPCC 2023 Generation and Summarization Track
-- EMNLP 2022 Summarization Track
+- EMNLP 2023, 2022 Summarization Track
 - ACL 2021 Nov. Rolling Review
 
 ### Reviewer
