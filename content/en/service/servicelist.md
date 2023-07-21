@@ -21,7 +21,7 @@ draft = false
 
 ### Reviewer
 - 2023: ACL, IJCAI, NeurIPS, NeurIPS Workshop Proposals
-- 2022: ARR
+- 2022: ARR, COLING
 - 2021: ACL
 - 2020: COLING, EMNLP, IJCAI, ACL
 - 2019: EMNLP, ACL, IJCAI
