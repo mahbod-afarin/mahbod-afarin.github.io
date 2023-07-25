@@ -2,6 +2,7 @@
 draft = false
 +++
 ### Fundings: 
+- Regents Faculty Fellowship grant, July 2023
 - UCR OASIS Internal Funding Awards, June 2023 
 
 
