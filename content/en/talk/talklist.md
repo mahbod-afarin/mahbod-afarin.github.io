@@ -2,6 +2,9 @@
 draft = false
 +++
 
+- Introduction to Large Language Models 
+- Readlands & UCR Higher School AI Academy- Riverside CA, July 2023
+
 Biasly - AI to detect and correct misogynistic language (AI for Humanity)
 - AI4Good Lab - Montreal (remote), June 2023
 
