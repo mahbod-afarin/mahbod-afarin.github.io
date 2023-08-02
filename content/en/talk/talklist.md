@@ -1,6 +1,15 @@
 +++
 draft = false
 +++
+- Fast Text Generation with Text-Editing Models 
+- KDD Tutorial - Long Beach CA, August 2023
+
+- Revolutionizing the Future: Large Language Models & AI Unleashed 
+- KDD SoCal Day - Long Beach CA, August 2023
+
+- Revolutionizing the Future: Large Language Models & AI Unleashed 
+- UCR REU - Riverside CA, August 2023
+
 
 - Introduction to Large Language Models 
 - Readlands & UCR Higher School AI Academy- Riverside CA, July 2023
