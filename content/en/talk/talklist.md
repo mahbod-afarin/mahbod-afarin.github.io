@@ -9,7 +9,7 @@ Biasly - AI to detect and correct misogynistic language (AI for Humanity)
 - AI4Good Lab - Montreal (remote), June 2023
 
 What future do we want with Artificial Intelligence?
-- [TEDx UCR](https://www.tedxucr.org/) - Riverside, May 18 2023
+- [TEDx UCR](https://www.tedxucr.org/) [Youtube](https://www.youtube.com/watch?v=w5fmMcrwk_I) - Riverside, May 18 2023
 
 Robust and Trustworthy NLP Through The Lens of Text Summarization 
 - Invited Talk at University of California - Riverside, March 2021
