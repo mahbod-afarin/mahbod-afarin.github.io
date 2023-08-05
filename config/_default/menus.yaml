@@ -10,24 +10,27 @@ main:
   - name: News
     url: 'news/newslist'
     weight: 20
-  - name: Publications
-    url: '/publication'
+  - name: Students
+    url: '/students/studentslist'
     weight: 30
+  - name: Students
+    url: '/publication'
+    weight: 40
   - name: Teachings
     url: '/teaching/teachinglist'
-    weight: 40
+    weight: 50
   - name: Services
     url: '/service/servicelist'
-    weight: 50
+    weight: 60
   - name: Talks
     url: '/talk/talklist'
-    weight: 60
+    weight: 70
   - name: Awards
     url: '/award/awardlist'
-    weight: 70
+    weight: 80
   - name: Resources
     url: '/resource/resourcelist'
-    weight: 80
+    weight: 90
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
