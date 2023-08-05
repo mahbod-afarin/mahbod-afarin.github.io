@@ -8,7 +8,7 @@ draft = false
 - [Erfan Shayegani](https://erfanshayegani.github.io/) (co-advise with [Dr. Nael B. Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/)), since Summer 2023
 
 
-### Master students 
+### MSc students 
 - Niyathi Allu 
 - Priyanshu Sharma
 - Lohith Kumar Bhambore
