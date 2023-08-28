@@ -13,9 +13,6 @@ main:
   - name: Students
     url: '/students/studentslist'
     weight: 30
-  - name: Research
-    url: '/project'
-    weight: 40
   - name: Publications
     url: '/publication'
     weight: 50
