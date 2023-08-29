@@ -2,7 +2,7 @@
 draft = false
 +++
 
-### Lab Members 
+## Lab Members 
 
 #### Director 
 Yue Dong, assistant professor of computer science and engineering 
@@ -19,14 +19,14 @@ Yue Dong, assistant professor of computer science and engineering
 - Lohith Kumar Bhambore
 
 
-### Research 
+## Research 
 
 The primary research objective of the UCR NLP lab is to create **trustworthy, controllable, and safe** natural language processing tools that can understand, reason, and produce human-like texts. The trustworthiness encompasses multiple facets, including producing useful but harmless content (**AI safety**), being detectable for responsible use (**AI detection**), being fair towards different social groups (**AI fairness**), and being factual with respect to context and world knowledge (**hallucination reduction**). To meet this objective, we are committed to interdisciplinary research, incorporating methods and tools from natural language processing, machine learning, reinforcement learning, explainable AI, cybersecurity, optimization, and computer vision. Following are some selected research areas we focus on.
 
 
 #### Trustworthy NLP - Hallucination Reduction 
 
-{{< figure src="/phd_defense/phd_defense_committee_in_person_snap.JPG" >}}
+{{< figure src="/figs/resum.JPG" >}}
 
 The main trustworthy aspect that our research lab is interested in pertains to the study of natural language understanding and generation. We aim to gain insight into why models hallucinate and how facts are processed in deep neural networks. Additionally, our research has been focused on hallucination reduction techniques for conditional text generation, particularly in the areas of text summarization and dialogue.
 
@@ -48,10 +48,10 @@ Previously Proposed methods include (i) using weakly supervised learning for fac
 Large language models are demonstrating cutting-edge performance across a diverse range of application domains. However, the widespread implementation of these models (e.g., GPT-4) into autonomous systems is hindered by their vulnerability to adversarial attacks in the field of machine learning. Adversaries can introduce subtle alterations into input data, causing the model to make erroneous classifications or harmful generations. This vulnerability can lead to hazardous consequences, exemplified by instances where a stop sign might be misconstrued as a speed limit sign, or where generative models instruct individuals on creating explosives or influencing elections.
 
 One emerging trend involves integrating various types of data—such as text, images, and audio—into large language models. However, the inclusion of publicly available vision encoders like CLIP (Contrastive Language–Image Pre-training) into these complex systems introduces an underexplored vulnerability: it allows adversaries to exploit the system even with black-box access. As detailed in our paper (http://arxiv.org/abs/2307.14539), this vulnerability presents significant security risks for a wide range of applications that depend on multi-modal models. 
-{{< figure src="/phd_defense/phd_defense_committee_in_person_snap.JPG" >}}
+{{< figure src="/figs/llm-sec1.JPG" >}}
 
 Additionally, humans have the ability to identify and fix problematic text triggers. However, our plug-and-play adversarial attack embeds these prompts within seemingly harmless images. This makes the attack difficult to patch and highly adaptable across platforms. As a result, these concealed prompts can guide language models to act maliciously in systems that handle both text and images.  #LLMs #AIsafety #NLProc
-{{< figure src="/phd_defense/phd_defense_committee_in_person_snap.JPG" >}}
+{{< figure src="/figs/llm-sec2.JPG" >}}
 
 **Related paper:**
 - Plug and Pray: Exploiting off-the-shelf components of Multi-Modal Models, Shayegani, E., Dong, Y., Abu-Ghazaleh, N., arXiv preprint arXiv:2307.14539
@@ -62,7 +62,7 @@ The increasing prevalence of new iterations of generative AI models, which learn
 
 
 To mitigate potential risks associated with language models (LMs), recent AI detection research proposes incorporating watermarks into machine-generated text through random vocabulary restrictions and utilizing this information for detection. In this paper, we show that watermarking algorithms designed for LMs cannot be seamlessly applied to conditional text generation (CTG) tasks without a notable decline in downstream task performance. To address this issue, we introduce a simple yet effective semantic-aware watermarking algorithm that considers the characteristics of conditional text generation with the input context. Compared to the baseline watermarks, our proposed watermark yields significant improvements in both automatic and human evaluations across various text generation models, including BART and Flan-T5, for CTG tasks such as summarization and data-to-text generation. Meanwhile, it maintains detection ability with higher z-scores but lower AUC scores, suggesting the presence of a detection paradox that poses additional challenges for watermarking CTG. 
-{{< figure src="/phd_defense/phd_defense_committee_in_person_snap.JPG" >}}
+{{< figure src="/figs/watermark.JPG" >}}
 
 **Related paper:**
 - Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy, Fu, Y., Xiong, D., Dong, Y., arXiv preprint arXiv:2307.13808
