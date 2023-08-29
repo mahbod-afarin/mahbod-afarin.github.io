@@ -13,4 +13,4 @@ header:
 ---
 
 
-{{< readfromfile "/content/en/students/studentslist.md" 1000 >}} 
+{{< readfromfile "/content/en/lab/lablist.md" 1000 >}} 
