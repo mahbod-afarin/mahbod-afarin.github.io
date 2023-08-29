@@ -52,15 +52,15 @@ Previously Proposed methods include (i) using weakly supervised learning for fac
 
 **Large Language Models (LLMs) Vulnerability:** Large language models are demonstrating cutting-edge performance across a diverse range of application domains. However, the widespread implementation of these models (e.g., GPT-4) into autonomous systems is hindered by their vulnerability to adversarial attacks in the field of machine learning. Adversaries can introduce subtle alterations into input data, causing the model to make erroneous classifications or harmful generations. 
 
-**Adversarial attacks:** One emerging trend in generative AI involves integrating various types of data—such as images and audio—into into text-based LLMs. However, the inclusion of additional modality introduces underexplored vulnerabilities: it allows adversaries to exploit the system even with black-box access of LLMs. As detailed in our paper (http://arxiv.org/abs/2307.14539), this vulnerability presents significant security risks for a wide range of applications that depend on multi-modal models. 
+**Adversarial attacks:** One emerging trend in generative AI involves integrating various types of data—such as images and audio—into into text-based LLMs. However, the inclusion of additional modality introduces underexplored vulnerabilities: it allows adversaries to exploit the system even with black-box access of LLMs. As detailed in our paper (https://arxiv.org/abs/2307.14539), this vulnerability presents significant security risks for a wide range of applications that depend on multi-modal models. 
 {{< figure src="/figs/llm-sec1.JPG" >}}
 
-**Hidden adversarial attacks:** Additionally, humans have the ability to identify and fix problematic adversarial text attacks. However, our plug-and-play adversarial attack embeds these prompts within seemingly harmless images. This makes the attack difficult to patch and highly adaptable across platforms. As a result, these concealed prompts can guide language models to act maliciously in systems that handle both text and images.  #LLMs #AIsafety #NLProc
+**Hidden adversarial attacks:** Additionally, humans have the ability to identify and fix problematic adversarial text attacks. However, our plug-and-play adversarial attack embeds these prompts within seemingly harmless images. This makes the attack difficult to patch and highly adaptable across systems. As a result, these concealed prompts can guide language models to act maliciously in systems that handle both text and images.  #LLMs #AIsafety #NLProc
 
 {{< figure src="/figs/llm-seq2.JPG" >}}
 
 **Related paper:**
-- Plug and Pray: Exploiting off-the-shelf components of Multi-Modal Models, Shayegani, E., Dong, Y., Abu-Ghazaleh, N., arXiv preprint arXiv:2307.14539
+- Plug and Pray: Exploiting off-the-shelf components of Multi-Modal Models, Shayegani, E., Dong, Y., Abu-Ghazaleh, N., [arXiv preprint](https://arxiv.org/abs/2307.14539) 
 
 
 
@@ -73,8 +73,7 @@ The increasing prevalence of new iterations of generative AI models has also rai
 
 
 **Related paper:**
-- Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy, Fu, Y., Xiong, D., Dong, Y., arXiv preprint arXiv:2307.13808
-
+- Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy, Fu, Y., Xiong, D., Dong, Y., [arXiv preprint](https://arxiv.org/abs/2307.13808) 
 
 
 
