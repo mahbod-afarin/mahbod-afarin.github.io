@@ -68,7 +68,7 @@ To mitigate potential risks associated with language models (LMs), recent AI det
 
 **Related paper:**
 
-Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy, Fu, Y., Xiong, D., Dong, Y., arXiv preprint arXiv:2307.13808
+**Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy**, Fu, Y., Xiong, D., Dong, Y., arXiv preprint arXiv:2307.13808
 
 
 
