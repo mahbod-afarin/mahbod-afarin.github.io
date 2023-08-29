@@ -40,11 +40,11 @@ Previously Proposed methods include (i) using weakly supervised learning for fac
 
 
 **Related paper:**
-- [1] Factual Error Correction for Abstractive Summarization Models.  Cao, M., Dong, Y., Wu, J., & Cheung, J.   EMNLP 2020
-- [2] Multi-Fact Correction in Abstractive Text Summarization. Dong, Y., Wang, S., Gan, Z., Cheng, Y., Cheung, J. , & Liu, J.  EMNLP2020
-- [3] Faithful to the Document or to the World? Mitigating Hallucinations via Entity-Linked Knowledge in Abstractive Summarization. Dong, Y.,  Wieting, J., Verga, P. Findings of EMNLP 2022.
-- [4] Learning with Rejection for Abstractive Text Summarization.Cao, M., Dong, Y., He, J., & Cheung, J.  EMNLP 2022
-- [5] Hallucinated but Factual! Inspecting the Factuality of Hallucinations in Abstractive Summarization. Cao, M., Dong, Y., & Cheung, J.  ACL 2022.
+- [1] [Factual Error Correction for Abstractive Summarization Models.](https://aclanthology.org/2020.emnlp-main.506/)  Cao, M., Dong, Y., Wu, J., & Cheung, J.   EMNLP 2020
+- [2] [Multi-Fact Correction in Abstractive Text Summarization.](https://aclanthology.org/2020.emnlp-main.749/) Dong, Y., Wang, S., Gan, Z., Cheng, Y., Cheung, J. , & Liu, J.  EMNLP2020
+- [3] [Faithful to the Document or to the World? Mitigating Hallucinations via Entity-Linked Knowledge in Abstractive Summarization.](https://aclanthology.org/2022.findings-emnlp.76/) Dong, Y.,  Wieting, J., Verga, P. Findings of EMNLP 2022.
+- [4] [Learning with Rejection for Abstractive Text Summarization.](https://aclanthology.org/2022.emnlp-main.663/) Cao, M., Dong, Y., He, J., & Cheung, J.  EMNLP 2022
+- [5] [Hallucinated but Factual! Inspecting the Factuality of Hallucinations in Abstractive Summarization.](https://aclanthology.org/2022.acl-long.236/) Cao, M., Dong, Y., & Cheung, J.  ACL 2022.
 
 
 
