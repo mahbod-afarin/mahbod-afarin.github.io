@@ -21,7 +21,7 @@ Yue Dong, assistant professor of computer science and engineering
 
 ### Research 
 
-The primary research objective of the UCR NLP lab is to create trustworthy, controllable, and safe natural language processing tools that can understand, reason, and produce human-like texts. The trustworthiness encompasses multiple facets, including producing useful but harmless content (AI safety), being detectable for responsible use (AI detection), being fair towards different social groups (AI fairness), and being factual with respect to context and world knowledge (hallucination reduction). To meet this objective, we are committed to interdisciplinary research, incorporating methods and tools from natural language processing, machine learning, reinforcement learning, explainable AI, cybersecurity, optimization, and computer vision. Following are some selected research areas we focus on.
+The primary research objective of the UCR NLP lab is to create **trustworthy, controllable, and safe** natural language processing tools that can understand, reason, and produce human-like texts. The trustworthiness encompasses multiple facets, including producing useful but harmless content (**AI safety**), being detectable for responsible use (**AI detection**), being fair towards different social groups (**AI fairness**), and being factual with respect to context and world knowledge (**hallucination reduction**). To meet this objective, we are committed to interdisciplinary research, incorporating methods and tools from natural language processing, machine learning, reinforcement learning, explainable AI, cybersecurity, optimization, and computer vision. Following are some selected research areas we focus on.
 
 
 #### Trustworthy NLP - Hallucination Reduction 
