@@ -40,11 +40,11 @@ Previously Proposed methods include (i) using weakly supervised learning for fac
 
 
 **Related paper:**
-- [1] [Factual Error Correction for Abstractive Summarization Models.](https://aclanthology.org/2020.emnlp-main.506/)  Cao, M., Dong, Y., Wu, J., & Cheung, J.   EMNLP 2020
-- [2] [Multi-Fact Correction in Abstractive Text Summarization.](https://aclanthology.org/2020.emnlp-main.749/) Dong, Y., Wang, S., Gan, Z., Cheng, Y., Cheung, J. , & Liu, J.  EMNLP2020
-- [3] [Faithful to the Document or to the World? Mitigating Hallucinations via Entity-Linked Knowledge in Abstractive Summarization.](https://aclanthology.org/2022.findings-emnlp.76/) Dong, Y.,  Wieting, J., Verga, P. Findings of EMNLP 2022.
-- [4] [Learning with Rejection for Abstractive Text Summarization.](https://aclanthology.org/2022.emnlp-main.663/) Cao, M., Dong, Y., He, J., & Cheung, J.  EMNLP 2022
-- [5] [Hallucinated but Factual! Inspecting the Factuality of Hallucinations in Abstractive Summarization.](https://aclanthology.org/2022.acl-long.236/) Cao, M., Dong, Y., & Cheung, J.  ACL 2022.
+- [1] [Factual Error Correction for Abstractive Summarization Models.](https://aclanthology.org/2020.emnlp-main.506/)  Cao, M., Dong, Y., Wu, J., & Cheung, J.   *EMNLP 2020*
+- [2] [Multi-Fact Correction in Abstractive Text Summarization.](https://aclanthology.org/2020.emnlp-main.749/) Dong, Y., Wang, S., Gan, Z., Cheng, Y., Cheung, J. , & Liu, J.  *EMNLP 2020*
+- [3] [Faithful to the Document or to the World? Mitigating Hallucinations via Entity-Linked Knowledge in Abstractive Summarization.](https://aclanthology.org/2022.findings-emnlp.76/) Dong, Y.,  Wieting, J., Verga, P. *Findings of EMNLP 2022*
+- [4] [Learning with Rejection for Abstractive Text Summarization.](https://aclanthology.org/2022.emnlp-main.663/) Cao, M., Dong, Y., He, J., & Cheung, J.  *EMNLP 2022*
+- [5] [Hallucinated but Factual! Inspecting the Factuality of Hallucinations in Abstractive Summarization.](https://aclanthology.org/2022.acl-long.236/) Cao, M., Dong, Y., & Cheung, J.  *ACL 2022*
 
 
 
@@ -55,12 +55,12 @@ Previously Proposed methods include (i) using weakly supervised learning for fac
 **Adversarial attacks:** One emerging trend in generative AI involves integrating various types of data—such as images and audio—into into text-based LLMs. However, the inclusion of additional modality introduces underexplored vulnerabilities: it allows adversaries to exploit the system even with black-box access of LLMs. As detailed in our paper (https://arxiv.org/abs/2307.14539), this vulnerability presents significant security risks for a wide range of applications that depend on multi-modal models. 
 {{< figure src="/figs/llm-sec1.JPG" >}}
 
-**Hidden adversarial attacks:** Additionally, humans have the ability to identify and fix problematic adversarial text attacks. However, our plug-and-play adversarial attack embeds these prompts within seemingly harmless images. This makes the attack difficult to patch and highly adaptable across systems. As a result, these concealed prompts can guide language models to act maliciously in systems that handle both text and images.  #LLMs #AIsafety #NLProc
+**Hidden adversarial attacks:** Additionally, humans have the ability to identify and fix problematic adversarial text attacks. However, our plug-and-play adversarial attack embeds these prompts within seemingly harmless images. This makes the attack difficult to patch and highly adaptable across systems. As a result, these concealed prompts can guide language models to act maliciously in systems that handle both text and images. 
 
 {{< figure src="/figs/llm-seq2.JPG" >}}
 
 **Related paper:**
-- Plug and Pray: Exploiting off-the-shelf components of Multi-Modal Models, Shayegani, E., Dong, Y., Abu-Ghazaleh, N., [arXiv preprint](https://arxiv.org/abs/2307.14539) 
+- [Plug and Pray: Exploiting off-the-shelf components of Multi-Modal Models.](https://arxiv.org/abs/2307.14539) Shayegani, E., Dong, Y., Abu-Ghazaleh, N. *arXiv preprint*
 
 
 
@@ -73,7 +73,7 @@ The increasing prevalence of new iterations of generative AI models has also rai
 
 
 **Related paper:**
-- Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy, Fu, Y., Xiong, D., Dong, Y., [arXiv preprint](https://arxiv.org/abs/2307.13808) 
-
+- [Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy.](https://arxiv.org/abs/2307.13808) 
+ Fu, Y., Xiong, D., Dong, Y. *arXiv preprint*
 
 
