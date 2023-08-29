@@ -10,8 +10,8 @@ main:
   - name: News
     url: 'news/newslist'
     weight: 20
-  - name: Students
-    url: '/students/studentslist'
+  - name: Lab
+    url: '/lab/lablist'
     weight: 30
   - name: Publications
     url: '/publication'

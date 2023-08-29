@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Students"
-subtitle = "[Full List>>](/students/studentslist)"
+subtitle = "[Full List>>](/lab/lablist)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,4 +50,4 @@ subtitle = "[Full List>>](/students/studentslist)"
  css_class = ""
 +++
 
-{{< readfromfile "/content/en/students/studentslist.md" 15 >}} 
+{{< readfromfile "/content/en/lab/lablist.md" 15 >}} 
