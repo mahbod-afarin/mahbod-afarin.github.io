@@ -60,7 +60,7 @@ Previously Proposed methods include (i) using weakly supervised learning for fac
 {{< figure src="/figs/llm-seq2.JPG" >}}
 
 **Related paper:**
-- [NLP Tutorial](https://llm-vulnerability.github.io/)
+- [NLP Tutorial:Vulnerabilities of Large Language Models to Adversarial Attacks](https://llm-vulnerability.github.io/)
 - [Plug and Pray: Exploiting off-the-shelf components of Multi-Modal Models.](https://arxiv.org/abs/2307.14539) Shayegani, E., Dong, Y., Abu-Ghazaleh, N. *arXiv preprint*
 
 
