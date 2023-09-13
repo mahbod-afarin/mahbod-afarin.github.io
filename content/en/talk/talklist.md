@@ -1,6 +1,13 @@
 +++
 draft = false
 +++
+
+[Academic Perspectives on ChatGPT](https://www.niss.org/events/academic-perspectives-chatgpt)
+- National Institute of Statistical Sciences (NISS) Webinar, Sep. 2023 
+
+[Panel: Artificial Intelligence (AI) in Higher Education](https://brand.ucr.edu/conference-2023#11-1145-am-morning-sessions)
+- UCR Marketing & Communications Conference 2023, Sep. 2023
+
 Fast Text Generation with Text-Editing Models 
 - KDD Tutorial - Long Beach CA, August 2023
 
