@@ -4,26 +4,20 @@ draft = false
 
 ## Invited talks
 
-Exploring Safety in Large Language Models
-- Convention of Jiaotong University Alumni Association in SoCal （交通大学南加州校友会80周年庆）, Nov. 2023
+- "Exploring Safety in Large Language Models," 80th Annual Convention of Jiaotong University Alumni Association in SoCal (交通大学南加州校友会80周年庆), Los Angeles, CA, November 2023
 
-Introduction to Large Language Models 
-- Readlands & UCR Higher School AI Academy- Riverside CA, July 2023
+- "Introduction to Large Language Models," Readlands & UCR Higher School AI Academy, Riverside, CA, July 2023
 
-Fast Text Generation with Text-Editing Models 
-- KDD Tutorial - Long Beach CA, August 2023
+- "Fast Text Generation with Text-Editing Models," KDD Tutorial, Long Beach, CA, August 2023
 
-Safeguarding the Potential: Exploring Safety and Vulnerability in Large Language Models
-- KDD SoCal Day - Long Beach CA, August 2023
+- "Safeguarding the Potential: Exploring Safety and Vulnerability in Large Language Models," KDD SoCal Day, Long Beach, CA, August 2023
 
-Revolutionizing the Future: Large Language Models & AI Unleashed 
-- UCR REU - Riverside CA, August 2023
+- "Revolutionizing the Future: Large Language Models & AI Unleashed," UCR REU, Riverside, CA, August 2023
 
-What future do we want with Artificial Intelligence?
-- [TEDx UCR](https://www.tedxucr.org/) [Youtube](https://www.youtube.com/watch?v=w5fmMcrwk_I) - Riverside, May 18 2023
+- "What Future Do We Want with Artificial Intelligence?" [TEDx UCR](https://www.tedxucr.org/) | [YouTube](https://www.youtube.com/watch?v=w5fmMcrwk_I), Riverside, CA, May 18, 2023
 
 
-Robust and Trustworthy NLP Through The Lens of Text Summarization 
+"Robust and Trustworthy NLP Through The Lens of Text Summarization"
 - Invited Talk at University of California - Riverside, March 2021
 - Invited Talk at University of National University of Singapore, March 2021
 - Invited Talk at Google AI, March 2021
