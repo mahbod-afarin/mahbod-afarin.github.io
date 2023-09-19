@@ -34,6 +34,5 @@ draft = false
 
 - [09/2023] **[Panel: Artificial Intelligence (AI) in Higher Education](https://brand.ucr.edu/conference-2023#11-1145-am-morning-sessions)**, *UCR Marketing & Communications Conference 2023*
 
-
 - [06/2023] **Biasly - AI to detect and correct misogynistic language (AI for Humanity)**,*AI4Good Lab*, Montreal Canada (remote)
 
