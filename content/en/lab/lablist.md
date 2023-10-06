@@ -11,7 +11,7 @@ draft = false
 Yue Dong, assistant professor of computer science and engineering 
 
 #### PhD Students 
-- Yu Fu, since Fall 2023
+- [Yu Fu](https://fyyfu.github.io/), since Fall 2023
 - Zehao Wang (co-advise with [Dr. Heng Yin](https://www.cs.ucr.edu/~heng/)), since Fall 2023
 - [Erfan Shayegani](https://erfanshayegani.github.io/) (co-advise with [Dr. Nael B. Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/)), since Summer 2023
 
