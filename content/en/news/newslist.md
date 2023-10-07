@@ -1,7 +1,7 @@
 +++
 draft = false
 +++
-- [10/2023] Our paper 'Inverse Reinforcement Learning for Text Summarization' led by my PhD student [Yu Fu]((https://fyyfu.github.io/), has been accepted to the findings of EMNLP 2023. 
+- [10/2023] Our paper [Inverse Reinforcement Learning for Text Summarization](https://arxiv.org/abs/2212.09917) led by my PhD student [Yu Fu](https://fyyfu.github.io/) has been accepted to the findings of EMNLP 2023. Congrats!
 - [10/2023] Our tutorial on [Vulnerabilities of Large Language Models to Adversarial Attacks](https://llm-vulnerability.github.io/) has been accepted for ACL 2024.  
 - [07/2023] I was awarded a **Regents Faculty Fellowship** grant 2023-2024!
 - [06/2023] I was selected for **UCR OASIS Internal Funding Awards** 2023-2024!
