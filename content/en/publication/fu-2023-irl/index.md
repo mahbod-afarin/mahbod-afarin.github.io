@@ -32,11 +32,11 @@ projects: []
 publishDate: '2022-07-18T23:57:59.485338Z'
 publication_types:
 - '1'
-abstract: 'Current state-of-the-art summarization models are trained with either maximum likelihood estimation (MLE) or reinforcement learning (RL). In this study, we investigate the third training paradigm and argue that inverse reinforcement learning (IRL) may be more suitable for text summarization. IRL focuses on estimating the reward function of an agent, given a set of observations of that agent's behavior. Generally, IRL provides advantages in situations where the reward function is not explicitly known or where it is difficult to define or interact with the environment directly. These situations are exactly what we observe in summarization. Thus, we introduce inverse reinforcement learning into text summarization and define a suite of sub-rewards that are important for summarization optimization. By simultaneously estimating the reward function and optimizing the summarization agent with expert demonstrations, we show that the model trained with IRL produces summaries that closely follow human behavior, in terms of better ROUGE, coverage, novelty, compression ratio and factuality when compared to the baselines trained with MLE and RL.'
-publication: '*Findings of Empirical Methods of Natural Language Processing (EMNLP)*'
+abstract: 'Despite recent advances in abstractive summarization, current summarization systems still suffer from content hallucinations where models generate text that is either irrelevant or contradictory to the source document. However, prior work has been predicated on the assumption that any generated facts not appearing explicitly in the source are undesired hallucinations. Methods have been proposed to address this scenario by ultimately improving faithfulness to the source document, but in reality, there is a large portion of entities in the gold reference targets that are not directly in the source. In this work, we show that these entities are not aberrations, but they instead require utilizing external world knowledge to infer reasoning paths from entities in the source. We show that by utilizing an external knowledge base, we can improve the faithfulness of summaries without simply making them more extractive, and additionally, we show that external knowledge bases linked from the source can benefit the factuality of generated summaries.'
+publication: '*Findings of Empirical Methods of Natural Language Processing (Findings of EMNLP)*'
 links:
 - name: Arxiv
-  url: https://arxiv.org/abs/2212.09917
+  url: https://arxiv.org/abs/2204.13761
 - name: ACL Anthology
-  url: https://arxiv.org/abs/2212.09917
+  url: https://arxiv.org/abs/2204.13761
 ---
