@@ -38,5 +38,5 @@ links:
 - name: Arxiv
   url: https://arxiv.org/abs/2212.09917
 - name: ACL Anthology
-  url: 
+  url: https://arxiv.org/abs/2212.09917
 ---
