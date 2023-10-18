@@ -6,9 +6,6 @@ draft = false
 - [11/2023] **Exploring Safety in Large Language Models**
   - *80th Annual Convention of Jiaotong University Alumni Association in SoCal (交通大学南加州校友会80周年庆)*, Los Angeles, CA, US
 
-- [07/2023] **Introduction to Large Language Models**
-  - *Redlands & UCR Higher School AI Academy*, Riverside, CA, US
-
 - [08/2023] **Fast Text Generation with Text-Editing Models**
   - *KDD Tutorial*, Long Beach, CA, US
 
@@ -17,6 +14,9 @@ draft = false
 
 - [08/2023] **Large Language Models & AI Unleashed**
   - *UCR REU*, Riverside, CA, US
+
+- [07/2023] **Introduction to Large Language Models**
+  - *Redlands & UCR Higher School AI Academy*, Riverside, CA, US
 
 - [05/18/2023] **What Future Do We Want with Artificial Intelligence?**
   - [*TEDx UCR*](https://www.tedxucr.org/) | [*YouTube*](https://www.youtube.com/watch?v=w5fmMcrwk_I), Riverside, CA, US
@@ -32,6 +32,9 @@ draft = false
   - Queen's University, January 2021, Kingston, Canada
 
 ## Panelists 
+
+- [10/2023] **[Impact of Generative AI](https://events.ucr.edu/event/impact_of_generative_ai)**
+  - *UCR BCOE Council of Advisors meeting,* [Tweet](https://twitter.com/UCRBCOE/status/1712966536221413883)
 
 - [09/2023] **[Academic Perspectives on ChatGPT](https://www.niss.org/events/academic-perspectives-chatgpt)**
   - *National Institute of Statistical Sciences (NISS) Webinar*
