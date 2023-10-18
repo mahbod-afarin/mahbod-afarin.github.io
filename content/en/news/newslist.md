@@ -1,7 +1,11 @@
 +++
 draft = false
 +++
-- [05/2023] Our proposal of KDD 2023 tutorial on Fast Text Generation with Text-Editing Models has been accepted
+- [10/2023] Our paper [Inverse Reinforcement Learning for Text Summarization](https://arxiv.org/abs/2212.09917) led by my PhD student [Yu Fu](https://fyyfu.github.io/) has been accepted to the findings of EMNLP 2023. Congrats!
+- [10/2023] Our tutorial on [Vulnerabilities of Large Language Models to Adversarial Attacks](https://llm-vulnerability.github.io/) has been accepted for ACL 2024.  
+- [07/2023] I was awarded a **Regents Faculty Fellowship** grant 2023-2024!
+- [06/2023] I was selected for **UCR OASIS Internal Funding Awards** 2023-2024!
+- [05/2023] Our proposal of KDD 2023 tutorial on [Fast Text Generation with Text-Editing Models](https://kdd2023-text-editing.github.io/) has been accepted
 -   [04/2023] Thrilled to join [the Biasly team at Mila](https://mila.quebec/en/project/biasly/) as a visiting NLP advisor, working on AI for humanity and to mitigate gender biases in language models
 -   [03/2023] Our application to form a special interest group on summarization has been accepted by [ACL](https://www.aclweb.org/adminwiki/index.php?title=SIG_Compliance#SIGSUMM:_SIG_on_Summarization). Checkout the newest ACL's SIG - [SIGSUMM](https://www.sigsumm.org)
 -   [01/2023] Expressed my opinions about [chatGPT for education @UCR News](https://news.ucr.edu/articles/2023/01/24/chatgpt-threat-education)
