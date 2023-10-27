@@ -44,3 +44,7 @@ draft = false
 
 - [06/2023] **Biasly - AI to detect and correct misogynistic language**
   - *AI4Good Lab*, Montreal, Canada (remote)
+
+## Media Interviews
+
+- [10/2023] **[Faculty members discuss AI’s possible impacts at UCR - UCR News](https://news.ucr.edu/articles/2023/10/03/faculty-members-discuss-ais-possible-impacts-ucr?utm_source=UC+Riverside+Master+List&utm_campaign=b890962bb7-EMAIL_CAMPAIGN_2023_10_26_05_26&utm_medium=email&utm_term=0_-b890962bb7-%5BLIST_EMAIL_ID%5D)**
