@@ -1,6 +1,7 @@
 +++
 draft = false
 +++
+- [10/2023] Our paper "Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset" has been accepted as a **spotlight** submission at [NeurIPS 2023 SoLaR Workshop](https://solar-neurips.github.io/)!
 - [10/2023] Check out the UCR news on [Faculty members discuss AI’s possible impacts at UCR](https://news.ucr.edu/articles/2023/10/03/faculty-members-discuss-ais-possible-impacts-ucr?utm_source=UC+Riverside+Master+List&utm_campaign=b890962bb7-EMAIL_CAMPAIGN_2023_10_26_05_26&utm_medium=email&utm_term=0_-b890962bb7-%5BLIST_EMAIL_ID%5D).
 - [10/2023] I am honored to serve as a senior area chair for [NAACL 2024](https://2024.naacl.org/)!
 - [10/2023] Our paper [Inverse Reinforcement Learning for Text Summarization](https://arxiv.org/abs/2212.09917) led by my PhD student [Yu Fu](https://fyyfu.github.io/) has been accepted to the findings of EMNLP 2023. Congrats!
