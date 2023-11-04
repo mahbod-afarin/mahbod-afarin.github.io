@@ -6,6 +6,9 @@ draft = false
 - [11/2023] **Exploring Safety in Large Language Models**
   - *80th Annual Convention of Jiaotong University Alumni Association in SoCal (交通大学南加州校友会80周年庆)*, Los Angeles, CA, US
 
+- [11/04/2023] **AI and Large Language Models**
+  - *UCR Family Day/Homecoming seminar*, Riverside CA, US
+
 - [08/2023] **Fast Text Generation with Text-Editing Models**
   - *KDD Tutorial*, Long Beach, CA, US
 
