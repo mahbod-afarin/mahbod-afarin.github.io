@@ -3,7 +3,7 @@ draft = false
 +++
 
 ## Invited talks
-- [11/2023] **Exploring Safety in Large Language Models**
+- [11/2023] **Exploring Safety in Large Language Models [*YouTube* starts at 40:30 mins](https://www.youtube.com/watch?v=5OUuRbnEUsc)**
   - *80th Annual Convention of Jiaotong University Alumni Association in SoCal (交通大学南加州校友会80周年庆)*, Los Angeles, CA, US
 
 - [11/04/2023] **AI and Large Language Models**
