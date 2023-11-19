@@ -7,6 +7,7 @@ draft = false
 
 
 ### Academic Awards: 
+- Best Paper Award, Southern California NLP Symposium, 2023 
 - Alexander Graham Bell Canada Graduate Scholarship - Doctoral (CGS D) - Accepted, 2018-2019
 - [<span style="color:red"> **Best Paper Award** </span>] at Canadian conference on artificial intelligence
 - NSERC Postgraduate Scholarship - Doctoral (PGS D) - Accepted, 2017-2018
