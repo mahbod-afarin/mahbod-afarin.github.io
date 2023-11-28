@@ -19,7 +19,7 @@ Yue Dong, assistant professor of computer science and engineering
 #### MSc Students 
 - Niyathi Allu 
 - Priyanshu Sharma
-- Lohith Kumar Bhambore
+
 
 
 
