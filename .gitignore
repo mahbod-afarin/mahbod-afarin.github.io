@@ -10,3 +10,4 @@ go.sum
 .hugo_build.lock
 content/en/publication/.DS_Store
 content/en/publication/.DS_Store
+content/en/.DS_Store
