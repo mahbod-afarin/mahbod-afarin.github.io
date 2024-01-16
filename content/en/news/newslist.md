@@ -1,11 +1,11 @@
 +++
 draft = false
 +++
-- [1/2024] Our paper [Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models](https://arxiv.org/abs/2307.14539), with [Erfan Shayegani](https://erfanshayegani.github.io/) and [Nael Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/), has been accepted into ICLR 24 as a spotlight paper (5\% of papers), Congrats!
+- [1/2024] Our paper [Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models](https://arxiv.org/abs/2307.14539) has been accepted into ICLR 24 as a spotlight paper (5\% of papers), Congrats! This paper also featured on [UCR news](https://news.ucr.edu/articles/2024/01/09/ucr-outs-security-flaw-ai-query-models). 
 - [12/2023] Our paper [Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy](https://arxiv.org/abs/2307.13808), led by my PhD student [Yu Fu](https://fyyfu.github.io/), has been accepted into AAAI 24 (an overall acceptance rate of 23.75\%), Congrats!
 - [11/2023] Thrilled our submission on VLM attack with [Erfan Shayegani](https://erfanshayegani.github.io/) and [Nael Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/) won the **Best Paper Award** (3/155 papers) at the [2023 Southern California NLP Symposium](https://socalnlp.github.io/symp23/index.html#award)!
 - [10/2023] Our paper "Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset" has been accepted as a **spotlight** (2/all submissions) at [NeurIPS 2023 SoLaR Workshop](https://solar-neurips.github.io/)!
-- [10/2023] Check out the UCR news on [Faculty members discuss AI’s possible impacts at UCR](https://news.ucr.edu/articles/2023/10/03/faculty-members-discuss-ais-possible-impacts-ucr?utm_source=UC+Riverside+Master+List&utm_campaign=b890962bb7-EMAIL_CAMPAIGN_2023_10_26_05_26&utm_medium=email&utm_term=0_-b890962bb7-%5BLIST_EMAIL_ID%5D).
+- [10/2023] Check out the UCR news on [Faculty members discuss AI’s possible impacts at UCR](https://news.ucr.edu/articles/2023/10/03/faculty-members-discuss-ais-possible-impacts-ucr?utm_source=UC+Riverside+Master+List&utm_campaign=b890962bb7 EMAIL_CAMPAIGN_2023_10_26_05_26&utm_medium=email&utm_term=0_-b890962bb7-%5BLIST_EMAIL_ID%5D).
 - [10/2023] I am honored to serve as a senior area chair for [NAACL 2024](https://2024.naacl.org/)!
 - [10/2023] Our paper [Inverse Reinforcement Learning for Text Summarization](https://arxiv.org/abs/2212.09917) led by my PhD student [Yu Fu](https://fyyfu.github.io/) has been accepted to the findings of EMNLP 2023. Congrats!
 - [10/2023] Our tutorial on [Vulnerabilities of Large Language Models to Adversarial Attacks](https://llm-vulnerability.github.io/) has been accepted for ACL 2024.  
