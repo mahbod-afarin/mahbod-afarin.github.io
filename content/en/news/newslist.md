@@ -3,9 +3,6 @@ draft = false
 +++
 
 - [2/2024] My PhD students [Yu Fu (1st year)](https://fyyfu.github.io/) and  [Erfan Shayegani (2nd year)](https://erfanshayegani.github.io/)  will be interning at **Microsoft Research** this summer. Congrats!
-<!-- 
-- [2/2024] My PhD student [Yu Fu (1st year)](https://fyyfu.github.io/) will be interning at **Microsoft Research** this summer. Congrats!
--->
 - [1/2024] Our paper [Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models](https://arxiv.org/abs/2307.14539) has been accepted into ICLR 24 as a **spotlight** (5\% of papers, acc. 31\% ), Congrats! This paper also featured on [UCR news](https://news.ucr.edu/articles/2024/01/09/ucr-outs-security-flaw-ai-query-models). 
 - [12/2023] Our paper [Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy](https://arxiv.org/abs/2307.13808), led by my PhD student [Yu Fu](https://fyyfu.github.io/), has been accepted into AAAI 24 (an overall acceptance rate of 23.75\%), Congrats!
 - [11/2023] Thrilled our submission on VLM attack with [Erfan Shayegani](https://erfanshayegani.github.io/) and [Nael Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/) won the **Best Paper Award** (3/155 papers) at the [2023 Southern California NLP Symposium](https://socalnlp.github.io/symp23/index.html#award)!
