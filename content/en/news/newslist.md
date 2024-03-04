@@ -1,20 +1,20 @@
 +++
 draft = false
 +++
-
+- [3/2024] Our paper Source-Free Domain Adaptation for Question Answering with Masked Self-training has been accepted at TACL 2024. 
 - [2/2024] My PhD students [Yu Fu (1st year)](https://fyyfu.github.io/) and  [Erfan Shayegani (2nd year)](https://erfanshayegani.github.io/)  will be interning at **Microsoft Research** this summer. Congrats!
 - [1/2024] Our paper [Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models](https://arxiv.org/abs/2307.14539) has been accepted into ICLR 24 as a **spotlight** (5\% of papers, acc. 31\% ), Congrats! This paper also featured on [UCR news](https://news.ucr.edu/articles/2024/01/09/ucr-outs-security-flaw-ai-query-models). 
-- [12/2023] Our paper [Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy](https://arxiv.org/abs/2307.13808), led by my PhD student [Yu Fu](https://fyyfu.github.io/), has been accepted into AAAI 24 (an overall acceptance rate of 23.75\%), Congrats!
+- [12/2023] Our paper [Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy](https://arxiv.org/abs/2307.13808), led by my PhD student [Yu Fu](https://fyyfu.github.io/), has been accepted into AAAI 24 (an overall acceptance rate of 23.75\%), 
 - [11/2023] Thrilled our submission on VLM attack with [Erfan Shayegani](https://erfanshayegani.github.io/) and [Nael Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/) won the **Best Paper Award** (3/155 papers) at the [2023 Southern California NLP Symposium](https://socalnlp.github.io/symp23/index.html#award)!
-- [10/2023] Our paper "Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset" has been accepted as a **spotlight** (2/all submissions) at [NeurIPS 2023 SoLaR Workshop](https://solar-neurips.github.io/)!
+- [10/2023] Our paper "Subtle Misogyny Detection and Mitigation: An Expert-Annotated Dataset" has been accepted as a **spotlight** (2/all submissions) at [NeurIPS 2023 SoLaR Workshop](https://solar-neurips.github.io/).
 - [10/2023] Check out the UCR news on [Faculty members discuss AI’s possible impacts at UCR](https://news.ucr.edu/articles/2023/10/03/faculty-members-discuss-ais-possible-impacts-ucr?utm_source=UC+Riverside+Master+List&utm_campaign=b890962bb7EMAIL_CAMPAIGN_2023_10_26_05_26&utm_medium=email&utm_term=0_-b890962bb7-%5BLIST_EMAIL_ID%5D).
-- [10/2023] I am honored to serve as a senior area chair for [NAACL 2024](https://2024.naacl.org/)!
-- [10/2023] Our paper [Inverse Reinforcement Learning for Text Summarization](https://arxiv.org/abs/2212.09917) led by my PhD student [Yu Fu](https://fyyfu.github.io/) has been accepted to the findings of EMNLP 2023. Congrats!
+- [10/2023] I am honored to serve as a senior area chair for [NAACL 2024](https://2024.naacl.org/).
+- [10/2023] Our paper [Inverse Reinforcement Learning for Text Summarization](https://arxiv.org/abs/2212.09917) led by my PhD student [Yu Fu](https://fyyfu.github.io/) has been accepted to the findings of EMNLP 2023. 
 - [10/2023] Our tutorial on [Vulnerabilities of Large Language Models to Adversarial Attacks](https://llm-vulnerability.github.io/) has been accepted for ACL 2024.  
-- [07/2023] I was awarded a **Regents Faculty Fellowship** grant 2023-2024!
-- [06/2023] I was selected for **UCR OASIS Internal Funding Awards** 2023-2024!
+- [07/2023] I was awarded a **Regents Faculty Fellowship** grant 2023-2024.
+- [06/2023] I was selected for **UCR OASIS Internal Funding Awards** 2023-2024.
 - [05/2023] Our proposal of KDD 2023 tutorial on [Fast Text Generation with Text-Editing Models](https://kdd2023-text-editing.github.io/) has been accepted
--   [04/2023] Thrilled to join [the Biasly team at Mila](https://mila.quebec/en/project/biasly/) as a visiting NLP advisor, working on AI for humanity and to mitigate gender biases in language models
+-   [04/2023] Thrilled to join [the Biasly team at Mila](https://mila.quebec/en/project/biasly/) as a visiting NLP advisor, working on AI for humanity and to mitigate gender biases in language models.
 -   [03/2023] Our application to form a special interest group on summarization has been accepted by [ACL](https://www.aclweb.org/adminwiki/index.php?title=SIG_Compliance#SIGSUMM:_SIG_on_Summarization). Checkout the newest ACL's SIG - [SIGSUMM](https://www.sigsumm.org)
 -   [01/2023] Expressed my opinions about [chatGPT for education @UCR News](https://news.ucr.edu/articles/2023/01/24/chatgpt-threat-education)
 -   [01/2023] Joined UCR as an assistant professor in the [CSE department](https://www1.cs.ucr.edu/people/faculty)
