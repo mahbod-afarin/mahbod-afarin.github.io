@@ -1,6 +1,7 @@
 +++
 draft = false
 +++
+- [3/2023] I am honored to serve as a senior area chair for [EMNLP 2024](https://2024.emnlp.org/).
 - [3/2024] Our paper [Source-Free Domain Adaptation for Question Answering with Masked Self-training](https://arxiv.org/abs/2212.09563) has been accepted at TACL 2024. 
 - [2/2024] My PhD students [Yu Fu (1st year)](https://fyyfu.github.io/) and  [Erfan Shayegani (2nd year)](https://erfanshayegani.github.io/)  will be interning at **Microsoft Research** this summer. Congrats!
 - [1/2024] Our paper [Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models](https://arxiv.org/abs/2307.14539) has been accepted into ICLR 24 as a **spotlight** (5\% of papers, acc. 31\% ), Congrats! This paper also featured on [UCR news](https://news.ucr.edu/articles/2024/01/09/ucr-outs-security-flaw-ai-query-models). 
