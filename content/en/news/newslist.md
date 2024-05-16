@@ -1,7 +1,7 @@
 +++
 draft = false
 +++
-- [5/2024] Excited that 5 papers (on [Safety Alignment](https://arxiv.org/abs/2312.06924), [Bias in Text-to-Image Generation](https://arxiv.org/abs/2312.14440), [Misogyny Benchmark](https://arxiv.org/abs/2311.09443), [Text Re-ranking](https://arxiv.org/abs/2402.10866), [Temporal QA](https://arxiv.org/abs/2402.11034)) has been accepted to ACL 2024 or ACL Findings. 
+- [5/2024] Excited that 5 papers (on [Summarization Safety Alignment](https://arxiv.org/abs/2312.06924), [Bias in Text-to-Image Generation](https://arxiv.org/abs/2312.14440), [Misogyny Benchmark](https://arxiv.org/abs/2311.09443), [Text Re-ranking](https://arxiv.org/abs/2402.10866), [Temporal QA](https://arxiv.org/abs/2402.11034)) has been accepted to ACL 2024 or ACL Findings. 
 - [5/2024] Our work "Cross-Task Defense: Instruction-Tuning LLMs for Content Safety" has been accepted to NAACL TrustNLP 2024 workshop. 
 - [3/2024] I am honored to serve as a senior area chair for [EMNLP 2024](https://2024.emnlp.org/).
 - [3/2024] Our paper [Source-Free Domain Adaptation for Question Answering with Masked Self-training](https://arxiv.org/abs/2212.09563) has been accepted at TACL 2024. 
