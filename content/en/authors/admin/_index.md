@@ -25,7 +25,7 @@ social:
     link: https://scholar.google.com/citations?user=AbgowWUAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/mahbod-art
+    link: https://github.com/mahbod-afarin
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mahbod-afarin-6b3127a0/
