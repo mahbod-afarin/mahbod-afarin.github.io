@@ -1,7 +1,6 @@
-+++
 draft = false
 date = "2024-08-08T00:00:00"
-+++
+
 - [6/2024] I successfully defended my **PhD Dissertation Proposal**. 
 - [5/2024] I received a [certificate of appreciation](/uploads/AE-Certificate.pdf) for **Excellent Service** in all three cycles of ASPLOS’24 Artifact Evaluation.
 - [1/2024] I will serve in the **Artifact Evaluation Committee** for [ASPLOS’24](https://www.asplos-conference.org/asplos2024/cfp/#committees) and [ISCA’24](https://www.iscaconf.org/isca2024/submit/papers.php).
