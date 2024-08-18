@@ -1,6 +1,7 @@
 ++
 draft = false
 date = "2024-08-08T00:00:00"
+lastmod = "2024-08-08T00:00:00"
 ++
 
 - [6/2024] I successfully defended my **PhD Dissertation Proposal**. 
