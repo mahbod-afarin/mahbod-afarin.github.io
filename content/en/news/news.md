@@ -1,6 +1,6 @@
 +++
-date = 2017-12-01
-lastmod = 2017-12-01
+date = 2024-08-08
+lastmod = 2024-08-08
 draft = false
 tags = []
 title = "News"
@@ -15,4 +15,4 @@ caption = ""
 
 +++
 
-{{< readfromfile "/content/en/news/newslist.md" 2024>}} 
+{{< readfromfile "/content/en/news/newslist.md" 0001>}} 
