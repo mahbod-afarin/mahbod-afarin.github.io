@@ -2,6 +2,7 @@
 date = "2024-08-08T00:00:00"
 +++
 
+- [10/2024] I won the UCR Dissertation Completion Fellowship Award at UC Riverside in 2024.
 - [8/2024] I will be joining <span style="color: #4285F4;">G</span><span style="color: #EA4335;">o</span><span style="color: #FBBC05;">o</span><span style="color: #34A853;">g</span><span style="color: #EA4335;">l</span><span style="color: #4285F4;">e</span> as a Research Intern for Fall 2024!
 - [6/2024] I successfully defended my **PhD Dissertation Proposal**. 
 - [5/2024] I received a [certificate of appreciation](/uploads/AE-Certificate.pdf) for **Excellent Service** in all three cycles of ASPLOS’24 Artifact Evaluation.
