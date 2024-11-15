@@ -7,6 +7,7 @@ bio: Mahbod Afarin is a PhD Candidate of computer science and engineering at the
 interests:
   - Computer Architecture
   - Compiler Optimizations
+  - Machine Learning
   - Graph Processing Algorithms 
   - Hardware Accelerators
   - GPU Programming
