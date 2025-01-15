@@ -5,6 +5,7 @@ date = "2024-08-08T00:00:00"
 <div style="text-align: justify;">
 
 ## Research 
+{{< figure src="/uploads/Research.png" >}}
 My research spans a diverse array of areas within computer science, encompassing hardware accelerators, graph processing, parallel algorithms, compiler optimizations, computer architecture, and GPU architecture. I focus on designing and optimizing systems to enhance computational efficiency and scalability, with particular attention to memory-intensive workloads such as graph analytics. My work involves leveraging hardware/software co-design approaches to accelerate graph processing, developing parallel algorithms to improve performance, and exploring compiler techniques to optimize code size and execution speed. Additionally, I investigate architectural innovations in GPUs and other computing platforms to push the boundaries of computational capabilities, ensuring that the systems I design meet the demands of modern applications. Here is the list of my research interests:
 
 - Hardware Accelerators
