@@ -4,6 +4,15 @@ date = "2024-08-08T00:00:00"
 
 <div style="text-align: justify;">
 
+My research spans a diverse array of areas within computer science, encompassing hardware accelerators, graph processing, parallel algorithms, compiler optimizations, computer architecture, and GPU architecture. I focus on designing and optimizing systems to enhance computational efficiency and scalability, with particular attention to memory-intensive workloads such as graph analytics. My work involves leveraging hardware/software co-design approaches to accelerate graph processing, developing parallel algorithms to improve performance, and exploring compiler techniques to optimize code size and execution speed. Additionally, I investigate architectural innovations in GPUs and other computing platforms to push the boundaries of computational capabilities, ensuring that the systems I design meet the demands of modern applications. Here is the list of my research interests:
+
+- Hardware Accelerators
+- Graph Processing
+- Parallel Algorithms
+- Compiler Optimizations
+- Computer Architecture
+- GPU Architecture
+    
 ## 1. Compiler Optimization
 {{< figure src="/uploads/compiler_optimization.jpeg" width="400px" >}}
 **Code Size Reduction** -- This project is a collaborative effort with the compiler team at Google, initiated during my student researcher position at the company. The goal of the project is to reduce the code size of x86 and ARM binaries by folding identical basic blocks. Traditional code outlining techniques are limited to within a single function, but our new approach extends the scope across multiple functions, enabling the compiler to merge identical blocks even when they appear in different parts of a program. Additionally, traditional outliners have other limitations, which we aim to address through this project. The method leverages interprocedural analysis to identify identical sequences of instructions that perform the same computations. By folding these blocks, we achieve a reduction in code size without compromising performance, making it particularly beneficial for optimizing memory-constrained environments such as embedded systems and mobile platforms. This technique represents a significant evolution in identical code folding, enhancing the efficiency of code generation and aligning with LLVM's objective of creating more space-efficient binaries. This is an ongoing project, and you will hear more about it soon.
