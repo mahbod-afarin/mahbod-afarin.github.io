@@ -6,12 +6,12 @@ bio: Mahbod Afarin is a PhD Candidate of computer science and engineering at the
 
 interests:
   - Computer Architecture
-  - Compiler Optimizations
-  - Machine Learning
-  - Graph Processing Algorithms 
   - Hardware Accelerators
+  - Graph Processing 
+  - Compiler Optimizations
   - GPU Programming
- 
+  - Machine Learning
+  
 # Social/Academic Networking
 # For available general icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 # For a list of icons, see: https://www.w3schools.com/icons/icons_reference.asp
