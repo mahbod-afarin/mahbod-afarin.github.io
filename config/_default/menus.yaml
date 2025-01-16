@@ -22,7 +22,7 @@ main:
   - name: Awards
     url: '/award/awardlist'
     weight: 90
-  - name: Projects
+  - name: Research
     url: '/resource/resourcelist'
     weight: 100
   # - name: Contact
