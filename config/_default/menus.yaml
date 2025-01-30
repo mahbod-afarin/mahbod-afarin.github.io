@@ -22,12 +22,13 @@ main:
   - name: Awards
     url: '/award/awardlist'
     weight: 80
+  - name: Projects
+    url: '#about'
+    weight: 90
   - name: Research
     url: '/resource/resourcelist'
-    weight: 90
- - name: Research
-    url: '/resource/resourcelist'
     weight: 100
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
