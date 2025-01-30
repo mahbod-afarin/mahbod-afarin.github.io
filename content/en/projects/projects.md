@@ -1,4 +1,6 @@
 ---
+date = "2025-01-01T00:00:00"
+lastmod = "2024-01-01T00:00:00"
 title: "Projects"
 draft: false
 draft: false
