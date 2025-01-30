@@ -47,6 +47,10 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
+- Finding influencers in a network using **Data Mining Techniques** and **SNAP Stanford Dataset** collections, Data Mining course project, Prof. [Vagelis Papalexakis](https://www.cs.ucr.edu/~epapalex/), Spring 2021.
+
+<hr>
+
  - ([Code]() | [Summery]() | [Report](/uploads/Compiler1.pdf)).
 
 </div>
