@@ -32,7 +32,9 @@ date = "2025-01-01T00:00:00"
 - Performance comparison of various GPU programming APIs ([OpenMP](https://www.openmp.org/) , [CUDA](https://developer.nvidia.com/cuda-toolkit), [OpenCL](https://www.khronos.org/opencl/)), [GPU Architecture and Programming](http://teaching.danielwong.org/csee217/fall24) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Fall 2021 ([Code]() | [Summery]() | [Report]()).
 
 <hr>
- 
- - ([Code]() | [Summery]() | [Report](/uploads/AdvancedOS1.pdf)).
+
+ - Implementation of the **fundamental available expression analysis** and **common sub-expression elimination** using C++ language, [Compiler Construction](https://www.cs.ucr.edu/~gupta/classes.html) course project, Prof. [Rajiv Gupta](https://www.cs.ucr.edu/~gupta/), Fall 2021 ([Code](https://github.com/mahbod-afarin/Common-Subexpression-Elimination) | [Report](/uploads/Compiler1.pdf))
+ - 
+ - ([Code]() | [Summery]() | [Report](/uploads/Compiler1.pdf)).
 
 </div>
