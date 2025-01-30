@@ -39,6 +39,13 @@ date = "2025-01-01T00:00:00"
   
 <hr>
 
+- Performance optimization of a matrix multiplication program via **register and cache reuse** using **C++**, [High Performance Computing](https://www.cs.ucr.edu/~chen/teaching.html) course project, Prof. [Zizhong Chen](https://www.cs.ucr.edu/~chen/index.html), Fall 2021 ([Code](https://github.com/mahbod-afarin/Register-and-Cache-Reuse/tree/main) | [Summery](/uploads/HP1.pdf) | [Report](/uploads/HP2.pdf)).
+
+- High performance sequential codes for **Solving Large Linear Systems**, [High Performance Computing](https://www.cs.ucr.edu/~chen/teaching.html) course project, Prof. [Zizhong Chen](https://www.cs.ucr.edu/~chen/index.html), Fall 2021 ([Code](https://github.com/mahbod-afarin/Solving-Large-Linear-System) | [Summery](/uploads/HP5.pdf) | [Report](/uploads/HP8.pdf)).
+
+- Parallel Sieve of Eratosthenes for Finding All Prime Numbers using **Open Message Passing Interface** (Open MPI), [High Performance Computing](https://www.cs.ucr.edu/~chen/teaching.html) course project, Prof. [Zizhong Chen](https://www.cs.ucr.edu/~chen/index.html), Fall 2021 ([Code](https://github.com/mahbod-afarin/Parallel-Sieve-of-Eratosthenes-for-Finding-All-Prime-Numbers) | [Summery](/uploads/HP10.pdf) | [Report](/uploads/HP10.pdf)).
+
+<hr>
 
  - ([Code]() | [Summery]() | [Report](/uploads/Compiler1.pdf)).
 
