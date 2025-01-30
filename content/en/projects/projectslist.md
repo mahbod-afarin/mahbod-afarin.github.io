@@ -15,7 +15,7 @@ date = "2025-01-01T00:00:00"
 
 - Improving the Performance of <i> Sparse Matrix-Vector Multiplication </i> Using **OpenMP**, [Multiprocessor Architecture and Programming](https://www.cs.ucr.edu/~elaheh/cs213_winter2021.html), Prof. [Elaheh Sadredini](https://www.cs.ucr.edu/~elaheh/), Winter 2022 ([Code]() | [Summery](https://www.cs.ucr.edu/~elaheh/cs213_winter2021.html#homeworks) | [Report](/uploads/AdvancedMulti3.pdf)).
 
-- Implementation of a **CUDA-based** histogram kernel showcasing the efficient use of <i> atomic operations </i> for parallel computation,  [GPU Architecture and Programming course project](http://teaching.danielwong.org/csee217/fall24), Prof. Daniel Wong, Fall 2021 ([Code](https://github.com/mahbod-afarin/histogram-kernel-/tree/main) | [Summery](http://teaching.danielwong.org/csee217/fall21/lab4-histogram) | [Report](/uploads/GPU1.pdf)).
+- Implementation of a **CUDA-based** histogram kernel showcasing the efficient use of <i> atomic operations </i> for parallel computation,  [GPU Architecture and Programming](http://teaching.danielwong.org/csee217/fall24) course project, Prof. Daniel Wong, Fall 2021 ([Code](https://github.com/mahbod-afarin/histogram-kernel-/tree/main) | [Summery](http://teaching.danielwong.org/csee217/fall21/lab4-histogram) | [Report](/uploads/GPU1.pdf)).
 
 - 
  - ([Code]() | [Summery]() | [Report](/uploads/AdvancedOS1.pdf)).
