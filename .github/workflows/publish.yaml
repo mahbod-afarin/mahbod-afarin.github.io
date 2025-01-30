@@ -1,77 +1,44 @@
-name: Deploy website to GitHub Pages
-
-env:
-  WC_HUGO_VERSION: '0.115.4'
+name: Deploy Hugo site to GitHub Pages
 
 on:
   push:
-    branches: ["main"]
-  workflow_dispatch:
+    branches: [ "main" ]     # Adjust if your default branch is not 'main'
+  pull_request:
 
-# Ensure you have the correct permissions for Pages, artifact uploads, etc.
 permissions:
   contents: read
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
   build:
-    # Remove any 'if: ...' condition that might skip this job
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Check out code
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: ${{ env.WC_HUGO_VERSION }}
+          hugo-version: "0.115.4"
           extended: true
 
-      - name: Cache Hugo modules
-        uses: actions/cache@v3
-        with:
-          path: /tmp/hugo_cache_runner/
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
-          restore-keys: |
-            ${{ runner.os }}-hugomod-
-
-      - name: Configure Pages
-        id: pages
-        uses: actions/configure-pages@v3
-
-      - name: Build with Hugo
-        env:
-          HUGO_ENVIRONMENT: production
-        run: |
-          echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
-
-      - name: Generate Pagefind search index
-        run: npx pagefind --site "public"
-
-      # --- (Debug step) Verify the 'public' folder exists and has content
-      - name: List 'public' folder
-        run: ls -lah public
+      - name: Build the site
+        run: hugo --minify
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: pages-site        # Must match below in the deploy job
-          path: ./public
+          name: hugo-pages     # Must match in 'deploy' job
+          path: public         # Where Hugo outputs files
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
+
     steps:
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v2
         with:
-          artifact-name: pages-site
+          artifact-name: hugo-pages
