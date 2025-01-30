@@ -45,7 +45,6 @@ date = "2025-01-01T00:00:00"
 
 - Parallel Sieve of Eratosthenes for Finding All Prime Numbers using **Open Message Passing Interface** (Open MPI), [High Performance Computing](https://www.cs.ucr.edu/~chen/teaching.html) course project, Prof. [Zizhong Chen](https://www.cs.ucr.edu/~chen/index.html), Fall 2021 ([Code](https://github.com/mahbod-afarin/Parallel-Sieve-of-Eratosthenes-for-Finding-All-Prime-Numbers) | [Summery](/uploads/HP10.pdf) | [Report](/uploads/HP10.pdf)).
 
-
- - ([Code]() | [Summery]() | [Report]()).
+<hr>
 
 </div>
