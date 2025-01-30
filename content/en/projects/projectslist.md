@@ -25,6 +25,8 @@ date = "2025-01-01T00:00:00"
 
 - Implementation of a <i> tiled matrix multiplication kernel </i> which can support arbitrary-sized matrices using **CUDA**, [GPU Architecture and Programming](http://teaching.danielwong.org/csee217/fall24) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Fall 2021 ([Code](https://github.com/mahbod-afarin/Tiled-Matrix-Multiplication/tree/main) | [Summery](http://teaching.danielwong.org/csee217/fall21/lab3-matrixmultiplication) | [Report](/uploads/GPU2.pdf)).
 
+- Implementing and optimizing the <i> reduction kernel </i> and analyzing basic architectural performance properties using **CUDA**, [GPU Architecture and Programming](http://teaching.danielwong.org/csee217/fall24) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Fall 2021 ([Code](https://github.com/mahbod-art/optimized-reduction-kernel-/tree/main) | [Summery](http://teaching.danielwong.org/csee217/fall21/lab2-reduction) | [Report](/uploads/GPU5.pdf)).
+
 <hr>
  
  - ([Code]() | [Summery]() | [Report](/uploads/AdvancedOS1.pdf)).
