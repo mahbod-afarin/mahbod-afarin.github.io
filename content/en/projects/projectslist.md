@@ -23,7 +23,7 @@ date = "2025-01-01T00:00:00"
 
 - Implementation of a **CUDA-based** histogram kernel showcasing the efficient use of <i> atomic operations </i> for parallel computation, [GPU Architecture and Programming](http://teaching.danielwong.org/csee217/fall24) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Fall 2021 ([Code](https://github.com/mahbod-afarin/histogram-kernel-/tree/main) | [Summery](http://teaching.danielwong.org/csee217/fall21/lab4-histogram) | [Report](/uploads/GPU1.pdf)).
 
-- Implementation of a <i> tiled matrix multiplication kernel </i> which can support arbitrary-sized matrices using **CUDA**, [GPU Architecture and Programming](http://teaching.danielwong.org/csee217/fall24) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Fall 2021 ([Code](https://github.com/mahbod-afarin/Tiled-Matrix-Multiplication/tree/main) | [Summery](http://teaching.danielwong.org/csee217/fall21/lab3-matrixmultiplication)) | [Report](/uploads/GPU2.pdf)).
+- Implementation of a <i> tiled matrix multiplication kernel </i> which can support arbitrary-sized matrices using **CUDA**, [GPU Architecture and Programming](http://teaching.danielwong.org/csee217/fall24) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Fall 2021 ([Code](https://github.com/mahbod-afarin/Tiled-Matrix-Multiplication/tree/main) | [Summery](http://teaching.danielwong.org/csee217/fall21/lab3-matrixmultiplication) | [Report](/uploads/GPU2.pdf)).
 
 <hr>
  
