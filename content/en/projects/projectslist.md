@@ -28,6 +28,9 @@ date = "2025-01-01T00:00:00"
 - Implementing and optimizing the <i> reduction kernel </i> and analyzing basic architectural performance properties using **CUDA**, [GPU Architecture and Programming](http://teaching.danielwong.org/csee217/fall24) project, Prof. [Daniel Wong](https://www.danielwong.org/), Fall 2021 ([Code](https://github.com/mahbod-art/optimized-reduction-kernel-/tree/main) | [Summery](http://teaching.danielwong.org/csee217/fall21/lab2-reduction) | [Report](/uploads/GPU5.pdf)).
 
 - Improving the performance of <i> Vector Addition </i> program by finding the best basic block size using **CUDA**, [GPU Architecture and Programming](http://teaching.danielwong.org/csee217/fall24) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Fall 2021 ([Code](https://github.com/mahbod-afarin/Verctor-Add-Improvement) | [Summery](http://teaching.danielwong.org/csee217/fall21/lab1-cuda) | [Report](/uploads/GPU10.pdf)).
+
+- Performance comparison of various GPU programming APIs ([OpenMP](https://www.openmp.org/) , [CUDA](https://developer.nvidia.com/cuda-toolkit), [OpenCL](https://www.khronos.org/opencl/)), [GPU Architecture and Programming](http://teaching.danielwong.org/csee217/fall24) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Fall 2021 ([Code]() | [Summery]() | [Report]()).
+
 <hr>
  
  - ([Code]() | [Summery]() | [Report](/uploads/AdvancedOS1.pdf)).
