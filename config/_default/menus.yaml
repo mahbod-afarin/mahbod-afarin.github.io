@@ -23,7 +23,7 @@ main:
     url: '/award/awardlist'
     weight: 80
   - name: Projects
-    url: '#about'
+    url: '/projects/projectslist'
     weight: 90
   - name: Research
     url: '/resource/resourcelist'
