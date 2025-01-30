@@ -25,8 +25,8 @@ main:
   - name: Research
     url: '/resource/resourcelist'
     weight: 90
- - name: Projects
-    url: '/projects/projectslist'
+ - name: Research
+    url: '/resource/resourcelist'
     weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
