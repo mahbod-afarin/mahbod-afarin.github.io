@@ -51,6 +51,10 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
+- Design and implementation of a O(m×n) space, O(m×n×k) time SP Alignment Algorithm for three DNA sequences using JAVA language, [Algorithmic Techniques in Computational Biology](https://www.cs.ucr.edu/~jiang/238-homepage.html) course project, Prof. [Tao Jiang](https://www.cs.ucr.edu/~jiang/) , Spring 2021.
+
+<hr>
+
  - ([Code]() | [Summery]() | [Report](/uploads/Compiler1.pdf)).
 
 </div>
