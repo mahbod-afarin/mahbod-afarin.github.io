@@ -54,5 +54,17 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
+- Implementing the **Tomasulo Speculative Algorithm** using **C++** language, [Advanced Computer Architecture](http://teaching.danielwong.org/cs203/winter21) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Winter 2020 (([Code](https://github.com/mahbod-afarin/Tomasulo-Speculative-Algorithm) | [Summery](http://teaching.danielwong.org/cs203/winter21/final-project) | [Report](/uploads/ACA1.pdf))).
+
+- Design and implementation of a **Pipeline Simulator** which supports forwarding technique using **C++** language, [Advanced Computer Architecture](http://teaching.danielwong.org/cs203/winter21) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Winter 2020 (([Code](https://github.com/mahbod-afarin/Pipeline-Simulator) | [Summery](http://teaching.danielwong.org/cs203/winter21/assignment-1) | [Report](/uploads/ACA2.pdf))).
+
+- Design and implementation of various **branch predictors**, including simple 1-bit and 2-bit predictors, as well as correlating (m,n) predictors using **C++** language, [Advanced Computer Architecture](http://teaching.danielwong.org/cs203/winter21) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Winter 2020 (([Code](https://github.com/mahbod-afarin/Branch-Predictor) | [Summery](http://teaching.danielwong.org/cs203/winter21/assignment-2) | [Report](/uploads/ACA3.pdf))).
+
+- Design and implementation of a cache, with support for **direct-mapped**, **set-associative**, and **fully-associative** mapping,  [Advanced Computer Architecture](http://teaching.danielwong.org/cs203/winter21) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Winter 2020 (([Code](https://github.com/mahbod-afarin/cache-with-support-for-direct--mapped-set-associative-and-fully-associative) | [Summery](http://teaching.danielwong.org/cs203/winter21/assignment-3) | [Report](/uploads/ACA4.pdf))).
+
+<hr>
+
+
+
 </div>
 
