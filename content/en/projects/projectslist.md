@@ -64,7 +64,9 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
+- Design and implementation of a **Search Engine** which allows users to search related tweets in the cryptocurrency area using [Hadoop](https://hadoop.apache.org/) and [Lucene](https://lucene.apache.org/),  [Information Retrieval and Web Search](https://www.cs.ucr.edu/~vagelis/classes/CS242/index.htm) course project, Prof. [Vagelis Hristidis](https://www.cs.ucr.edu/~vagelis/), Winter 2020.
 
+<hr>
 
 </div>
 
