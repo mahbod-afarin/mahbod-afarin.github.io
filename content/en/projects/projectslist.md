@@ -104,7 +104,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-Design and Implementation of Quoridor Game with Prolog, Artificial Intelligence course project, Prof. Shahrouz Moaven, Spring 2014.
+- Design and Implementation of Quoridor Game with Prolog, Artificial Intelligence course project, Prof. Shahrouz Moaven, Spring 2014.
 
 <hr>
 
