@@ -96,5 +96,11 @@ date = "2025-01-01T00:00:00"
 
 - Designing and simulating NAND gate in **RTL logic** and examining the effects of pull up resistor on the output load, Advanced VLSI Design course project, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016.
 
+<hr>
+
+- Design, Simulation, and Implementation of a **Double Precision Floating Point Multiplier** with **VHDL** and **ISE Design**, VHDL course project, Prof. [Naser Mohammadzadeh](http://ceit.aut.ac.ir/~mohamadz/), Spring 2014.
+
+- Design, Simulation, and Implementation of **MIPS Processor** with **Verilog**, **ISE Design Suite**, and **Xilinx FPGA**, Computer Architecture laboratory course, Prof. [Naser Mohammadzadeh](http://ceit.aut.ac.ir/~mohamadz/), Spring 2014.
+
 </div>
 
