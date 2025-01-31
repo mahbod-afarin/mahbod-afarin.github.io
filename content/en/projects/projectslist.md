@@ -102,5 +102,10 @@ date = "2025-01-01T00:00:00"
 
 - Design, Simulation, and Implementation of **MIPS Processor** with **Verilog**, **ISE Design Suite**, and **Xilinx FPGA**, Computer Architecture laboratory course, Prof. [Naser Mohammadzadeh](http://ceit.aut.ac.ir/~mohamadz/), Spring 2014.
 
-</div>
+<hr>
 
+Design and Implementation of Quoridor Game with Prolog, Artificial Intelligence course project, Prof. Shahrouz Moaven, Spring 2014.
+
+<hr>
+
+</div>
