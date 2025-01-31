@@ -68,5 +68,20 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
+- Design, Simulation, and implementation of a complex ALU with exciting IP cores in **ISE Design Suite (Xilinx)**, synthesized using **Synopsis Design Compiler**, System on Chip Design course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Fall 2017.
+
+- **Post-layout simulation** for a complex ALU with **SoC Encounter**, System on Chip Design course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Fall 2017.
+
+<hr>
+
+- Design, Simulation, and implementation of a serial divider at gate level and synthesized it using a **Scan Chain**, Testability course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Spring 2017.
+
+- Implementing a software for simulating the impact of fault and delay on standard combinations logic using **JAVA**, Testability course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Spring 2017.
+
+- Implementing a software for simulating ISCAS combinational circuits at gate level with **JAVA**, Testability course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Spring 2017.
+
+<hr>
+
+
 </div>
 
