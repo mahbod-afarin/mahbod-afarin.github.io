@@ -82,6 +82,19 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
+- Analysis of Aging Mitigation Methods in **Graphic Processing Units**, Advanced Topics in Dependable Computing Systems project, Prof. [Seyed-Ghassem Miremadi](http://sina.sharif.edu/~miremadi/), Spring 2017.
+
+- Analysis of the overhead of **crosstalk avoidance codes** for reliable data transfer of NoCs, , Advanced Topics in Dependable Computing Systems project, Prof. [Seyed-Ghassem Miremadi](http://sina.sharif.edu/~miremadi/), Spring 2017.
+
+<hr>
+
+- Design and implementation of an arbiter circuit, along with determining its minimum die size using **SoC-Encounter**, Advanced VLSI Design, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016.
+
+- Finding the optimal W-min for an XOR_XNOR circuit to optimize **power, PDP, and delay**, Advanced VLSI Design, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016.
+
+- Designing, simulating, and implementing an arbiter circuit with **Verilog**, **Modelsim**, and **Synopsis Design Compiler**, and examining the effect of optimization constraints on speed and area, Advanced VLSI Design, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016.
+
+- Designing and simulating NAND gate in **RTL logic** and examining the effects of pull up resistor on the output load, Advanced VLSI Design, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016.
 
 </div>
 
