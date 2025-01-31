@@ -4,7 +4,7 @@ date = "2024-08-08T00:00:00"
 
 <div style="text-align: justify;">
 
-### Academic Awards: 
+### Academic Awards
 - Won the UCR Dissertation Completion Fellowship Award at UC Riverside in 2024.
 - Received the <span style="color:red"> Excellent Service </span> badge in all three cycles of ASPLOS’24 Artifact Evaluation at ACM International Conference on Architectural Support for Programming Languages and Operating Systems, San Diego, 2024 ([Certificate of Appreciation](/uploads/AE-Certificate.pdf)).
 - Won <span style="color:red"> UCR GSA Travel Grant Award </span> at University of California, Riverside, 2023.
