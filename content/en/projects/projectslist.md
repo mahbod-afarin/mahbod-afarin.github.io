@@ -82,9 +82,9 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-- Analysis of Aging Mitigation Methods in **Graphic Processing Units**, Advanced Topics in Dependable Computing Systems project, Prof. [Seyed-Ghassem Miremadi](http://sina.sharif.edu/~miremadi/), Spring 2017.
+- Analysis of Aging Mitigation Methods in **Graphic Processing Units**, Advanced Topics in Dependable Computing Systems course project, Prof. [Seyed-Ghassem Miremadi](http://sina.sharif.edu/~miremadi/), Spring 2017.
 
-- Analysis of the overhead of **crosstalk avoidance codes** for reliable data transfer of NoCs, , Advanced Topics in Dependable Computing Systems project, Prof. [Seyed-Ghassem Miremadi](http://sina.sharif.edu/~miremadi/), Spring 2017.
+- Analysis of the overhead of **crosstalk avoidance codes** for reliable data transfer of NoCs, , Advanced Topics in Dependable Computing Systems course project, Prof. [Seyed-Ghassem Miremadi](http://sina.sharif.edu/~miremadi/), Spring 2017.
 
 <hr>
 
