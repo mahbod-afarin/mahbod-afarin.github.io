@@ -1,8 +1,6 @@
 ---
 title: Mahbod Afarin
 role: PhD Candidate
-
-<div style="text-align: justify;">
   
 # Short bio (displayed in user profile at end of posts)
 bio: Mahbod Afarin is a PhD Candidate of computer science and engineering at the University of California Riverside advised by Professor Rajiv Gupta and Professor Nael Abu-Ghazaleh. His research interests include Computer Architecture, Compiler Optimization, and Graph Processing Hardware and Accelerators.
@@ -61,6 +59,8 @@ highlight_name: true
 first_name: Mahbod
 email: ""
 ---
+
+<div style="text-align: justify;">
 
 Hi, I am Mahbod Afarin, a PhD Candidate of computer science at [the University of California, Riverside](https://www1.cs.ucr.edu/), where I am very fortunate to be advised by Professor [Rajiv Gupta](http://www.cs.ucr.edu/~gupta/) and Professor [Nael Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/). I obtained my MSc in Computer Engineering at [Sharif University of Technology](https://en.sharif.edu/), supervised by Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/). 
 
