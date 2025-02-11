@@ -2,6 +2,10 @@
 date = "2024-08-08T00:00:00"
 +++
 
+### News
+
+<div style="text-align: justify;">
+
 - [10/2024] I won the UCR Dissertation Completion Fellowship Award at UC Riverside in 2024.
 - [8/2024] I will be joining <span style="color: #4285F4;">G</span><span style="color: #EA4335;">o</span><span style="color: #FBBC05;">o</span><span style="color: #34A853;">g</span><span style="color: #EA4335;">l</span><span style="color: #4285F4;">e</span> as a Research Intern for Fall 2024!
 - [6/2024] I successfully defended my **PhD Dissertation Proposal**. 
@@ -15,3 +19,5 @@ date = "2024-08-08T00:00:00"
 - [9/2022] Our paper, **"CommonGraph: Graph Analytics on Evolving Data"** has been accepted for presentation in 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems ([ASPLOS'23](https://asplos-conference.org/asplos2023/index.html)), Vancouver, Canada. 
 - [10/2021] I successfully defended my **Oral Qualifying Exam**. Ph.D. candidate now! 
 - [7/2021] Our paper, **"JetStream: Graph Analytics on Streaming Data with Event-Driven Hardware Accelerator"** has been accepted for presentation in 54th IEEE/ACM International Symposium on Microarchitecture ([MICRO'21](https://www.microarch.org/micro54/)), Athens, Greece.
+
+</div>
