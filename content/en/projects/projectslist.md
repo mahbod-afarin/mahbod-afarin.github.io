@@ -16,7 +16,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### <span style="color:green"> Multiprocessor Architecture and Programming (OpenMP/Parallel Programming/Matrix Multipication): </span>
+#### <span style="color:green"> Multiprocessor Architecture and Programming (OpenMP/Parallel Programming): </span>
 
 - Parallelize matrix multiplication using the **OpenMP** work-sharing <i> for </i> directive, as specified in the [OpenMP](https://www.openmp.org/) API for **parallel programming**, [Multiprocessor Architecture and Programming](https://www.cs.ucr.edu/~elaheh/cs213_winter2021.html), Prof. [Elaheh Sadredini](https://www.cs.ucr.edu/~elaheh/), Winter 2022 ([Code](https://github.com/mahbod-afarin/Parallelize-matrix-multiplication-OpenMP) | [Summery](/uploads/AdvancedMulti1.pdf) | [Report](/uploads/AdvancedMulti2.pdf)).
 
@@ -38,13 +38,15 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### <span style="color:green"> Compiler Construction (C++/LLVM/available expression analysis/liveness analysis): </span>
+#### <span style="color:green"> Compiler Construction (C++/LLVM/Available Expression Analysis/Liveness Analysis): </span>
 
  - Implementation of the **fundamental available expression analysis** and **common sub-expression elimination** on **LLVM** using **C++**, [Compiler Construction](https://www.cs.ucr.edu/~gupta/classes.html) course project, Prof. [Rajiv Gupta](https://www.cs.ucr.edu/~gupta/), Fall 2021 ([Code](https://github.com/mahbod-afarin/Common-Subexpression-Elimination) | [Summery](/uploads/Compiler1.pdf)).
 
  - Implementation of the **fundamental liveness analysis** as an **LLVM** pass using **C++**, [Compiler Construction](https://www.cs.ucr.edu/~gupta/classes.html) course project, Prof. [Rajiv Gupta](https://www.cs.ucr.edu/~gupta/), Fall 2021 ([Code](https://github.com/mahbod-afarin/Liveness-Analysis/tree/main) | [Summery](/uploads/Compiler2.pdf)).
   
 <hr>
+
+#### <span style="color:green"> High Performance Computing (C++/OpenCL/Parallel Programming): </span>
 
 - Performance optimization of a matrix multiplication program via **register and cache reuse** using **C++**, [High Performance Computing](https://www.cs.ucr.edu/~chen/teaching.html) course project, Prof. [Zizhong Chen](https://www.cs.ucr.edu/~chen/index.html), Fall 2021 ([Code](https://github.com/mahbod-afarin/Register-and-Cache-Reuse/tree/main) | [Summery](/uploads/HP1.pdf) | [Report](/uploads/HP2.pdf)).
 
@@ -54,13 +56,19 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
+#### <span style="color:green"> Data Mining (C++/Data Analysis): </span>
+
 - Finding influencers in a network using **Data Mining Techniques** and **SNAP Stanford Dataset** collections, Data Mining course project, Prof. [Vagelis Papalexakis](https://www.cs.ucr.edu/~epapalex/), Spring 2021.
 
 <hr>
 
+#### <span style="color:green"> Algorithmic Techniques in Computational Biology (Java/Algorithm Implementation): </span>
+
 - Design and implementation of a O(m×n) space, O(m×n×k) time **SP Alignment Algorithm** for three DNA sequences using **JAVA** language, [Algorithmic Techniques in Computational Biology](https://www.cs.ucr.edu/~jiang/238-homepage.html) course project, Prof. [Tao Jiang](https://www.cs.ucr.edu/~jiang/) , Spring 2021.
 
 <hr>
+
+#### <span style="color:green"> Advanced Computer Architecture (C++/Tomasulo/Pipeline/Brach Predictors/Caches): </span>
 
 - Implementing the **Tomasulo Speculative Algorithm** using **C++** language, [Advanced Computer Architecture](http://teaching.danielwong.org/cs203/winter21) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Winter 2020 ([Code](https://github.com/mahbod-afarin/Tomasulo-Speculative-Algorithm) | [Summery](http://teaching.danielwong.org/cs203/winter21/final-project) | [Report](/uploads/ACA1.pdf)).
 
