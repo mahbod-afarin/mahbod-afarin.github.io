@@ -8,7 +8,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### <span style="color:cyan"> Advanced Operating Systems (C++/xv6/Kernel Development/Scheduling): </span>
+#### <span style="color:green"> Advanced Operating Systems (C++/xv6/Kernel Development/Scheduling): </span>
 
 - Used **C++** to add a real kernel thread to [xv6](https://pdos.csail.mit.edu/6.828/2017/xv6.html) (A minimal, instructional UNIX-based OS) using a new system call, Advanced Operating Systems course project, Prof. [Nael Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/), Spring 2021 ([Code](https://github.com/mahbod-afarin/xv6-Kernel-Threads/tree/main) | [Summery](https://www.cs.ucr.edu/~nael/cs202/labs.html) | [Report](/uploads/AdvancedOS1.pdf)).
 
@@ -16,7 +16,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### <span style="color:cyan"> Multiprocessor Architecture and Programming (OpenMP/Parallel Programming/Matrix Multipication): </span>
+#### <span style="color:green"> Multiprocessor Architecture and Programming (OpenMP/Parallel Programming/Matrix Multipication): </span>
 
 - Parallelize matrix multiplication using the **OpenMP** work-sharing <i> for </i> directive, as specified in the [OpenMP](https://www.openmp.org/) API for **parallel programming**, [Multiprocessor Architecture and Programming](https://www.cs.ucr.edu/~elaheh/cs213_winter2021.html), Prof. [Elaheh Sadredini](https://www.cs.ucr.edu/~elaheh/), Winter 2022 ([Code](https://github.com/mahbod-afarin/Parallelize-matrix-multiplication-OpenMP) | [Summery](/uploads/AdvancedMulti1.pdf) | [Report](/uploads/AdvancedMulti2.pdf)).
 
@@ -24,7 +24,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### <span style="color:cyan"> GPU Architecture and Programming (CUDA/OpenMP/OpenCL/Parallel Programming): </span>
+#### <span style="color:green"> GPU Architecture and Programming (CUDA/OpenMP/OpenCL/Parallel Programming): </span>
 
 - Implementation of a **CUDA-based** histogram kernel showcasing the efficient use of <i> atomic operations </i> for parallel computation, [GPU Architecture and Programming](http://teaching.danielwong.org/csee217/fall24) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Fall 2021 ([Code](https://github.com/mahbod-afarin/histogram-kernel-/tree/main) | [Summery](http://teaching.danielwong.org/csee217/fall21/lab4-histogram) | [Report](/uploads/GPU1.pdf)).
 
@@ -37,6 +37,8 @@ date = "2025-01-01T00:00:00"
 - Performance comparison of various GPU programming APIs ([OpenMP](https://www.openmp.org/) , [CUDA](https://developer.nvidia.com/cuda-toolkit), [OpenCL](https://www.khronos.org/opencl/)), [GPU Architecture and Programming](http://teaching.danielwong.org/csee217/fall24) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Fall 2021 ([Code]() | [Summery]() | [Report]()).
 
 <hr>
+
+#### <span style="color:green"> Compiler Construction (C++/LLVM/available expression analysis/liveness analysis): </span>
 
  - Implementation of the **fundamental available expression analysis** and **common sub-expression elimination** on **LLVM** using **C++**, [Compiler Construction](https://www.cs.ucr.edu/~gupta/classes.html) course project, Prof. [Rajiv Gupta](https://www.cs.ucr.edu/~gupta/), Fall 2021 ([Code](https://github.com/mahbod-afarin/Common-Subexpression-Elimination) | [Summery](/uploads/Compiler1.pdf)).
 
