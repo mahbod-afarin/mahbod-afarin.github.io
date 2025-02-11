@@ -18,7 +18,7 @@ My research spans a diverse array of areas within computer science, encompassing
 - Computer Architecture
 - GPU Architecture
 
-</hr>
+<hr>
 
 #### 1. Hardware Accelerators
 
