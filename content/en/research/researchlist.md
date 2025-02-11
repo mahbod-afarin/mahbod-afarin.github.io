@@ -30,7 +30,7 @@ Graph hardware accelerators are specialized processors or systems designed to op
 
 <hr>
 
-### 2. Graph Processing
+### 2. <span style="color:green"> Graph Processing </span>
 This is the algorithmic perspective of my research, where we aim to improve the performance of graph processing for both static and dynamic graph processing, as well as enhance the performance of distributed graph processing. In static graph processing, the graph remains unchanged over time, while in evolving graph processing, the graph undergoes constant changes over a time window. Here is the list of projects in this area:
 {{< figure src="/uploads/CoreGraph.png" >}}
 **<span style="color:orange">Static Graph Processing</span>** -- When evaluating iterative graph queries over large graphs, systems face significant overheads due to repeated graph transfers across the memory hierarchy and redundant propagation of values over graph edges. A two-phase approach addresses these challenges by using a small proxy graph, called Core Graph (CG), alongside the large original graph. The first phase evaluates the query on the CG, incurring low overheads while producing mostly precise results, which are then used to bootstrap the second phase on the larger graph for fully precise results. Unlike prior methods that generate either large or imprecise proxy graphs, CG is both compact and highly accurate. It contains all vertices but only 10.7% of edges on average, yet achieves 94.5–99.9% precision for different queries. This is enabled by identifying a small subset of high-centrality edges critical for determining converged results across queries. Techniques for constructing effective CGs and optimizing the evaluation of remaining vertices yield substantial performance improvements, achieving speedups of up to 4.48× on GPU-based Subway, 13.62× on out-of-core GridGraph, and 9.31× on in-memory Ligra systems across various graph queries and datasets (**Paper:** [Core Graph](https://dl.acm.org/doi/abs/10.1145/3627703.3629571)).
@@ -41,13 +41,13 @@ This is the algorithmic perspective of my research, where we aim to improve the 
 
 <hr>
 
-### 3. Compiler Optimization
+### 3. <span style="color:green"> Compiler Optimization </span>
 {{< figure src="/uploads/CodeReduction.png" >}}
 **<span style="color:orange">Code Size Reduction</span>** -- This project is a collaborative effort with the compiler team at Google, initiated during my student researcher position at the company. The goal of the project is to reduce the code size of x86 and ARM binaries by folding identical basic blocks. Traditional code outlining techniques are limited to within a single function, but our new approach extends the scope across multiple functions, enabling the compiler to merge identical blocks even when they appear in different parts of a program. Additionally, traditional outliners have other limitations, which we aim to address through this project. The method leverages interprocedural analysis to identify identical sequences of instructions that perform the same computations. By folding these blocks, we achieve a reduction in code size without compromising performance, making it particularly beneficial for optimizing memory-constrained environments such as embedded systems and mobile platforms. This technique represents a significant evolution in identical code folding, enhancing the efficiency of code generation and aligning with LLVM's objective of creating more space-efficient binaries. This is an ongoing project, and you will hear more about it soon.
 
 <hr>
 
-### 4. GPU Architecture
+### 4. <span style="color:green"> GPU Architecture </span>
 {{< figure src="/uploads/GPU.png" >}}
 **<span style="color:orange">Optimizing the Yield of SIMT Processor</span>** -- As CMOS nanotechnology advances with smaller feature sizes and increased process variation, manufacturing anomalies in integrated circuits (ICs) are becoming more prevalent, particularly in the complex designs of special-purpose SIMT (Single Instruction, Multiple Threads) processors. Traditional methods like fault tolerance and redundancy are insufficient for significantly improving fabrication yield. This research proposes leveraging approximate computing, which exploits the error tolerance of applications like graphics and gaming, allowing the use of chips with minor defects. By demonstrating the effectiveness of this approach on SIMT processors, such as the Radeon HD 7970, the study shows that yield improvements of up to 0.17% are achievable, translating into substantial cost savings. Additionally, the introduction of low-area redundancy focused on critical instructions further enhances yield by 0.03%. Collectively, these techniques could save millions of dollars annually in SIMT processor manufacturing, offering a practical solution to the challenges posed by increasingly complex IC designs.
 
