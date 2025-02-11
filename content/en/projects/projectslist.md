@@ -80,15 +80,21 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
+#### <span style="color:green"> Information Retrieval and Web Search (C++/Search Engine/Page Rank): </span>
+
 - Design and implementation of a **Search Engine** which allows users to search related tweets in the cryptocurrency area using [Hadoop](https://hadoop.apache.org/) and [Lucene](https://lucene.apache.org/),  [Information Retrieval and Web Search](https://www.cs.ucr.edu/~vagelis/classes/CS242/index.htm) course project, Prof. [Vagelis Hristidis](https://www.cs.ucr.edu/~vagelis/), Winter 2020.
 
 <hr>
+
+#### <span style="color:green"> System on Chip Design (Xilinx ISE Design Suite/Synopsis Design Compiler/Post-Layout Simulation/SoC Encounter): </span>
 
 - Design, Simulation, and implementation of a complex ALU with exciting IP cores in **ISE Design Suite (Xilinx)**, synthesized using **Synopsis Design Compiler**, System on Chip Design course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Fall 2017.
 
 - **Post-layout simulation** for a complex ALU with **SoC Encounter**, System on Chip Design course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Fall 2017.
 
 <hr>
+
+#### <span style="color:green"> Testability (Java/Scan Chain/Computer Architecture): </span>
 
 - Design, Simulation, and implementation of a serial divider at gate level and synthesized it using a **Scan Chain**, Testability course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Spring 2017.
 
@@ -98,11 +104,15 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
+#### <span style="color:green"> Fault Tolerant System Design (C++/Redundancy/Failover/Replication/Checkpointing \& Recovery/Graceful Degradation): </span>
+
 - Analysis of Aging Mitigation Methods in **Graphic Processing Units**, Advanced Topics in Dependable Computing Systems course project, Prof. [Seyed-Ghassem Miremadi](http://sina.sharif.edu/~miremadi/), Spring 2017.
 
 - Analysis of the overhead of **crosstalk avoidance codes** for reliable data transfer of NoCs, , Advanced Topics in Dependable Computing Systems course project, Prof. [Seyed-Ghassem Miremadi](http://sina.sharif.edu/~miremadi/), Spring 2017.
 
 <hr>
+
+#### <span style="color:green"> Advanced VLSI Design (SoC-Encounter/Power, PDP, & Delay Analysis/Verilog/Modelsim/Synopsis Design Compiler/RTL Desing/HSPICE/PSPICE): </span>
 
 - Design and implementation of an arbiter circuit, along with determining its minimum die size using **SoC-Encounter**, Advanced VLSI Design course project, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016.
 
@@ -114,11 +124,15 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
+#### <span style="color:green"> RTL Design (VHDL/Verilog/ISE DesignMIPS Processor/FPGA Design): </span>
+
 - Design, Simulation, and Implementation of a **Double Precision Floating Point Multiplier** with **VHDL** and **ISE Design**, VHDL course project, Prof. [Naser Mohammadzadeh](http://ceit.aut.ac.ir/~mohamadz/), Spring 2014.
 
 - Design, Simulation, and Implementation of **MIPS Processor** with **Verilog**, **ISE Design Suite**, and **Xilinx FPGA**, Computer Architecture laboratory course, Prof. [Naser Mohammadzadeh](http://ceit.aut.ac.ir/~mohamadz/), Spring 2014.
 
 <hr>
+
+#### <span style="color:green"> Artificial Intelligence (C++/Prolog): </span>
 
 - Design and Implementation of Quoridor Game with Prolog, Artificial Intelligence course project, Prof. Shahrouz Moaven, Spring 2014.
 
