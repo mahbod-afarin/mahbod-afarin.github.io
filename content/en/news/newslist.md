@@ -6,7 +6,7 @@ date = "2024-08-08T00:00:00"
 
 <div style="text-align: justify;">
 
-- [2/25] One preprint now available on [Analysis of Stable Vertex Values: Fast Query Evaluation Over An Evolving Graph](https://arxiv.org/pdf/2502.10579)
+- [2/25] One preprint now available on arXiv: [Analysis of Stable Vertex Values: Fast Query Evaluation Over An Evolving Graph](https://arxiv.org/pdf/2502.10579)
 - [12/2024] Gave a talk on "Binary Code Size Reduction" at <span style="color: #4285F4;">G</span><span style="color: #EA4335;">o</span><span style="color: #FBBC05;">o</span><span style="color: #34A853;">g</span><span style="color: #EA4335;">l</span><span style="color: #4285F4;">e</span>.
 - [10/2024] I won the UCR Dissertation Completion Fellowship Award at UC Riverside in 2024.
 - [8/2024] I will be joining <span style="color: #4285F4;">G</span><span style="color: #EA4335;">o</span><span style="color: #FBBC05;">o</span><span style="color: #34A853;">g</span><span style="color: #EA4335;">l</span><span style="color: #4285F4;">e</span> as a Research Intern for Fall 2024!
