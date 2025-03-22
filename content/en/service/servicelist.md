@@ -2,6 +2,11 @@
 date = "2024-08-08T00:00:00"
 +++
 
+### Peer Review
+- Review activity for ACM transactions on architecture and code optimization.
+- Review activity for IEEE computer architecture letters.
+- Review activity for Parallel computing.
+
 ### Artifact Evaluation Committee
 - International Conference on Architectural Support for Programming Languages and Operating Systems ([ASPLOS'25](https://www.asplos-conference.org/asplos2025/)).
 - International Conference on Architectural Support for Programming Languages and Operating Systems ([ASPLOS'24](https://www.asplos-conference.org/asplos2024/committees/index.html#organizing-committee)).
