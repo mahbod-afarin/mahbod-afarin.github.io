@@ -40,7 +40,7 @@ abstract: '<div class="justify-text"> Evaluating a query over a large, irregular
 publication: '*arXiv preprint arXiv:2502.10579*'
 links:
 - name: DOI
-  url: https://arxiv.org/pdf/2502.10579
+  url: https://arxiv.org/abs/2502.10579
 - name: PDF
   url: uploads/uvvArxiv.pdf
 ---
