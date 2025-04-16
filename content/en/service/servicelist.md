@@ -21,7 +21,6 @@ of California, Riverside, Winter 2024.
 - Present Common Graph project at Highlights of Parallel Computing Conference, Florida, USA,
 Spring 2023.
 
-
 <!-- ### Reviewer
 - Conferences: CGO’25, MICRO’25, ISPASS’24, PPOPP’24, MICRO’23, ICDCS’23, ACM ICS’23, ISPASS’23, ICDCS’22, ISPASS’22, CGO’20, MICRO’20, PACT’20.
 - Journals: CAL’23, TACO’23, IEEE Transaction on Computers’23, Parallel Computing’23.
