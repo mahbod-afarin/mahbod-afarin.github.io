@@ -88,9 +88,9 @@ date = "2025-01-01T00:00:00"
 
 #### System on Chip Design (Xilinx ISE Design Suite/Synopsis Design Compiler/Post-Layout Simulation/SoC Encounter):
 
-- Design, Simulation, and implementation of a complex ALU with exciting IP cores in **ISE Design Suite (Xilinx)**, synthesized using **Synopsis Design Compiler**, System on Chip Design course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Fall 2017.
+- Design, Simulation, and implementation of a complex ALU with exciting IP cores in **ISE Design Suite (Xilinx)**, synthesized using **Synopsis Design Compiler**, System on Chip Design course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Fall 2017 ([Code](https://github.com/mahbod-afarin/RTL-Design-Using-IP-Cores) | [Summery](https://github.com/mahbod-afarin/RTL-Design-Using-IP-Cores) | [Report](/uploads/SoC1.pdf)).
 
-- **Post-layout simulation** for a complex ALU with **SoC Encounter**, System on Chip Design course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Fall 2017.
+- End to End ASIC Design and Verification of a Mixed ALU Using Cadence Tools, System on Chip Design course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Fall 2017 ([Code](https://github.com/mahbod-afarin/End-to-End-ASIC-Design-and-Verification-of-a-Mixed-ALU-Using-Cadence-Tools) | [Summery](https://github.com/mahbod-afarin/End-to-End-ASIC-Design-and-Verification-of-a-Mixed-ALU-Using-Cadence-Tools) | [Report](/uploads/SoC2.pdf)).
 
 <hr>
 
@@ -112,7 +112,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### Advanced VLSI Design (SoC-EncounterVerilog/Modelsim/Synopsis Design Compiler /RTL Desing/HSPICE/PSPICE/SoC Encounter/Power, PDP, & Delay Analysis/):
+#### Advanced VLSI Design (SoC-EncounterVerilog/Modelsim/Synopsis Design Compiler /RTL Desing/HSPICE/PSPICE/SoC Encounter/Power, PDP, & Delay Analysis):
 
 - Pre and Post-Synthesis Evaluation of a Designs: **Functional Verification, Area, Timing, and Power Analysis**, Advanced VLSI Design course project, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016 ([Code](https://github.com/mahbod-afarin/Post-Synthesis-Evaluation) | [Summery](https://github.com/mahbod-afarin/Post-Synthesis-Evaluation) | [Report](/uploads/AdvancedVLSI2.pdf)).
 
