@@ -94,24 +94,6 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### Testability (Java/Scan Chain/Computer Architecture):
-
-- Design, Simulation, and implementation of a serial divider at gate level and synthesized it using a **Scan Chain**, Testability course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Spring 2017.
-
-- Implementing a software for simulating the impact of fault and delay on standard combinations logic using **JAVA**, Testability course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Spring 2017.
-
-- Implementing a software for simulating ISCAS combinational circuits at gate level with **JAVA**, Testability course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Spring 2017.
-
-<hr>
-
-#### Fault Tolerant System Design (C++/Redundancy/Failover/Replication/Checkpointing \& Recovery/Graceful Degradation):
-
-- Analysis of Aging Mitigation Methods in **Graphic Processing Units**, Advanced Topics in Dependable Computing Systems course project, Prof. [Seyed-Ghassem Miremadi](http://sina.sharif.edu/~miremadi/), Spring 2017.
-
-- Analysis of the overhead of **crosstalk avoidance codes** for reliable data transfer of NoCs, , Advanced Topics in Dependable Computing Systems course project, Prof. [Seyed-Ghassem Miremadi](http://sina.sharif.edu/~miremadi/), Spring 2017.
-
-<hr>
-
 #### Advanced VLSI Design (SoC-EncounterVerilog/Modelsim/Synopsis Design Compiler /RTL Desing/HSPICE/PSPICE/SoC Encounter/Power, PDP, & Delay Analysis):
 
 - Pre and Post-Synthesis Evaluation of a Designs: **Functional Verification, Area, Timing, and Power Analysis**, Advanced VLSI Design course project, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016 ([Code](https://github.com/mahbod-afarin/Post-Synthesis-Evaluation) | [Summery](https://github.com/mahbod-afarin/Post-Synthesis-Evaluation) | [Report](/uploads/AdvancedVLSI2.pdf)).
@@ -134,15 +116,32 @@ date = "2025-01-01T00:00:00"
 
 #### Digital System Design (Xilinx ISE/Modelsim/FPGAs/Verilog):
 
-- Implementation of a Stack-based Processor, Digital System Design Labraturay, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor) | [Summery](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor) | [Report](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor)).
-- Ternary Content-Addressable Memory (TCAM), Digital System Design Labraturay, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Implementation-of-a-ternary-content-addressable-memory-TCAM-) | [Summery](https://github.com/mahbod-afarin/Implementation-of-a-ternary-content-addressable-memory-TCAM-) | [Report](https://github.com/mahbod-afarin/Implementation-of-a-ternary-content-addressable-memory-TCAM-)).
-- ALU for Complex Numbers, Digital System Design Labraturay, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers) | [Summery](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers) | [Report](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers)).
-- , Digital System Design, Summer 2016 ([Code](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers) | [Summery](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers) | [Report](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers)).
-- Universal Asynchronous Receiver Transmitter UART, Digital System Design Labraturay, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Universal-Asynchronous-Receiver-Transmitter-UART-) | [Summery](https://github.com/mahbod-afarin/Universal-Asynchronous-Receiver-Transmitter-UART-) | [Report](https://github.com/mahbod-afarin/Universal-Asynchronous-Receiver-Transmitter-UART-)).
-- Designing a Digital Incubator Controller, Digital System Design Labraturay, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Designing-a-Digital-Incubator-Controller) | [Summery](https://github.com/mahbod-afarin/Designing-a-Digital-Incubator-Controller) | [Report](https://github.com/mahbod-afarin/Designing-a-Digital-Incubator-Controller)).
-- Multiplier Design using Booth Algorithm, Digital System Design Labraturay, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Multiplier-Design-using-Booth-Algorithm) | [Summery](https://github.com/mahbod-afarin/Multiplier-Design-using-Booth-Algorithm) | [Report](https://github.com/mahbod-afarin/Multiplier-Design-using-Booth-Algorithm)).
-- Behavioral Modeling of a Stack with Push and Pop Operations, Digital System Design, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Behavioral-modeling-Stack-with-push-and-pop-operations) | [Summery](https://github.com/mahbod-afarin/Behavioral-modeling-Stack-with-push-and-pop-operations) | [Report](https://github.com/mahbod-afarin/Behavioral-modeling-Stack-with-push-and-pop-operations)).
-- Dataflow Modeling of a 4-bit Cascadable Comparator and Serial Comparator, Digital System Design, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Dataflow-modeling-4-bit-cascadable-comparator-and-serial-comparator) | [Summery](https://github.com/mahbod-afarin/Dataflow-modeling-4-bit-cascadable-comparator-and-serial-comparator) | [Report](https://github.com/mahbod-afarin/Dataflow-modeling-4-bit-cascadable-comparator-and-serial-comparator)).
+- Implementation of a **Stack-based Processor**, Digital System Design Labraturay, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor) | [Summery](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor) | [Report](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor)).
+- Ternary Content-Addressable Memory (**TCAM**), Digital System Design Labraturay, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Implementation-of-a-ternary-content-addressable-memory-TCAM-) | [Summery](https://github.com/mahbod-afarin/Implementation-of-a-ternary-content-addressable-memory-TCAM-) | [Report](https://github.com/mahbod-afarin/Implementation-of-a-ternary-content-addressable-memory-TCAM-)).
+- ALU for **Complex Numbers**, Digital System Design Labraturay, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers) | [Summery](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers) | [Report](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers)).
+- Universal Asynchronous Receiver Transmitter (**UART**), Digital System Design Labraturay, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Universal-Asynchronous-Receiver-Transmitter-UART-) | [Summery](https://github.com/mahbod-afarin/Universal-Asynchronous-Receiver-Transmitter-UART-) | [Report](https://github.com/mahbod-afarin/Universal-Asynchronous-Receiver-Transmitter-UART-)).
+- Designing a Digital **Incubator Controller**, Digital System Design Labraturay, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Designing-a-Digital-Incubator-Controller) | [Summery](https://github.com/mahbod-afarin/Designing-a-Digital-Incubator-Controller) | [Report](https://github.com/mahbod-afarin/Designing-a-Digital-Incubator-Controller)).
+- Multiplier Design using **Booth Algorithm**, Digital System Design Labraturay, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Multiplier-Design-using-Booth-Algorithm) | [Summery](https://github.com/mahbod-afarin/Multiplier-Design-using-Booth-Algorithm) | [Report](https://github.com/mahbod-afarin/Multiplier-Design-using-Booth-Algorithm)).
+- Behavioral Modeling of a **Stack** with Push and Pop Operations, Digital System Design, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Behavioral-modeling-Stack-with-push-and-pop-operations) | [Summery](https://github.com/mahbod-afarin/Behavioral-modeling-Stack-with-push-and-pop-operations) | [Report](https://github.com/mahbod-afarin/Behavioral-modeling-Stack-with-push-and-pop-operations)).
+- Dataflow Modeling of a 4-bit **Cascadable Comparator and Serial Comparator**, Digital System Design, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Dataflow-modeling-4-bit-cascadable-comparator-and-serial-comparator) | [Summery](https://github.com/mahbod-afarin/Dataflow-modeling-4-bit-cascadable-comparator-and-serial-comparator) | [Report](https://github.com/mahbod-afarin/Dataflow-modeling-4-bit-cascadable-comparator-and-serial-comparator)).
+
+<hr>
+
+#### Testability (Java/Scan Chain/Computer Architecture):
+
+- Design, Simulation, and implementation of a serial divider at gate level and synthesized it using a **Scan Chain**, Testability course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Spring 2017.
+
+- Implementing a software for simulating the impact of fault and delay on standard combinations logic using **JAVA**, Testability course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Spring 2017.
+
+- Implementing a software for simulating ISCAS combinational circuits at gate level with **JAVA**, Testability course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Spring 2017.
+
+<hr>
+
+#### Fault Tolerant System Design (C++/Redundancy/Failover/Replication/Checkpointing \& Recovery/Graceful Degradation):
+
+- Analysis of Aging Mitigation Methods in **Graphic Processing Units**, Advanced Topics in Dependable Computing Systems course project, Prof. [Seyed-Ghassem Miremadi](http://sina.sharif.edu/~miremadi/), Spring 2017.
+
+- Analysis of the overhead of **crosstalk avoidance codes** for reliable data transfer of NoCs, , Advanced Topics in Dependable Computing Systems course project, Prof. [Seyed-Ghassem Miremadi](http://sina.sharif.edu/~miremadi/), Spring 2017.
 
 <hr>
 
