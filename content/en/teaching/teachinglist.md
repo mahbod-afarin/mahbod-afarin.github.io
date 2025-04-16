@@ -7,18 +7,18 @@ date = "2024-08-08T00:00:00"
 - [Summer 2023] TA - Compiler Design, UC Riverside.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ [Numerical Evaluation](/uploads/Compiler-Summer23-Evaluation.pdf) | [Comments](/uploads/Compiler-Summer23-Comments.pdf)
 
-- [Summer 2022] TA - Compiler Design, UC Riverside.
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ [Numerical Evaluation](/uploads/Compiler-Summer22-Evaluation.pdf) | [Comments](/uploads/Compiler-Summer22-Comments.pdf)
+- [Summer 2022] TA - Compiler Design, UC Riverside.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ [Numerical Evaluation](/uploads/Compiler-Summer22-Evaluation.pdf) | [Comments](/uploads/Compiler-Summer22-Comments.pdf)
 
-- [Spring 2022] TA - Compiler Design, UC Riverside.
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ [Numerical Evaluation](/uploads/Compiler-Spring22-Evaluation.pdf)
+- [Spring 2022] TA - Compiler Design, UC Riverside.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ [Numerical Evaluation](/uploads/Compiler-Spring22-Evaluation.pdf)
 
 - [Summer 2021] TA - [Compiler Design](https://www.cs.ucr.edu/~mafar001/compiler/index1.html), UC Riverside.
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ [Numerical Evaluation](/uploads/Compiler-Summer21-Evaluation.pdf) | [Comments](/uploads/Compiler-Summer21-Comments.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ [Numerical Evaluation](/uploads/Compiler-Summer21-Evaluation.pdf) | [Comments](/uploads/Compiler-Summer21-Comments.pdf)
 
-- [Spring 2021] TA - Compiler Design, UC Riverside.
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Class1: [Numerical Evaluation](/uploads/Compiler-Spring21-Class1-Evaluation.pdf) | [Comments](/uploads/Compiler-Spring21-Class1-Comments.pdf)
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Class2: [Numerical Evaluation](/uploads/Compiler-Spring21-Class2-Evaluation.pdf) | [Comments](/uploads/Compiler-Spring21-Class2-Comments.pdf)
+- [Spring 2021] TA - Compiler Design, UC Riverside.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Class1: [Numerical Evaluation](/uploads/Compiler-Spring21-Class1-Evaluation.pdf) | [Comments](/uploads/Compiler-Spring21-Class1-Comments.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Class2: [Numerical Evaluation](/uploads/Compiler-Spring21-Class2-Evaluation.pdf) | [Comments](/uploads/Compiler-Spring21-Class2-Comments.pdf)
 
 - [Spring 2018] TA - System on Chip, Sharif University of Technology.
 - [Fall 2017] TA - Testability, Sharif University of Technology.
