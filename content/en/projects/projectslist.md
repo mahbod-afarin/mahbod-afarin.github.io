@@ -114,13 +114,13 @@ date = "2025-01-01T00:00:00"
 
 #### Advanced VLSI Design (SoC-Encounter/Power, PDP, & Delay Analysis/Verilog/Modelsim/Synopsis Design Compiler/RTL Desing/HSPICE/PSPICE):
 
-- Design and implementation of an arbiter circuit, along with determining its minimum die size using **SoC-Encounter**, Advanced VLSI Design course project, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016.
+- Pre and Post-Synthesis Evaluation of a Designs: **Functional Verification, Area, Timing, and Power Analysis**, Advanced VLSI Design course project, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016 ([Code](https://github.com/mahbod-afarin/Post-Synthesis-Evaluation) | [Summery](https://github.com/mahbod-afarin/Post-Synthesis-Evaluation) | [Report](/uploads/AdvancedVLSI2.pdf)).
 
-- Finding the optimal W-min for an XOR_XNOR circuit to optimize **power, PDP, and delay**, Advanced VLSI Design course project, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016.
+- Physical Design and Layout Flow Using Cadence for Synthesized Digital Circuits, Advanced VLSI Design course project, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016 ([Code](https://github.com/mahbod-afarin/Layout-Design-Using-Cadence-Tools) | [Summery](https://github.com/mahbod-afarin/Layout-Design-Using-Cadence-Tools) | [Report](/uploads/AdvancedVLSI4.pdf)).
 
-- Designing, simulating, and implementing an arbiter circuit with **Verilog**, **Modelsim**, and **Synopsis Design Compiler**, and examining the effect of optimization constraints on speed and area, Advanced VLSI Design course project, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016.
+- Transistor Sizing for Power, Delay, and PDP Optimization Using HSPICE, Advanced VLSI Design course project, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016 ([Code](https://github.com/mahbod-afarin/Transistor-Sizing-for-Power-Delay-and-PDP-Optimization-Using-HSPICE) | [Summery](https://github.com/mahbod-afarin/Transistor-Sizing-for-Power-Delay-and-PDP-Optimization-Using-HSPICE) | [Report](/uploads/AdvancedVLSI2.pdf)).
 
-- Designing and simulating NAND gate in **RTL logic** and examining the effects of pull up resistor on the output load, Advanced VLSI Design course project, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016.
+- Designing and simulating NAND gate in **RTL logic** and examining the effects of pull up resistor on the output load, Advanced VLSI Design course project, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016 ([Code](https://github.com/mahbod-afarin/NAND-Gate-Design-in-RTL-Logic-and-Impact-of-Up-Pull-Resistor) | [Summery](https://github.com/mahbod-afarin/NAND-Gate-Design-in-RTL-Logic-and-Impact-of-Up-Pull-Resistor) | [Report](https://github.com/mahbod-afarin/NAND-Gate-Design-in-RTL-Logic-and-Impact-of-Up-Pull-Resistor)).
 
 <hr>
 
