@@ -124,11 +124,25 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### RTL Design (VHDL/Verilog/ISE DesignMIPS Processor/FPGA Design):
+#### RTL Design (VHDL/Verilog/ISE Design/MIPS Processor/FPGA Design):
 
 - Design, Simulation, and Implementation of a **Double Precision Floating Point Multiplier** with **VHDL** and **ISE Design**, VHDL course project, Prof. [Naser Mohammadzadeh](http://ceit.aut.ac.ir/~mohamadz/), Spring 2014.
 
 - Design, Simulation, and Implementation of **MIPS Processor** with **Verilog**, **ISE Design Suite**, and **Xilinx FPGA**, Computer Architecture laboratory course, Prof. [Naser Mohammadzadeh](http://ceit.aut.ac.ir/~mohamadz/), Spring 2014.
+
+<hr>
+
+#### Digital System Design (Xilinx ISE/Modelsim/FPGAs/Verilog):
+
+- Implementation of a Stack-based Processor, Digital System Design, Summer 2016 ([Code](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor) | [Summery](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor) | [Report](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor)).
+- Ternary Content-Addressable Memory (TCAM), Digital System Design, Summer 2016 ([Code](https://github.com/mahbod-afarin/Implementation-of-a-ternary-content-addressable-memory-TCAM-) | [Summery](https://github.com/mahbod-afarin/Implementation-of-a-ternary-content-addressable-memory-TCAM-) | [Report](https://github.com/mahbod-afarin/Implementation-of-a-ternary-content-addressable-memory-TCAM-)).
+- ALU for Complex Numbers, Digital System Design, Summer 2016 ([Code]() | [Summery]() | [Report]()).
+- , Digital System Design, Summer 2016 ([Code](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers) | [Summery](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers) | [Report](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers)).
+- Universal Asynchronous Receiver Transmitter UART, Digital System Design, Summer 2016 ([Code](https://github.com/mahbod-afarin/Universal-Asynchronous-Receiver-Transmitter-UART-) | [Summery](https://github.com/mahbod-afarin/Universal-Asynchronous-Receiver-Transmitter-UART-) | [Report](https://github.com/mahbod-afarin/Universal-Asynchronous-Receiver-Transmitter-UART-)).
+- Designing a Digital Incubator Controller, Digital System Design, Summer 2016 ([Code](https://github.com/mahbod-afarin/Designing-a-Digital-Incubator-Controller) | [Summery](https://github.com/mahbod-afarin/Designing-a-Digital-Incubator-Controller) | [Report](https://github.com/mahbod-afarin/Designing-a-Digital-Incubator-Controller)).
+- Multiplier Design using Booth Algorithm, Digital System Design, Summer 2016 ([Code](https://github.com/mahbod-afarin/Multiplier-Design-using-Booth-Algorithm) | [Summery](https://github.com/mahbod-afarin/Multiplier-Design-using-Booth-Algorithm) | [Report](https://github.com/mahbod-afarin/Multiplier-Design-using-Booth-Algorithm)).
+- Behavioral Modeling of a Stack with Push and Pop Operations, Digital System Design, Summer 2016 ([Code](https://github.com/mahbod-afarin/Behavioral-modeling-Stack-with-push-and-pop-operations) | [Summery](https://github.com/mahbod-afarin/Behavioral-modeling-Stack-with-push-and-pop-operations) | [Report](https://github.com/mahbod-afarin/Behavioral-modeling-Stack-with-push-and-pop-operations)).
+- Dataflow Modeling of a 4-bit Cascadable Comparator and Serial Comparator, Digital System Design, Summer 2016 ([Code](https://github.com/mahbod-afarin/Dataflow-modeling-4-bit-cascadable-comparator-and-serial-comparator) | [Summery](https://github.com/mahbod-afarin/Dataflow-modeling-4-bit-cascadable-comparator-and-serial-comparator) | [Report](https://github.com/mahbod-afarin/Dataflow-modeling-4-bit-cascadable-comparator-and-serial-comparator)).
 
 <hr>
 
