@@ -15,6 +15,11 @@ date = "2024-08-08T00:00:00"
 ### Professional Services
 - Audio/Video Chair of the [ASPLOS’24](https://www.asplos-conference.org/asplos2024/) Conference.
 
+### Talks
+- Present Common Graph and Core Graph projects at Society of Women Engineers, University
+of California, Riverside, Winter 2024.
+- Present Common Graph project at Highlights of Parallel Computing Conference, Florida, USA,
+Spring 2023.
 
 
 <!-- ### Reviewer
