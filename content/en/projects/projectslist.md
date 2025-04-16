@@ -24,7 +24,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### <span style="color:green"> GPU Architecture and Programming (CUDA/OpenMP/OpenCL/Parallel Programming): </span>
+#### GPU Architecture and Programming (CUDA/OpenMP/OpenCL/Parallel Programming):
 
 - Implementation of a **CUDA-based** histogram kernel showcasing the efficient use of <i> atomic operations </i> for parallel computation, [GPU Architecture and Programming](http://teaching.danielwong.org/csee217/fall24) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Fall 2021 ([Code](https://github.com/mahbod-afarin/histogram-kernel-/tree/main) | [Summery](http://teaching.danielwong.org/csee217/fall21/lab4-histogram) | [Report](/uploads/GPU1.pdf)).
 
@@ -38,7 +38,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### <span style="color:green"> Compiler Construction (C++/LLVM/Available Expression Analysis/Liveness Analysis): </span>
+#### Compiler Construction (C++/LLVM/Available Expression Analysis/Liveness Analysis):
 
  - Implementation of the **fundamental available expression analysis** and **common sub-expression elimination** on **LLVM** using **C++**, [Compiler Construction](https://www.cs.ucr.edu/~gupta/classes.html) course project, Prof. [Rajiv Gupta](https://www.cs.ucr.edu/~gupta/), Fall 2021 ([Code](https://github.com/mahbod-afarin/Common-Subexpression-Elimination) | [Summery](/uploads/Compiler1.pdf)).
 
@@ -46,7 +46,7 @@ date = "2025-01-01T00:00:00"
   
 <hr>
 
-#### <span style="color:green"> High Performance Computing (C++/OpenCL/Parallel Programming): </span>
+#### High Performance Computing (C++/OpenCL/Parallel Programming): 
 
 - Performance optimization of a matrix multiplication program via **register and cache reuse** using **C++**, [High Performance Computing](https://www.cs.ucr.edu/~chen/teaching.html) course project, Prof. [Zizhong Chen](https://www.cs.ucr.edu/~chen/index.html), Fall 2021 ([Code](https://github.com/mahbod-afarin/Register-and-Cache-Reuse/tree/main) | [Summery](/uploads/HP1.pdf) | [Report](/uploads/HP2.pdf)).
 
@@ -56,19 +56,19 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### <span style="color:green"> Data Mining (C++/Data Analysis): </span>
+#### Data Mining (C++/Data Analysis): 
 
 - Finding influencers in a network using **Data Mining Techniques** and **SNAP Stanford Dataset** collections, Data Mining course project, Prof. [Vagelis Papalexakis](https://www.cs.ucr.edu/~epapalex/), Spring 2021.
 
 <hr>
 
-#### <span style="color:green"> Algorithmic Techniques in Computational Biology (Java/Algorithm Implementation): </span>
+#### Algorithmic Techniques in Computational Biology (Java/Algorithm Implementation):
 
 - Design and implementation of a O(m×n) space, O(m×n×k) time **SP Alignment Algorithm** for three DNA sequences using **JAVA** language, [Algorithmic Techniques in Computational Biology](https://www.cs.ucr.edu/~jiang/238-homepage.html) course project, Prof. [Tao Jiang](https://www.cs.ucr.edu/~jiang/) , Spring 2021.
 
 <hr>
 
-#### <span style="color:green"> Advanced Computer Architecture (C++/Tomasulo/Pipeline/Brach Predictors/Caches): </span>
+#### Advanced Computer Architecture (C++/Tomasulo/Pipeline/Brach Predictors/Caches):
 
 - Implementing the **Tomasulo Speculative Algorithm** using **C++** language, [Advanced Computer Architecture](http://teaching.danielwong.org/cs203/winter21) course project, Prof. [Daniel Wong](https://www.danielwong.org/), Winter 2020 ([Code](https://github.com/mahbod-afarin/Tomasulo-Speculative-Algorithm) | [Summery](http://teaching.danielwong.org/cs203/winter21/final-project) | [Report](/uploads/ACA1.pdf)).
 
@@ -80,13 +80,13 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### <span style="color:green"> Information Retrieval and Web Search (C++/Search Engine/Page Rank): </span>
+#### Information Retrieval and Web Search (C++/Search Engine/Page Rank):
 
 - Design and implementation of a **Search Engine** which allows users to search related tweets in the cryptocurrency area using [Hadoop](https://hadoop.apache.org/) and [Lucene](https://lucene.apache.org/),  [Information Retrieval and Web Search](https://www.cs.ucr.edu/~vagelis/classes/CS242/index.htm) course project, Prof. [Vagelis Hristidis](https://www.cs.ucr.edu/~vagelis/), Winter 2020.
 
 <hr>
 
-#### <span style="color:green"> System on Chip Design (Xilinx ISE Design Suite/Synopsis Design Compiler/Post-Layout Simulation/SoC Encounter): </span>
+#### System on Chip Design (Xilinx ISE Design Suite/Synopsis Design Compiler/Post-Layout Simulation/SoC Encounter):
 
 - Design, Simulation, and implementation of a complex ALU with exciting IP cores in **ISE Design Suite (Xilinx)**, synthesized using **Synopsis Design Compiler**, System on Chip Design course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Fall 2017.
 
@@ -94,7 +94,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### <span style="color:green"> Testability (Java/Scan Chain/Computer Architecture): </span>
+#### Testability (Java/Scan Chain/Computer Architecture):
 
 - Design, Simulation, and implementation of a serial divider at gate level and synthesized it using a **Scan Chain**, Testability course project, Prof. [Shaahin Hessabi](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas.html), Spring 2017.
 
@@ -104,7 +104,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### <span style="color:green"> Fault Tolerant System Design (C++/Redundancy/Failover/Replication/Checkpointing \& Recovery/Graceful Degradation): </span>
+#### Fault Tolerant System Design (C++/Redundancy/Failover/Replication/Checkpointing \& Recovery/Graceful Degradation):
 
 - Analysis of Aging Mitigation Methods in **Graphic Processing Units**, Advanced Topics in Dependable Computing Systems course project, Prof. [Seyed-Ghassem Miremadi](http://sina.sharif.edu/~miremadi/), Spring 2017.
 
@@ -112,7 +112,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### <span style="color:green"> Advanced VLSI Design (SoC-Encounter/Power, PDP, & Delay Analysis/Verilog/Modelsim/Synopsis Design Compiler/RTL Desing/HSPICE/PSPICE): </span>
+#### Advanced VLSI Design (SoC-Encounter/Power, PDP, & Delay Analysis/Verilog/Modelsim/Synopsis Design Compiler/RTL Desing/HSPICE/PSPICE):
 
 - Design and implementation of an arbiter circuit, along with determining its minimum die size using **SoC-Encounter**, Advanced VLSI Design course project, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016.
 
@@ -124,7 +124,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### <span style="color:green"> RTL Design (VHDL/Verilog/ISE DesignMIPS Processor/FPGA Design): </span>
+#### RTL Design (VHDL/Verilog/ISE DesignMIPS Processor/FPGA Design):
 
 - Design, Simulation, and Implementation of a **Double Precision Floating Point Multiplier** with **VHDL** and **ISE Design**, VHDL course project, Prof. [Naser Mohammadzadeh](http://ceit.aut.ac.ir/~mohamadz/), Spring 2014.
 
@@ -132,7 +132,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### <span style="color:green"> Artificial Intelligence (C++/Prolog): </span>
+#### Artificial Intelligence (C++/Prolog):
 
 - Design and Implementation of Quoridor Game with Prolog, Artificial Intelligence course project, Prof. Shahrouz Moaven, Spring 2014.
 
