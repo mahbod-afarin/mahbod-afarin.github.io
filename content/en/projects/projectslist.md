@@ -134,7 +134,7 @@ date = "2025-01-01T00:00:00"
 
 #### Digital System Design (Xilinx ISE/Modelsim/FPGAs/Verilog):
 
-- Implementation of a Stack-based Processor, Digital System Design, Summer 2016 ([Code](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor) | [Summery](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor) | [Report](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor)).
+- Implementation of a Stack-based Processor, Digital System Design Labraturay, I was the Lab Instructor, Summer 2016 ([Code](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor) | [Summery](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor) | [Report](https://github.com/mahbod-afarin/Implementation-of-a-Stack-based-Processor)).
 - Ternary Content-Addressable Memory (TCAM), Digital System Design, Summer 2016 ([Code](https://github.com/mahbod-afarin/Implementation-of-a-ternary-content-addressable-memory-TCAM-) | [Summery](https://github.com/mahbod-afarin/Implementation-of-a-ternary-content-addressable-memory-TCAM-) | [Report](https://github.com/mahbod-afarin/Implementation-of-a-ternary-content-addressable-memory-TCAM-)).
 - ALU for Complex Numbers, Digital System Design, Summer 2016 ([Code]() | [Summery]() | [Report]()).
 - , Digital System Design, Summer 2016 ([Code](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers) | [Summery](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers) | [Report](https://github.com/mahbod-afarin/ALU-for-Complex-Numbers)).
