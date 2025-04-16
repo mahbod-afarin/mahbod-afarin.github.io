@@ -4,7 +4,7 @@ date = "2024-08-08T00:00:00"
 
 ### Teaching Experience
 
-- [Summer 2023] TA - Compiler Design, UC Riverside.  
+- [Summer 2023] TA - Compiler Design, UC Riverside.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ [Numerical Evaluation](/uploads/Compiler-Summer23-Evaluation.pdf) | [Comments](/uploads/Compiler-Summer23-Comments.pdf)
 
 - [Summer 2022] TA - Compiler Design, UC Riverside.
