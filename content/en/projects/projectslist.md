@@ -106,7 +106,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### RTL Design (VHDL/Verilog/ISE Design/MIPS Processor/FPGA Design):
+#### Hardware Systems Modeling and Design Methodologies (VHDL/Verilog/ISE Design/MIPS Processor/FPGA Design):
 
 - Design, Simulation, and Implementation of a **Double Precision Floating Point Multiplier** with **VHDL** and **ISE Design**, VHDL course project, Prof. [Naser Mohammadzadeh](http://ceit.aut.ac.ir/~mohamadz/), Spring 2014.
 
