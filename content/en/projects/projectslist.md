@@ -112,7 +112,7 @@ date = "2025-01-01T00:00:00"
 
 <hr>
 
-#### Advanced VLSI Design (SoC-Encounter/Power, PDP, & Delay Analysis/Verilog/Modelsim/Synopsis Design Compiler/RTL Desing/HSPICE/PSPICE):
+#### Advanced VLSI Design (SoC-EncounterVerilog/Modelsim/Synopsis Design Compiler /RTL Desing/HSPICE/PSPICE/SoC Encounter/Power, PDP, & Delay Analysis/):
 
 - Pre and Post-Synthesis Evaluation of a Designs: **Functional Verification, Area, Timing, and Power Analysis**, Advanced VLSI Design course project, Prof. [Shaahin Hessabi](https://sharif.edu/~hessabi/), Fall 2016 ([Code](https://github.com/mahbod-afarin/Post-Synthesis-Evaluation) | [Summery](https://github.com/mahbod-afarin/Post-Synthesis-Evaluation) | [Report](/uploads/AdvancedVLSI2.pdf)).
 
