@@ -6,7 +6,9 @@ date = "2024-08-08T00:00:00"
 
 <div style="text-align: justify;">
 
-- [3/2025] Gave a talk on "Hardware/Software Approaches for Accelerating Graph Processing Workloads" in the School of Computing
+- [7/2025] I have started a new position as a postdoctoral scholar at the University of California, San Diego, under the supervision of Professor [Tajana Šimunić Rosing](https://cseweb.ucsd.edu/~trosing/).
+- [6/2025] I have successfully defended my Ph.D. dissertation titled "Redundancy Removal for Accelerating Graph Processing Workloads." Officially a doctor now! 😊
+- [4/2025] Gave a talk on "Hardware/Software Approaches for Accelerating Graph Processing Workloads" in the School of Computing
  at [Binghamton University](https://tulane.edu).
 - [3/2025] Gave a talk on "Redundancy Removal for Accelerating Graph Processing Workloads" in the Department of Computer Science at [Tulane University](https://tulane.edu).
 - [2/2025] One preprint now available on arXiv: [Analysis of Stable Vertex Values: Fast Query Evaluation Over An Evolving Graph](https://arxiv.org/pdf/2502.10579)
