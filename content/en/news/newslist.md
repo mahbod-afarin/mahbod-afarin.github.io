@@ -6,6 +6,9 @@ date = "2024-08-08T00:00:00"
 
 <div style="text-align: justify;">
 
+- [3/2025] Gave a talk on "Hardware/Software Approaches for Accelerating Graph Processing Workloads" in the School of Computing
+ at [Binghamton University](https://tulane.edu).
+- [3/2025] Gave a talk on "Redundancy Removal for Accelerating Graph Processing Workloads" in the Department of Computer Science at [Tulane University](https://tulane.edu).
 - [2/2025] One preprint now available on arXiv: [Analysis of Stable Vertex Values: Fast Query Evaluation Over An Evolving Graph](https://arxiv.org/pdf/2502.10579)
 - [12/2024] Gave a talk on "Binary Code Size Reduction" at <span style="color: #4285F4;">G</span><span style="color: #EA4335;">o</span><span style="color: #FBBC05;">o</span><span style="color: #34A853;">g</span><span style="color: #EA4335;">l</span><span style="color: #4285F4;">e</span>.
 - [10/2024] I won the UCR Dissertation Completion Fellowship Award at UC Riverside in 2024.
