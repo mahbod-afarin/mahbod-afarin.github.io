@@ -44,7 +44,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of California, Riverside
-      year: 2025 (Expected)
+      year: 2025
     - course: MSc in Computer Engineering
       institution: Sharif University of Technology
       year: 2018
