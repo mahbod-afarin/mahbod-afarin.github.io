@@ -3,7 +3,7 @@ title: Mahbod Afarin
 role: Postdoctoral Scholar
   
 # Short bio (displayed in user profile at end of posts)
-bio: Mahbod Afarin is a PhD Candidate of computer science and engineering at the University of California Riverside advised by Professor Rajiv Gupta and Professor Nael Abu-Ghazaleh. His research interests include Computer Architecture, Compiler Optimization, and Graph Processing Hardware and Accelerators.
+bio: Mahbod Afarin is a postdoctoral scholar in computer science and engineering at the University of California, San Diego, under the supervision of Professor Tajana Šimunić Rosing. His research interests include computer architecture, compiler optimization, and graph processing hardware and accelerators.
 
 interests:
   - Computer Architecture
@@ -36,8 +36,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: University of California, Riverside
-    url: https://www.ucr.edu/
+  - name: University of California San Diego
+    url: https://ucsd.edu
     
 # Education to show in About widget
 education:
