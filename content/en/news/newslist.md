@@ -6,8 +6,8 @@ date = "2024-08-08T00:00:00"
 
 <div style="text-align: justify;">
 
-- [6/2025] I have started a new position as a Postdoctoral Scholar at the University of California, San Diego, under the supervision of Professor [Tajana Šimunić Rosing](https://cseweb.ucsd.edu/~trosing/).
-- [6/2025] I have successfully defended my Ph.D. dissertation titled "Redundancy Removal for Accelerating Graph Processing Workloads." Officially a doctor now! 😊
+- [6/2025] I have started a new position as a **Postdoctoral Scholar** at the **University of California, San Diego**, under the supervision of Professor [Tajana Šimunić Rosing](https://cseweb.ucsd.edu/~trosing/).
+- [6/2025] I have successfully defended my **Ph.D. dissertation** titled "Redundancy Removal for Accelerating Graph Processing Workloads." Officially a doctor now! 😊
 - [4/2025] Gave a talk on "Hardware/Software Approaches for Accelerating Graph Processing Workloads" in the School of Computing
  at [Binghamton University](https://tulane.edu).
 - [3/2025] Gave a talk on "Redundancy Removal for Accelerating Graph Processing Workloads" in the Department of Computer Science at [Tulane University](https://tulane.edu).
