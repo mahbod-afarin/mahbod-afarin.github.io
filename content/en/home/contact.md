@@ -16,11 +16,11 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: mafar001[AT]ucr.edu
+  email: mafarin[AT]ucsd.edu
   phone: 
   address:
     street:
-    city: Riverside, CA
+    city: San Diego, CA
     region: USA
     postcode:
     country: USA
