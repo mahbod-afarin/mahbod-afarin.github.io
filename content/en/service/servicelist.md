@@ -16,6 +16,8 @@ date = "2024-08-08T00:00:00"
 - Audio/Video Chair of the [ASPLOS’24](https://www.asplos-conference.org/asplos2024/) Conference.
 
 ### Talks
+- Gave a talk on “Hardware/Software Approaches for Accelerating Graph Processing Workloads” in the School of Computing at Binghamton University, Spring 2025.
+- Gave a talk on “Redundancy Removal for Accelerating Graph Processing Workloads” in the Department of Computer Science at Tulane University, Spring 2025.
 - Present Common Graph and Core Graph projects at Society of Women Engineers, University
 of California, Riverside, Winter 2024.
 - Present Common Graph project at Highlights of Parallel Computing Conference, Florida, USA,
