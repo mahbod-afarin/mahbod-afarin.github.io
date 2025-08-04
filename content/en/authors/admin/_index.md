@@ -3,7 +3,7 @@ title: Mahbod Afarin
 role: Postdoctoral Scholar
   
 # Short bio (displayed in user profile at end of posts)
-bio: Mahbod Afarin is a postdoctoral scholar in computer science and engineering at the University of California, San Diego, under the supervision of Professor Tajana Šimunić Rosing. His research interests include computer architecture, compiler optimization, and graph processing hardware and accelerators.
+bio: Mahbod Afarin is a postdoctoral scholar in computer science and engineering at the University of California, San Diego. His research interests include computer architecture, compiler optimization, and graph processing hardware and accelerators.
 
 interests:
   - Computer Architecture
@@ -62,7 +62,7 @@ email: ""
 
 <div style="text-align: justify;">
 
-Hi, I am Mahbod, a Postdoctoral Scholar of Computer Science & Enginnering at the [University of California, San Diego](https://ucsd.edu), where I am very fortunate to be advised by Professor [Tajana Šimunić Rosing](https://cseweb.ucsd.edu/~trosing/).  I received my Ph.D. in Computer Science from the [Univesity of Califronia, Riverside](https://www1.cs.ucr.edu/) under the supervision of Professor [Rajiv Gupta](http://www.cs.ucr.edu/~gupta/) and Professor [Nael Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/). Prior to that, I earned my M.Sc. in Computer Engineering from [Sharif University of Technology](https://en.sharif.edu/), where I was advised by Professor [Shaahin Hessabi](https://sharif.edu/~hessabi/). 
+Hi, I am Mahbod, a Postdoctoral Scholar of Computer Science & Enginnering at the [University of California, San Diego](https://ucsd.edu).  I received my Ph.D. in Computer Science from the [Univesity of Califronia, Riverside](https://www1.cs.ucr.edu/) under the supervision of Professor [Rajiv Gupta](http://www.cs.ucr.edu/~gupta/) and Professor [Nael Abu-Ghazaleh](https://www.cs.ucr.edu/~nael/). Prior to that, I earned my M.Sc. in Computer Engineering from [Sharif University of Technology](https://en.sharif.edu/), where I was advised by Professor [Shaahin Hessabi](https://sharif.edu/~hessabi/). 
 
 My research interests include graph processing algorithms and accelerators, computer architecture, and compiler optimizations. During my Ph.D., I developed frameworks that accelerate graph processing workloads by combining hardware and algorithmic innovations. These frameworks exploit parallelism and eliminate redundancy to improve scalability and performance. I also enjoy working on computer architecture and compiler optimization projects. My research has been published in top-tier conferences, including MICRO, ASPLOS, and EuroSys. Outside of computer science, I enjoy reading history and literature.
 
