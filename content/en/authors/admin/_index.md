@@ -42,11 +42,11 @@ organizations:
 # Education to show in About widget
 education:
   courses:
-   - course: Postdoc in Computer Science
-      institution: University of California, San Diego
+    - course: Postdoc in Computer Science
+      institution: University of California San Diego
       year: 2026
     - course: PhD in Computer Science
-      institution: University of California, Riverside
+      institution: University of California Riverside
       year: 2025
     - course: MSc in Computer Engineering
       institution: Sharif University of Technology
