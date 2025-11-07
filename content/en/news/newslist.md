@@ -6,7 +6,7 @@ date = "2024-08-08T00:00:00"
 
 <div style="text-align: justify;">
 
-- [6/2025] Started my postdoctoral research at UC San Diego in the [System Energy Efficiency (SEE) Lab](http://varys.ucsd.edu/) and [Processing with Intelligence Storage and Memory (PRISM) Research Center](https://prism.ucsd.edu/), supervised by Professor [Tajana Rosing](https://cseweb.ucsd.edu/~trosing/).
+- [6/2025] Started my **Postdoctoral Scholar** at UC San Diego in the [System Energy Efficiency (SEE) Lab](http://varys.ucsd.edu/) and [Processing with Intelligence Storage and Memory (PRISM) Research Center](https://prism.ucsd.edu/), supervised by Professor [Tajana Rosing](https://cseweb.ucsd.edu/~trosing/).
 - [6/2025] I have successfully defended my **Ph.D. dissertation** titled "Redundancy Removal for Accelerating Graph Processing Workloads." Officially a doctor now ([link](/uploads/PhD-Degree.pdf))!
 - [4/2025] Gave a talk on "Hardware/Software Approaches for Accelerating Graph Processing Workloads" in the School of Computing at [Binghamton University](https://www.binghamton.edu).
 - [3/2025] Gave a talk on "Redundancy Removal for Accelerating Graph Processing Workloads" in the Department of Computer Science at [Tulane University](https://tulane.edu).
