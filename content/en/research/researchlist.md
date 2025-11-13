@@ -15,17 +15,17 @@ different pillar and links to a dedicated page with deeper dives, publications, 
 
 <div class="research-circles">
   <a class="research-circle" href="/research/compilers/">
-    <div class="circle-image" style="background-image: url('/uploads/compilers-circle.svg');" aria-hidden="true"></div>
+    <div class="circle-image" style="background-image: url('/uploads/research-compilers.png');" aria-hidden="true"></div>
     <div class="circle-label">Compilers</div>
   </a>
 
   <a class="research-circle" href="/research/hardware-accelerators/">
-    <div class="circle-image" style="background-image: url('/uploads/hardware_accelerator.png');" aria-hidden="true"></div>
+    <div class="circle-image" style="background-image: url('/uploads/research-hardware.png');" aria-hidden="true"></div>
     <div class="circle-label">Hardware Accelerators</div>
   </a>
 
   <a class="research-circle" href="/research/graph-analytics/">
-    <div class="circle-image" style="background-image: url('/uploads/graph-analytics-circle.svg');" aria-hidden="true"></div>
+    <div class="circle-image" style="background-image: url('/uploads/research-graph.png');" aria-hidden="true"></div>
     <div class="circle-label">Graph Analytics</div>
   </a>
 </div>
