@@ -15,7 +15,7 @@ different pillar and links to a dedicated page with deeper dives, publications, 
 
 <div class="research-circles">
   <a class="research-circle" href="/research/compilers/">
-    <div class="circle-image" style="background-image: url('/uploads/CodeReduction.png');" aria-hidden="true"></div>
+    <div class="circle-image" style="background-image: url('/uploads/compilers-circle.svg');" aria-hidden="true"></div>
     <div class="circle-label">Compilers</div>
   </a>
 
@@ -25,7 +25,7 @@ different pillar and links to a dedicated page with deeper dives, publications, 
   </a>
 
   <a class="research-circle" href="/research/graph-analytics/">
-    <div class="circle-image" style="background-image: url('/uploads/CoreGraph.png');" aria-hidden="true"></div>
+    <div class="circle-image" style="background-image: url('/uploads/graph-analytics-circle.svg');" aria-hidden="true"></div>
     <div class="circle-label">Graph Analytics</div>
   </a>
 </div>
@@ -52,7 +52,6 @@ different pillar and links to a dedicated page with deeper dives, publications, 
   border-radius: 50%;
   background-size: cover;
   background-position: center;
-  border: 4px solid #4CAF50;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
