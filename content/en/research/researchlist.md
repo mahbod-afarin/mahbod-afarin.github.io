@@ -8,7 +8,7 @@ date = "2024-08-08T00:00:00"
 
 </div>
 
-<p>
+<p style="text-align: justify;">
 Explore the three core areas of my research by selecting a focus below. Each circle highlights a
 different pillar and links to a dedicated page with deeper dives, publications, and current projects.
 </p>
