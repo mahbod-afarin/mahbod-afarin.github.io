@@ -6,10 +6,6 @@ date = "2024-08-08T00:00:00"
 
 ### Research
 
-{{< figure src="/uploads/Research.png" >}}
-
-My research sits at the intersection of hardware accelerators, compiler optimizations, and graph analytics. I build hardware–software co-designed systems that improve performance, scalability, and energy efficiency for memory-intensive workloads such as dynamic programming and graph processing. The sections below highlight the three thrusts that currently shape my work. Select any area to learn more about how I approach the problem space.
-
 </div>
 
 <div class="research-tabs">
