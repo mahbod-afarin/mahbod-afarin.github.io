@@ -8,102 +8,68 @@ date = "2024-08-08T00:00:00"
 
 </div>
 
-<div class="research-tabs">
-  <div class="research-tab-buttons">
-    <button class="research-tab-button active" data-target="tab-compilers">Compilers</button>
-    <button class="research-tab-button" data-target="tab-accelerators">Hardware Accelerators</button>
-    <button class="research-tab-button" data-target="tab-graphs">Graph Analytics</button>
-  </div>
+<p>
+Explore the three core areas of my research by selecting a focus below. Each circle highlights a
+different pillar and links to a dedicated page with deeper dives, publications, and current projects.
+</p>
 
-  <div id="tab-compilers" class="research-tab-content active" style="text-align: justify;">
-    <h4>Compiler Support for Specialized Hardware</h4>
-    <p>
-      I extend MLIR-based compiler infrastructures so that domain experts can target
-      dynamic programming accelerators without writing low-level hardware descriptions.
-      The compiler pipeline captures DP recurrences, applies tiling, pipelining, and memory-placement
-      optimizations, and emits hardware-aware instructions for FPGA- and PIM-based fabrics.
-      This automation closes the gap between algorithm designers and accelerator hardware,
-      delivering substantial performance-per-watt improvements with reusable transformation passes.
-    </p>
-  </div>
+<div class="research-circles">
+  <a class="research-circle" href="/research/compilers/">
+    <div class="circle-image" style="background-image: url('/uploads/CodeReduction.png');" aria-hidden="true"></div>
+    <div class="circle-label">Compilers</div>
+  </a>
 
-  <div id="tab-accelerators" class="research-tab-content" style="text-align: justify;">
-    <h4>Hardware Accelerators</h4>
-    <p>
-      I co-design streaming and evolving graph accelerators that keep pace with highly dynamic datasets.
-      JetStream reduces streaming graph query time by reusing intermediate results and reshaping memory
-      access to sustain high bandwidth, while MEGA executes batched snapshots concurrently to evaluate
-      evolving graphs efficiently. These designs show how event-driven scheduling, custom data paths,
-      and domain-specific memory hierarchies unlock order-of-magnitude speedups over CPU/GPU baselines.
-    </p>
-  </div>
+  <a class="research-circle" href="/research/hardware-accelerators/">
+    <div class="circle-image" style="background-image: url('/uploads/hardware_accelerator.png');" aria-hidden="true"></div>
+    <div class="circle-label">Hardware Accelerators</div>
+  </a>
 
-  <div id="tab-graphs" class="research-tab-content" style="text-align: justify;">
-    <h4>Graph Analytics & Algorithms</h4>
-    <p>
-      My algorithmic work focuses on exposing parallelism and reducing redundancy in graph workloads.
-      I design techniques that stabilize vertex values, compress traversal work, and balance computation
-      across heterogeneous hardware targets. By combining compiler-driven optimizations with new graph
-      formulations, my frameworks scale to billion-edge graphs while maintaining accuracy, resilience,
-      and predictable execution time across CPUs, GPUs, and bespoke accelerators.
-    </p>
-  </div>
+  <a class="research-circle" href="/research/graph-analytics/">
+    <div class="circle-image" style="background-image: url('/uploads/CoreGraph.png');" aria-hidden="true"></div>
+    <div class="circle-label">Graph Analytics</div>
+  </a>
 </div>
 
 <style>
-.research-tabs {
-  margin-top: 1.5rem;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  padding: 0.5rem;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
-}
-.research-tab-buttons {
+.research-circles {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
-  margin-bottom: 0.5rem;
+  gap: 1.5rem;
+  justify-content: center;
+  margin-top: 1.5rem;
 }
-.research-tab-button {
-  flex: 1 1 150px;
-  padding: 0.5rem 0.75rem;
-  border: 1px solid #4CAF50;
-  border-radius: 4px;
-  background: #fff;
-  cursor: pointer;
+.research-circle {
+  flex: 1 1 200px;
+  max-width: 240px;
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+}
+.circle-image {
+  width: 220px;
+  height: 220px;
+  margin: 0 auto;
+  border-radius: 50%;
+  background-size: cover;
+  background-position: center;
+  border: 4px solid #4CAF50;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.research-circle:hover .circle-image,
+.research-circle:focus .circle-image {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+}
+.circle-label {
+  margin-top: 0.75rem;
+  font-size: 1.1rem;
   font-weight: 600;
-  color: #2b2b2b;
-  transition: background 0.2s ease, color 0.2s ease;
 }
-.research-tab-button.active {
-  background: #4CAF50;
-  color: #fff;
-}
-.research-tab-content {
-  display: none;
-  padding: 0.5rem;
-}
-.research-tab-content.active {
-  display: block;
+@media (max-width: 600px) {
+  .circle-image {
+    width: 180px;
+    height: 180px;
+  }
 }
 </style>
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  const buttons = document.querySelectorAll('.research-tab-button');
-  const sections = document.querySelectorAll('.research-tab-content');
-
-  buttons.forEach((button) => {
-    button.addEventListener('click', () => {
-      buttons.forEach((btn) => btn.classList.remove('active'));
-      sections.forEach((section) => section.classList.remove('active'));
-
-      button.classList.add('active');
-      const target = document.getElementById(button.dataset.target);
-      if (target) {
-        target.classList.add('active');
-      }
-    });
-  });
-});
-</script>
