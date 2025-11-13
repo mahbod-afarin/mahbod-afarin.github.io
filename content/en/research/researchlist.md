@@ -1,53 +1,113 @@
-
 +++
 date = "2024-08-08T00:00:00"
 +++
 
 <div style="text-align: justify;">
 
-### Research 
+### Research
 
 {{< figure src="/uploads/Research.png" >}}
 
-My research spans a broad spectrum of computer systems, covering hardware accelerators, compiler optimizations, graph processing, parallel algorithms, and computer architecture. I focus on designing and optimizing hardware–software co-designed systems to enhance computational efficiency, scalability, and energy efficiency, particularly for memory-intensive workloads such as graph analytics and dynamic programming (DP). My recent work includes developing compiler support for dynamic programming hardware accelerators, enabling automated translation of high-level DP algorithms into optimized hardware instructions. Additionally, I have explored parallel algorithms and compiler-driven optimizations to accelerate graph workloads, reduce code size, and improve execution efficiency across heterogeneous architectures including CPUs, GPUs, and custom accelerators.
+My research sits at the intersection of hardware accelerators, compiler optimizations, and graph analytics. I build hardware–software co-designed systems that improve performance, scalability, and energy efficiency for memory-intensive workloads such as dynamic programming and graph processing. The sections below highlight the three thrusts that currently shape my work. Select any area to learn more about how I approach the problem space.
 
-<hr>
+</div>
 
-### <span style="color:green"> 2. Compiler Support for Hardware Accelerators </span>
+<div class="research-tabs">
+  <div class="research-tab-buttons">
+    <button class="research-tab-button active" data-target="tab-compilers">Compilers</button>
+    <button class="research-tab-button" data-target="tab-accelerators">Hardware Accelerators</button>
+    <button class="research-tab-button" data-target="tab-graphs">Graph Analytics</button>
+  </div>
 
-I have developed compiler support for dynamic programming (DP) hardware accelerators using MLIR (Multi-Level Intermediate Representation). My compiler framework automatically translates high-level DP algorithms into optimized hardware instructions by capturing their unique data dependencies and recurrence patterns, applying tiling, pipelining, and memory-placement optimizations, and generating hardware-aware code for accelerators such as FPGA- and PIM-based systems. Built on MLIR, this framework enables modular and extensible transformations across abstraction levels, achieving significant gains in performance, scalability, and energy efficiency while eliminating the need for manual hardware programming.
+  <div id="tab-compilers" class="research-tab-content active" style="text-align: justify;">
+    <h4>Compiler Support for Specialized Hardware</h4>
+    <p>
+      I extend MLIR-based compiler infrastructures so that domain experts can target
+      dynamic programming accelerators without writing low-level hardware descriptions.
+      The compiler pipeline captures DP recurrences, applies tiling, pipelining, and memory-placement
+      optimizations, and emits hardware-aware instructions for FPGA- and PIM-based fabrics.
+      This automation closes the gap between algorithm designers and accelerator hardware,
+      delivering substantial performance-per-watt improvements with reusable transformation passes.
+    </p>
+  </div>
 
-<hr>
+  <div id="tab-accelerators" class="research-tab-content" style="text-align: justify;">
+    <h4>Hardware Accelerators</h4>
+    <p>
+      I co-design streaming and evolving graph accelerators that keep pace with highly dynamic datasets.
+      JetStream reduces streaming graph query time by reusing intermediate results and reshaping memory
+      access to sustain high bandwidth, while MEGA executes batched snapshots concurrently to evaluate
+      evolving graphs efficiently. These designs show how event-driven scheduling, custom data paths,
+      and domain-specific memory hierarchies unlock order-of-magnitude speedups over CPU/GPU baselines.
+    </p>
+  </div>
 
-### <span style="color:green"> 2. Hardware Accelerators </span>
+  <div id="tab-graphs" class="research-tab-content" style="text-align: justify;">
+    <h4>Graph Analytics & Algorithms</h4>
+    <p>
+      My algorithmic work focuses on exposing parallelism and reducing redundancy in graph workloads.
+      I design techniques that stabilize vertex values, compress traversal work, and balance computation
+      across heterogeneous hardware targets. By combining compiler-driven optimizations with new graph
+      formulations, my frameworks scale to billion-edge graphs while maintaining accuracy, resilience,
+      and predictable execution time across CPUs, GPUs, and bespoke accelerators.
+    </p>
+  </div>
+</div>
 
-Graph hardware accelerators are specialized processors or systems designed to optimize and accelerate the processing of graph-based computations. These computations are essential in various applications, such as social network analysis, recommendation systems, biological network analysis, and more. Traditional CPUs and GPUs, while powerful, are often not fully optimized for the irregular data structures and memory access patterns typical of graph processing. Graph hardware accelerators address these challenges by offering dedicated architectures that enhance memory bandwidth, reduce latency, and increase parallelism for graph traversal, node updates, and edge processing tasks. These accelerators can significantly boost the performance of graph analytics workloads, making them crucial for handling large-scale, dynamic graphs in real-time applications. We have designed and implemented two hardware accelerators for dynamic graph processing, streaming and evovling accelerators. 
-{{< figure src="/uploads/JetStream.png" >}}
-**<span style="color:orange">Streaming Graph Hardware Accelerator</span>** -- JetStream is a hardware accelerator for evaluating queries over streaming graphs, capable of handling additions, deletions, and updates of edges. Streaming graphs are graphs that are constantly changing, i.e., new nodes and edges are added or removed over time. JetStream is an event-based accelerator for graph workloads designed to support streaming updates. It handles both accumulative and monotonic graph algorithms through an event-driven computation model that limits access to a smaller subset of graph vertices, efficiently reuses prior query results to eliminate redundancy, and optimizes the memory access pattern for enhanced memory bandwidth utilization. To the best of our knowledge, JetStream is the first graph accelerator to support streaming graphs, reducing computation time by 90% compared with cold-start computation using existing accelerators. Additionally, JetStream achieves approximately 18× speedup over the KickStarter and GraphBolt software frameworks at the large baseline batch sizes used by these systems, with significantly higher speedups at smaller batch sizes (**Paper:** [JetStream](https://dl.acm.org/doi/abs/10.1145/3466752.3480126)).
-{{< figure src="/uploads/MEGA.png" >}}
-**<span style="color:orange">Evolving Graph Hardware Accelerator</span>** -- MEGA is a hardware accelerator designed for efficiently evaluating queries over evolving graphs. Evolving graphs are graphs that change over time. The problem is challenging because it requires the evaluation of a graph query on a sequence of graph snapshots over a time window, typically to track the progression of a property over time. MEGA leverages CommonGraph, a recently proposed software approach for incrementally processing evolving graphs that improves efficiency by avoiding the need to process expensive deletions, instead converting them into additions. MEGA supports incremental event-based streaming of edge additions and the concurrent execution of multiple snapshots to handle evolving graphs effectively. We propose Batch-Oriented Execution (BOE), a novel batch-update scheduling technique that activates snapshots sharing batches simultaneously to achieve both computational and data reuse. Additionally, we introduce optimizations that pack compatible batches together and pipeline batch processing for improved performance. To the best of our knowledge, MEGA is the first graph accelerator for evolving graphs that evaluates graph queries over multiple snapshots simultaneously. MEGA achieves speedups ranging from 24× to 120× over CommonGraph. It also outperforms JetStream, a state-of-the-art streaming graph accelerator, with speedups ranging from 4.08× to 5.98× (**Paper:** [MEGA](https://dl.acm.org/doi/abs/10.1145/3613424.3614260)).
+<style>
+.research-tabs {
+  margin-top: 1.5rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+.research-tab-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+.research-tab-button {
+  flex: 1 1 150px;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid #4CAF50;
+  border-radius: 4px;
+  background: #fff;
+  cursor: pointer;
+  font-weight: 600;
+  color: #2b2b2b;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+.research-tab-button.active {
+  background: #4CAF50;
+  color: #fff;
+}
+.research-tab-content {
+  display: none;
+  padding: 0.5rem;
+}
+.research-tab-content.active {
+  display: block;
+}
+</style>
 
-<hr>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const buttons = document.querySelectorAll('.research-tab-button');
+  const sections = document.querySelectorAll('.research-tab-content');
 
-### <span style="color:green"> 3. Graph Processing </span>
-This is the algorithmic perspective of my research, where we aim to improve the performance of graph processing for both static and dynamic graph processing, as well as enhance the performance of distributed graph processing. In static graph processing, the graph remains unchanged over time, while in evolving graph processing, the graph undergoes constant changes over a time window. Here is the list of projects in this area:
-{{< figure src="/uploads/CoreGraph.png" >}}
-**<span style="color:orange">Static Graph Processing</span>** -- When evaluating iterative graph queries over large graphs, systems face significant overheads due to repeated graph transfers across the memory hierarchy and redundant propagation of values over graph edges. A two-phase approach addresses these challenges by using a small proxy graph, called Core Graph (CG), alongside the large original graph. The first phase evaluates the query on the CG, incurring low overheads while producing mostly precise results, which are then used to bootstrap the second phase on the larger graph for fully precise results. Unlike prior methods that generate either large or imprecise proxy graphs, CG is both compact and highly accurate. It contains all vertices but only 10.7% of edges on average, yet achieves 94.5–99.9% precision for different queries. This is enabled by identifying a small subset of high-centrality edges critical for determining converged results across queries. Techniques for constructing effective CGs and optimizing the evaluation of remaining vertices yield substantial performance improvements, achieving speedups of up to 4.48× on GPU-based Subway, 13.62× on out-of-core GridGraph, and 9.31× on in-memory Ligra systems across various graph queries and datasets (**Paper:** [Core Graph](https://dl.acm.org/doi/abs/10.1145/3627703.3629571)).
-{{< figure src="/uploads/CommonGraph.png" >}}
-**<span style="color:orange">Dynamic (Evovling) Graph Processing</span>** -- We address the challenge of graph analytics on evolving graphs, where a query must be applied to multiple snapshots over an extended time window. We propose CommonGraph, an efficient approach for processing queries on evolving graphs. Observing that edge deletions are significantly more expensive than additions, CommonGraph converts deletions into additions by identifying a common graph shared across all snapshots. Queries are first computed on this graph, and missing edges are incrementally added to reach specific snapshots, updating results as needed. CommonGraph further optimizes performance by sharing common additions among snapshots and eliminating the sequential dependency of traditional streaming approaches, enabling parallelism. Integrated into the KickStarter streaming framework, CommonGraph achieves 1.38× to 8.17× performance improvements across various benchmarks (**Paper:** [Common Graph](https://dl.acm.org/doi/abs/10.1145/3575693.3575713)).
-{{< figure src="/uploads/Distributed.png" >}}
-**<span style="color:orange">Distributed Graph Processing</span>** -- Distributed graph analytics is widely used across various domains to analyze large real-world graphs. Many distributed frameworks have been developed to improve scalability by enabling the processing of massive graphs that cannot fit into a single machine's memory. However, these frameworks often introduce message-passing overheads among multiple machines, leading to underutilized computing resources. To address this, we propose Expressway, a technique that identifies critical edges, or "Highways," which significantly influence boundary vertex results. Expressway processes queries using only these Highways, drastically reducing the number of edges involved, allowing queries to be executed independently on each machine without message-passing overhead. The results from Highway-based queries are then used to initialize vertices, accelerating the convergence of graph algorithms. Our experiments demonstrate that integrating Expressway into state-of-the-art frameworks achieves up to a 4.08× speedup for single-query frameworks and up to a 4.04× speedup for batch-processing frameworks (**Paper:** [Expressway](https://ieeexplore.ieee.org/abstract/document/10386860)).
+  buttons.forEach((button) => {
+    button.addEventListener('click', () => {
+      buttons.forEach((btn) => btn.classList.remove('active'));
+      sections.forEach((section) => section.classList.remove('active'));
 
-<hr>
-
-### <span style="color:green"> 4. Compiler Optimization </span>
-{{< figure src="/uploads/CodeReduction.png" >}}
-**<span style="color:orange">Code Size Reduction</span>** -- This project is a collaborative effort with the compiler team at Google, initiated during my student researcher position at the company. The goal of the project is to reduce the code size of x86 and ARM binaries by folding identical basic blocks. Traditional code outlining techniques are limited to within a single function, but our new approach extends the scope across multiple functions, enabling the compiler to merge identical blocks even when they appear in different parts of a program. Additionally, traditional outliners have other limitations, which we aim to address through this project. The method leverages interprocedural analysis to identify identical sequences of instructions that perform the same computations. By folding these blocks, we achieve a reduction in code size without compromising performance, making it particularly beneficial for optimizing memory-constrained environments such as embedded systems and mobile platforms. This technique represents a significant evolution in identical code folding, enhancing the efficiency of code generation and aligning with LLVM's objective of creating more space-efficient binaries. This is an ongoing project, and you will hear more about it soon.
-
-<hr>
-
-### <span style="color:green"> 5. GPU Architecture </span>
-{{< figure src="/uploads/GPU.png" >}}
-**<span style="color:orange">Optimizing the Yield of SIMT Processor</span>** -- As CMOS nanotechnology advances with smaller feature sizes and increased process variation, manufacturing anomalies in integrated circuits (ICs) are becoming more prevalent, particularly in the complex designs of special-purpose SIMT (Single Instruction, Multiple Threads) processors. Traditional methods like fault tolerance and redundancy are insufficient for significantly improving fabrication yield. This research proposes leveraging approximate computing, which exploits the error tolerance of applications like graphics and gaming, allowing the use of chips with minor defects. By demonstrating the effectiveness of this approach on SIMT processors, such as the Radeon HD 7970, the study shows that yield improvements of up to 0.17% are achievable, translating into substantial cost savings. Additionally, the introduction of low-area redundancy focused on critical instructions further enhances yield by 0.03%. Collectively, these techniques could save millions of dollars annually in SIMT processor manufacturing, offering a practical solution to the challenges posed by increasingly complex IC designs.
-
-{style="text-align: justify;"}
+      button.classList.add('active');
+      const target = document.getElementById(button.dataset.target);
+      if (target) {
+        target.classList.add('active');
+      }
+    });
+  });
+});
+</script>
