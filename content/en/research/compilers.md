@@ -1,5 +1,5 @@
 ---
-title: "Compilers"
+title: ""
 date: 2025-11-12
 slug: compilers
 share: false
