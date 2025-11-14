@@ -11,7 +11,7 @@ editable: false
   <div class="project-card">
     <h3>Streaming Graph Accelerator — JetStream</h3>
     <p>
-      Streaming graphs, where nodes and edges change continuously, are central to modern workloads in social networks, bioinformatics, and large-scale data analytics. To accelerate these dynamic workloads, we developed JetStream, a hardware accelerator designed specifically for real-time graph updates. JetStream extends event-driven graph accelerator architectures to support edge insertions, deletions, and modifications while reusing prior computations to eliminate redundancy. By focusing computation only on the affected regions of the graph and optimizing memory access patterns, JetStream delivers significant performance improvements over conventional cold-start and software-based approaches, making it a powerful solution for high-throughput, evolving graph analytics.
+      Streaming graphs, where nodes and edges change continuously, are central to modern workloads in social networks, bioinformatics, and large-scale data analytics. To accelerate these dynamic workloads, we developed JetStream, a hardware accelerator designed for real-time graph updates. JetStream extends event-driven graph accelerator architectures to support edge insertions, deletions, and modifications while reusing prior computations to eliminate redundancy. By focusing computation only on the affected regions of the graph and optimizing memory access patterns, JetStream delivers significant performance improvements over conventional cold-start and software-based approaches, making it a powerful solution for high-throughput, evolving graph analytics.
     </p>
   </div>
 
