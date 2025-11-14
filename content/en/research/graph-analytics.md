@@ -9,7 +9,7 @@ editable: false
 
 <div class="project-cards">
   <div class="project-card">
-    <h3>Algorithmic Focus</h3>
+    <h3>Graph Analytics on Evolving Data - Common Graph</h3>
     <p>
       My graph analytics research exposes parallelism and eliminates redundant work in large, irregular
       workloads. I stabilize vertex values, compress traversal work, and prioritize updates so the most
@@ -18,7 +18,7 @@ editable: false
   </div>
 
   <div class="project-card">
-    <h3>Hardware-Aware Implementations</h3>
+    <h3>Graph Analytics on Fixed Data - Core Graph</h3>
     <p>
       The frameworks balance computation across heterogeneous targets—including CPUs, GPUs, and custom
       accelerators—by matching graph partitions to each platform’s strengths. Compiler-guided
@@ -28,11 +28,21 @@ editable: false
   </div>
 
   <div class="project-card">
-    <h3>Impact</h3>
+    <h3>Redundancy Removal for Evolving Graphs - Unchanged Vetex Values</h3>
     <p>
       These techniques deliver predictable execution time and memory usage, improved resilience for
       streaming analytics, and reusable formulations that integrate with my accelerator and compiler
       projects to push graph processing performance further.
+    </p>
+  </div>
+
+  <div class="project-card">
+    <h3>Distributed Evovling Graph Analytics - Expressway</h3>
+    <p>
+      The frameworks balance computation across heterogeneous targets—including CPUs, GPUs, and custom
+      accelerators—by matching graph partitions to each platform’s strengths. Compiler-guided
+      transformations manage synchronization, tiling, and memory coalescing so pipelines stay full even for
+      billion-edge datasets.
     </p>
   </div>
 </div>
