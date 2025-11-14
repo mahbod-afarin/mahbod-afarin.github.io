@@ -1,5 +1,5 @@
 ---
-title: "Graph Analytics"
+title: ""
 date: 2025-11-12
 slug: graph-analytics
 share: false
