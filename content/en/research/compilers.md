@@ -41,9 +41,10 @@ editable: false
 .project-card {
   border: 1px solid #e0e0e0;
   border-radius: 10px;
-  padding: 1.25rem;
+  padding: 0.9rem 1.4rem;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
   background: #fff;
+  width: 100%;
 }
 .project-card h3 {
   margin-top: 0;
