@@ -1,6 +1,6 @@
 ---
 title: "Hardware Accelerators"
-date: 2025-11-13
+date: 2025-11-12
 slug: hardware-accelerators
 share: false
 commentable: false
