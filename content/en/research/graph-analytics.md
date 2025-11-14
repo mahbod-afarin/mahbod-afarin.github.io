@@ -23,7 +23,7 @@ editable: false
   </div>
 
   <div class="project-card">
-    <h3>Redundancy Removal for Evolving Graphs - Unchanged Vetex Values</h3>
+    <h3>Redundancy Removal for Evolving Graphs - UVVs</h3>
     <p>
       Evaluating queries over large, irregular graphs is difficult, and the challenge grows when analyzing evolving graphs across many snapshots. Our study shows that in real workloads, most vertex-specific query results (e.g., SSSP distances) remain unchanged across the entire sequence of snapshots. We leverage these Unchanged Vertex Values (UVVs) by computing them once and limiting further work to only the vertices that truly change. To identify UVVs accurately, we introduce an intersection–union analysis that derives tight lower and upper bounds for each vertex across all snapshots; when the bounds match, the vertex is guaranteed to remain unchanged. For the remaining vertices, we perform concurrent incremental updates on all snapshots over a much smaller subgraph. Across several benchmarks, this dramatically reduces per-snapshot work and delivers significant speedups over state-of-the-art incremental graph analytics.
     </p>
