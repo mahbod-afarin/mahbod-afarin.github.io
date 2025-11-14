@@ -11,21 +11,14 @@ editable: false
   <div class="project-card">
     <h3>Streaming Graph Accelerator — JetStream</h3>
     <p>
-      JetStream evaluates queries over rapidly changing graphs where edges are constantly inserted,
-      removed, or updated. An event-driven execution model limits computation to the affected
-      neighborhood, reuses intermediate state, and reshapes memory access for higher bandwidth.
-      The design trims cold-start recomputation by up to 90% and delivers 18× speedups over optimized
-      CPU frameworks at comparable batch sizes.
+      Streaming graphs, where nodes and edges change continuously, are central to modern workloads in social networks, bioinformatics, and large-scale data analytics. To accelerate these dynamic workloads, we developed JetStream, a hardware accelerator designed specifically for real-time graph updates. JetStream extends event-driven graph accelerator architectures to support edge insertions, deletions, and modifications while efficiently reusing prior computations to eliminate redundancy. By focusing computation only on the affected regions of the graph and optimizing memory access patterns, JetStream delivers significant performance improvements over conventional cold-start and software-based approaches, making it a powerful solution for high-throughput, evolving graph analytics.
     </p>
   </div>
 
   <div class="project-card">
     <h3>Evolving Graph Accelerator — MEGA</h3>
     <p>
-      MEGA targets evolving graphs that require evaluating queries across snapshots. Built on the
-      CommonGraph software model, it introduces Batch-Oriented Execution so snapshots can be processed
-      concurrently while incremental event streaming feeds updates efficiently. Custom memory hierarchies
-      keep throughput high and avoid the overhead of explicitly handling deletions.
+      Many modern applications—from social networks to bioinformatics—operate on evolving graphs that change continuously over time. Analyzing these graphs is difficult because queries must run across multiple snapshots to track how properties evolve. We developed MEGA, a hardware accelerator built specifically for efficient evolving-graph analytics. MEGA builds on the CommonGraph model to avoid costly deletions, supports event-driven edge updates, and executes multiple snapshots concurrently to maximize reuse. Its Batch-Oriented Execution (BOE) strategy schedules and pipelines updates for high locality and throughput. MEGA is the first accelerator to process multiple evolving-graph snapshots in parallel, delivering significant speedups over both software frameworks and prior streaming graph accelerators.
     </p>
   </div>
 
