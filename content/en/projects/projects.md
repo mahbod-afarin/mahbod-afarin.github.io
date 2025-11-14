@@ -1,7 +1,7 @@
 ---
 title: "Projects"
-draft: false
-draft: false
+draft: true
+draft: true
 share: false
 commentable: false
 editable: false
@@ -14,4 +14,3 @@ header:
 
 
 {{< readfromfile "/content/en/projects/projectslist.md" 1000 >}} 
-
