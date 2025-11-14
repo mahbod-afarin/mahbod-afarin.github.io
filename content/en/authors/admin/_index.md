@@ -42,9 +42,6 @@ organizations:
 # Education to show in About widget
 education:
   courses:
-    - course: Postdoc in Computer Science
-      institution: University of California San Diego
-      year: 2026
     - course: PhD in Computer Science
       institution: University of California Riverside
       year: 2025
