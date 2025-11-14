@@ -7,8 +7,6 @@ commentable: false
 editable: false
 ---
 
-Explore the compiler projects highlighted below.
-
 <div class="project-cards">
   <div class="project-card">
     <h3>Compiler Support for Hardware Accelerators</h3>
@@ -35,10 +33,10 @@ Explore the compiler projects highlighted below.
 
 <style>
 .project-cards {
-  display: grid;
+  display: flex;
   gap: 1.25rem;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   margin-top: 1.5rem;
+  flex-wrap: wrap;
 }
 .project-card {
   border: 1px solid #e0e0e0;
@@ -46,6 +44,8 @@ Explore the compiler projects highlighted below.
   padding: 1.25rem;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
   background: #fff;
+  flex: 1 1 calc(50% - 1.25rem);
+  min-width: 280px;
 }
 .project-card h3 {
   margin-top: 0;
