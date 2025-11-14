@@ -1,6 +1,6 @@
 ---
-title: ""
-date: 2025-11-15
+title: "Compilers"
+date: 2024-08-08
 slug: compilers
 share: false
 commentable: false
