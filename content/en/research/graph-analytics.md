@@ -1,6 +1,6 @@
 ---
 title: "Graph Analytics"
-date: 2025-11-13
+date: 2025-11-12
 slug: graph-analytics
 share: false
 commentable: false
