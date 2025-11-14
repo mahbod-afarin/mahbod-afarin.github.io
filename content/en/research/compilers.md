@@ -34,9 +34,9 @@ editable: false
 <style>
 .project-cards {
   display: flex;
+  flex-direction: column;
   gap: 1.25rem;
   margin-top: 1.5rem;
-  flex-wrap: wrap;
 }
 .project-card {
   border: 1px solid #e0e0e0;
@@ -44,8 +44,6 @@ editable: false
   padding: 1.25rem;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
   background: #fff;
-  flex: 1 1 calc(50% - 1.25rem);
-  min-width: 280px;
 }
 .project-card h3 {
   margin-top: 0;
