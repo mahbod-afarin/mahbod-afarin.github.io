@@ -9,7 +9,7 @@ date = "2025-11-12T00:00:00"
 </div>
 
 <p style="text-align: justify;">
-My research bridges compiler optimizations, hardware accelerators, and large-scale graph analytics through hardware/software co-design. I develop MLIR-based compiler infrastructures that automatically map complex bio and graph dynamic-programming workloads onto specialized accelerators, optimizing memory usage, parallelism, and code size. On the systems side, I design and evaluate high-performance accelerators for streaming and evolving graph workloads. Across these efforts, my work focuses on removing redundancy, improving scalability, and enabling practical, high-performance execution of irregular and memory-intensive workloads. Explore the three core areas of my research by selecting a focus below, each circle highlights a different pillar and links to a dedicated page with deeper dives, publications, and current projects.
+My research bridges compiler optimizations, hardware accelerators, and large-scale graph analytics through hardware/software co-design. I develop MLIR-based compiler infrastructures that automatically map complex bio and graph dynamic-programming workloads onto specialized accelerators, optimizing memory usage and parallelism. On the systems side, I design and evaluate high-performance accelerators for streaming and evolving graph workloads. Across these efforts, my work focuses on removing redundancy, improving scalability, and enabling practical, high-performance execution of irregular and memory-intensive workloads. Explore the three core areas of my research by selecting a focus below, each circle highlights a different pillar and links to a dedicated page with deeper dives, publications, and current projects.
 </p>
 
 <div class="research-circles">
