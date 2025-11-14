@@ -11,11 +11,7 @@ editable: false
   <div class="project-card">
     <h3>Compiler Support for Hardware Accelerators</h3>
     <p>
-      I extend MLIR-based infrastructures so domain scientists can map dynamic programming workloads
-      directly onto custom accelerators. The pipeline captures DP recurrences, models data dependencies,
-      and performs tiling, pipelining, and memory-placement optimizations before lowering to hardware-aware
-      dialects. By automating these transformations, algorithm designers can rapidly evaluate FPGA/PIM
-      implementations without writing RTL, accelerating hardware–software co-design.
+      Bioinformatics and graph dynamic-programming algorithms are slow and difficult to program due to their complex data dependencies. While recent work has introduced unified compilers for hyperdimensional-computing accelerators, there is still no analogous compiler support for dynamic-programming hardware accelerators, leaving developers dependent on manual, hardware-specific tuning. To address this gap, we developed a unified MLIR-based compiler that targets three different DP hardware accelerators. Our compiler automatically transforms high-level algorithms into highly optimized hardware instructions, eliminating manual tuning and making DP accelerators far easier to program and deploy.
     </p>
   </div>
 
