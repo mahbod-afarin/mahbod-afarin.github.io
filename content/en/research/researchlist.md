@@ -16,7 +16,7 @@ different pillar and links to a dedicated page with deeper dives, publications, 
 <div class="research-circles">
   <a class="research-circle" href="/research/compilers/">
     <div class="circle-image" style="background-image: url('/uploads/research-compilers.png');" aria-hidden="true"></div>
-    <div class="circle-label">Compilers</div>
+    <div class="circle-label">Compiler Optimization</div>
   </a>
 
   <a class="research-circle" href="/research/hardware-accelerators/">
