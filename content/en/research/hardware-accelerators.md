@@ -29,14 +29,6 @@ editable: false
     </p>
   </div>
 
-  <div class="project-card">
-    <h3>Design Principles</h3>
-    <p>
-      Across both accelerators I rely on event-driven scheduling tuned to graph semantics, bespoke scratchpad
-      hierarchies that maximize locality, and hardware–software co-design so compiler toolchains expose the
-      accelerator capabilities through approachable APIs.
-    </p>
-  </div>
 </div>
 
 <style>
