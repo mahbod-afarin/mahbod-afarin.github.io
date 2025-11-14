@@ -1,22 +1,64 @@
 ---
 title: "Hardware Accelerators"
-date: 2024-08-08
+date: 2025-11-13
 slug: hardware-accelerators
 share: false
 commentable: false
 editable: false
 ---
 
-### Streaming Graph Accelerator — JetStream
+<div class="project-cards">
+  <div class="project-card">
+    <h3>Streaming Graph Accelerator — JetStream</h3>
+    <p>
+      JetStream evaluates queries over rapidly changing graphs where edges are constantly inserted,
+      removed, or updated. An event-driven execution model limits computation to the affected
+      neighborhood, reuses intermediate state, and reshapes memory access for higher bandwidth.
+      The design trims cold-start recomputation by up to 90% and delivers 18× speedups over optimized
+      CPU frameworks at comparable batch sizes.
+    </p>
+  </div>
 
-JetStream evaluates queries over streaming graphs where edges are constantly inserted, removed, or updated. By adopting an event-driven execution model, the accelerator limits computation to the affected neighborhood, reuses intermediate state, and reorganizes memory access patterns for higher bandwidth utilization. JetStream reduces cold-start recomputation by up to 90% and achieves 18× speedups over optimized CPU frameworks at comparable batch sizes.
+  <div class="project-card">
+    <h3>Evolving Graph Accelerator — MEGA</h3>
+    <p>
+      MEGA targets evolving graphs that require evaluating queries across snapshots. Built on the
+      CommonGraph software model, it introduces Batch-Oriented Execution so snapshots can be processed
+      concurrently while incremental event streaming feeds updates efficiently. Custom memory hierarchies
+      keep throughput high and avoid the overhead of explicitly handling deletions.
+    </p>
+  </div>
 
-### Evolving Graph Accelerator — MEGA
+  <div class="project-card">
+    <h3>Design Principles</h3>
+    <p>
+      Across both accelerators I rely on event-driven scheduling tuned to graph semantics, bespoke scratchpad
+      hierarchies that maximize locality, and hardware–software co-design so compiler toolchains expose the
+      accelerator capabilities through approachable APIs.
+    </p>
+  </div>
+</div>
 
-MEGA targets evolving graphs that require evaluating a query across a sequence of snapshots. It builds on the CommonGraph software model and introduces Batch-Oriented Execution so snapshots can be processed concurrently. Combined with incremental event streaming and tailored memory hierarchies, MEGA sustains high throughput while avoiding the overhead of handling deletions explicitly.
-
-### Design Principles
-
-- Event-driven scheduling that matches graph update semantics.
-- Custom data paths and scratchpad hierarchies to maximize locality.
-- Hardware–software co-design that surfaces accelerator capabilities through compiler support and APIs.
+<style>
+.project-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+.project-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 0.9rem 1.4rem;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  background: #fff;
+  width: 100%;
+}
+.project-card h3 {
+  margin: 0 0 0.75rem 0;
+}
+.project-card p {
+  margin: 0;
+  text-align: justify;
+}
+</style>
