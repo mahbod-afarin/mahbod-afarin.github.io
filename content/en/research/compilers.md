@@ -18,7 +18,7 @@ editable: false
   <div class="project-card">
     <h3>Binary Code Size Reduction</h3>
     <p>
-      Modern software binaries keep growing due to feature expansion, causing slow upgrades, higher maintenance costs, and performance issues in both mobile and large-scale applications. To combat code bloat, we developed DeduBB, a post-link optimizer that de-duplicates identical basic blocks across functions and modules. Unlike earlier methods, it detects a wider range of redundant code patterns and replaces them with a lightweight save-and-jump sequence. Designed for scalability, DeduBB integrates with state-of-the-art post-link optimizers and uses profiling to safely reduce code size without harming performance.
+      Modern software binaries keep growing due to feature expansion, causing slow upgrades, higher maintenance costs, and performance issues in both mobile and large-scale applications. To combat code bloat, we developed DeduBB, a post-link optimizer that de-duplicates identical basic blocks across modules. Unlike earlier methods, it detects a wider range of redundant code patterns and replaces them with a lightweight save-and-jump sequence. Designed for scalability, DeduBB integrates with state-of-the-art post-link optimizers and uses profiling to safely reduce code size without harming performance.
     </p>
   </div>
 </div>
