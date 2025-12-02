@@ -9,14 +9,14 @@ editable: false
 
 <div class="project-cards">
   <div class="project-card">
-    <h3>Graph Analytics on Evolving Data - Common Graph</h3>
+    <h3>Graph Analytics on Evolving Data — Common Graph</h3>
     <p>
       Evolving graphs change over time, requiring queries to run across many snapshots. Computing each snapshot independently wastes work, while traditional streaming approaches suffer from costly deletions and strict sequential updates. CommonGraph solves this by converting deletions into additions: it finds a shared base graph across all snapshots, computes the query once, and then incrementally adds the missing edges for each snapshot. This eliminates expensive mutations, enables reuse across snapshots, and removes sequential bottlenecks. Integrated with the KickStarter framework, CommonGraph provides a faster and more efficient way to analyze evolving graphs.
     </p>
   </div>
 
   <div class="project-card">
-    <h3>Graph Analytics on Fixed Data - Core Graph</h3>
+    <h3>Graph Analytics on Fixed Data — Core Graph</h3>
     <p>
       Iterative graph queries often incur high overhead because systems repeatedly move large graphs through the memory hierarchy and redundantly propagate values across edges. A common solution is to use a small proxy graph to approximate results before refining them on the full graph, but prior proxy graphs are either too large or too imprecise to be effective. We introduce the Core Graph (CG), a compact subgraph that retains all vertices but only a small fraction of edges while still producing highly accurate results. CGs work because only a small set of influential, high-centrality edges determine the final converged values for most vertices. By identifying these edges and refining only the few remaining vertices afterward, CGs provide a fast and accurate two-phase evaluation strategy that significantly accelerates iterative graph analytics.
     </p>
