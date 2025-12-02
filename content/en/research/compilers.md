@@ -46,4 +46,13 @@ editable: false
   margin: 0;
   text-align: justify;
 }
+.dark .project-card {
+  background: #1e1e1e;
+  border-color: #3a3a3a;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.4);
+}
+.dark .project-card h3,
+.dark .project-card p {
+  color: #f5f5f5;
+}
 </style>
