@@ -19,7 +19,7 @@
 
 [[buttons]]
   id = "email"
-  url = "mailto:?subject={title}&body={url}"
+  url = "mailto:mafarin@ucsd.edu"
   title = "Email"
   icon_pack = "fas"
   icon = "envelope"
@@ -27,7 +27,7 @@
 
 [[buttons]]
   id = "linkedin"
-  url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
+  url = "https://www.linkedin.com/in/mahbod-afarin-6b3127a0/"
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
