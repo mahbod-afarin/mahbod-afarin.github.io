@@ -79,6 +79,7 @@ features:
   avatar:
     gravatar: false
     shape: circle
+    size: 360
   comment:
     provider: 'utterances'
     disqus:
