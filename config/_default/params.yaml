@@ -79,7 +79,7 @@ features:
   avatar:
     gravatar: false
     shape: circle
-    quality: 101
+    quality: 100
   comment:
     provider: 'utterances'
     disqus:
