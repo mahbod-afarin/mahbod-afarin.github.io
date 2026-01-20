@@ -6,6 +6,8 @@ date = "2024-08-08T00:00:00"
 
 <div style="text-align: justify;">
 
+- [01/2026] Paper accepted: UVVs: Identifying Unchanged Vertex Values in Evolving Graphs via Intersection–Union Analysis, IEEE IPDPS 2026.
+- [11/2025] I presented a poster on Compiler Support for Dynamic Programming Hardware Accelerators at the **Processing with Intelligent Storage and Memory (PRISM) Annual Review 2025**.
 - [6/2025] Started my **Postdoctoral Scholar** at UC San Diego in the [System Energy Efficiency (SEE) Lab](http://varys.ucsd.edu/) and [Processing with Intelligence Storage and Memory (PRISM) Research Center](https://prism.ucsd.edu/), supervised by Professor [Tajana Rosing](https://cseweb.ucsd.edu/~trosing/).
 - [6/2025] I have successfully defended my **Ph.D. dissertation** titled "Redundancy Removal for Accelerating Graph Processing Workloads." Officially a doctor now ([link](/uploads/PhD-Degree.pdf))!
 - [4/2025] Gave a talk on "Hardware/Software Approaches for Accelerating Graph Processing Workloads" in the School of Computing at [Binghamton University](https://www.binghamton.edu).
