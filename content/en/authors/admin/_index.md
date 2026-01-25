@@ -42,15 +42,18 @@ organizations:
 # Education to show in About widget
 education:
   courses:
+    - course: Postdoc in Computer Science
+      institution: University of California San Diego
+      year: 2026
     - course: PhD in Computer Science
       institution: University of California Riverside
       year: 2025
     - course: MSc in Computer Engineering
       institution: Sharif University of Technology
       year: 2018
-    - course: BSc in Computer Engineering
-      institution: Shahed University
-      year: 2015
+    # - course: BSc in Computer Engineering
+    #   institution: Shahed University
+    #   year: 2015
 superuser: true
 status:
   icon: ☕️

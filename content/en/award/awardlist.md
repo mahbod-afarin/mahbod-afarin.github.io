@@ -10,7 +10,7 @@ date = "2024-08-08T00:00:00"
 - Won <span style="color:red"> UCR GSA Travel Grant Award </span> at University of California, Riverside, 2023.
 - Won <span style="color:red"> Dean’s Distinguished Fellowship Award </span> at University of California, Riverside, 2019.
 - Ranked <span style="color:red"> 7th </span> in terms of total GPA among 83 Computer Engineering students in Sharif University of Technology (<span style="color:red">Top 8%</span>), 2018.
-- <span style="color:red"> 1st Rank</span>, Achievement of the highest GPA in B.Sc among all Computer Engineering graduated students in Shahed University, 2015.
+- <span style="color:red"> 1st Rank</span>, Achievement of the highest GPA in B.Sc among all Computer Engineering graduated students, 2015.
 <!-- - Admitted as an <span style="color:red"> Exceptional Talent </span> at Sharif University of Technology for M.Sc, 2015. -->
 
 
