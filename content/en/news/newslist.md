@@ -6,6 +6,7 @@ date = "2024-08-08T00:00:00"
 
 <div style="text-align: justify;">
 
+- [03/2026] Poster presented at the [Center for Multiscale Imaging of Molecules (CIMM) Symposium](https://cmi.ucsd.edu/cimm/), UC San Diego, 2026 ([PDF](https://drive.google.com/file/d/1bH2CZqs0BnZbU6ORaXh_df9MvAJ87ky6/view)).
 - [01/2026] Paper accepted: **UVVs: Identifying Unchanged Vertex Values in Evolving Graphs via Intersection–Union Analysis**, [IEEE IPDPS](https://www.ipdps.org) 2026.
 - [11/2025] I presented a poster on Compiler Support for Dynamic Programming Hardware Accelerators at the **Processing with Intelligent Storage and Memory (PRISM) Annual Review 2025**.
 - [6/2025] Started my **Postdoctoral Scholar** at UC San Diego in the [System Energy Efficiency (SEE) Lab](http://varys.ucsd.edu/) and [Processing with Intelligence Storage and Memory (PRISM) Research Center](https://prism.ucsd.edu/), supervised by Professor [Tajana Rosing](https://cseweb.ucsd.edu/~trosing/).
