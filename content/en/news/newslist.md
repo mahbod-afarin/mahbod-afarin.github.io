@@ -6,7 +6,7 @@ date = "2024-08-08T00:00:00"
 
 <div style="text-align: justify;">
 
-- [04/2026] Paper accepted: **DeduBB: Binary Code Size Reduction via Post-Link Basic Block De-duplication**, [Languages, Compilers, Tools and Theory of Embedded Systems (LCTES)](https://pldi26.sigplan.org/home/LCTES-2026) 2026.
+- [04/2026] Paper accepted: **DeduBB: Binary Code Size Reduction via Post-Link Basic Block De-duplication**, [Languages, Compilers, Tools and Theory of Embedded Systems (LCTES)](https://pldi26.sigplan.org/home/LCTES-2026), 2026.
 - [03/2026] Poster presented at the [Center for Multiscale Imaging of Molecules (CIMM) Symposium](https://cmi.ucsd.edu/cimm/), UC San Diego, 2026 ([PDF](https://drive.google.com/file/d/1bH2CZqs0BnZbU6ORaXh_df9MvAJ87ky6/view)).
 - [01/2026] Paper accepted: **UVVs: Identifying Unchanged Vertex Values in Evolving Graphs via Intersection–Union Analysis**, [IEEE IPDPS](https://www.ipdps.org) 2026.
 - [11/2025] I presented a poster on Compiler Support for Dynamic Programming Hardware Accelerators at the **Processing with Intelligent Storage and Memory (PRISM) Annual Review 2025**.
