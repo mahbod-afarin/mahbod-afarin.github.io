@@ -3,6 +3,7 @@ date = "2024-08-08T00:00:00"
 +++
 
 ### Peer Review
+- Reviewer for the International Conference on Architectural Support for Programming Languages and Operating Systems ([ASPLOS'27](https://www.asplos-conference.org/asplos2027/)).
 - Review activity for ACM transactions on architecture and code optimization.
 - Review activity for IEEE computer architecture letters.
 - Review activity for Parallel computing.
