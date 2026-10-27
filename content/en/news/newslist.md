@@ -6,11 +6,11 @@ date = "2024-08-08T00:00:00"
 
 <div style="text-align: justify;">
 
-- [10/2026] Paper accepted: Indexing Evolving Graphs via Query Evolution Prediction, IEEE BigData 2026.
-- [10/2026] Paper accepted: Sagas: Temporally Consistent Sampling of Evolving Graphs, IEEE BigData 2026 (Short Paper).
-- [10/2026] Paper accepted: HDLouvain: High-Throughput Incremental Clustering for Hyperdimensional Data, IEEE BigData 2026.
-- [09/2026] Paper accepted: ApproxHDC: Approximation Tuning for Hyperdimensional Computing, ASPLOS 2027.
-- [09/2026] Paper accepted: GenMLIR: An MLIR Compiler for Dynamic Programming Workloads on Tier-Aware 3D-DRAM PIM, ASP-DAC 2027, Tokyo, Japan.
+- [10/2026] Paper accepted: **Indexing Evolving Graphs via Query Evolution Prediction**, [IEEE BigData 2026](https://bigdataieee.org/BigData2026/).
+- [10/2026] Paper accepted: **Sagas: Temporally Consistent Sampling of Evolving Graphs**, [IEEE BigData 2026](https://bigdataieee.org/BigData2026/).
+- [10/2026] Paper accepted: **HDLouvain: High-Throughput Incremental Clustering for Hyperdimensional Data**, [IEEE BigData 2026](https://bigdataieee.org/BigData2026/).
+- [09/2026] Paper accepted: **ApproxHDC: Approximation Tuning for Hyperdimensional Computing**, [ASPLOS 2027](https://www.asplos-conference.org/asplos2027/).
+- [09/2026] Paper accepted: **GenMLIR: An MLIR Compiler for Dynamic Programming Workloads on Tier-Aware 3D-DRAM PIM**, [ASP-DAC 2027](https://www.aspdac.com/aspdac2027/).
 - [04/2026] Paper accepted: **DeduBB: Binary Code Size Reduction via Post-Link Basic Block De-duplication**, [Languages, Compilers, Tools and Theory of Embedded Systems (LCTES)](https://pldi26.sigplan.org/home/LCTES-2026), 2026.
 - [03/2026] Poster presented at the [Center for Multiscale Imaging of Molecules (CIMM) Symposium](https://cmi.ucsd.edu/cimm/), UC San Diego, 2026 ([PDF](https://drive.google.com/file/d/1bH2CZqs0BnZbU6ORaXh_df9MvAJ87ky6/view)).
 - [01/2026] Paper accepted: **UVVs: Identifying Unchanged Vertex Values in Evolving Graphs via Intersection–Union Analysis**, [IEEE IPDPS](https://www.ipdps.org) 2026.
