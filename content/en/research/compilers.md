@@ -17,6 +17,23 @@ editable: false
   </div>
 
   <div class="project-card">
+    <h3>Approximation Tuning for Hyperdimensional Computing — ApproxHDC</h3>
+    <p class="project-venue"><a href="/publication/approxhdc-2027-asplos/">ASPLOS 2027</a></p>
+    <p>
+      Hyperdimensional computing (HDC) is intrinsically tolerant to noise and approximation, which makes it a strong match for heterogeneous hardware — CPUs, GPUs, and FPGAs, as well as in-memory technologies such as ReRAM and phase-change memory. Deciding <em>which</em> approximations to apply and how aggressively, however, is a search problem whose space grows exponentially with the number of operations. ApproxHDC extends the HPVM-HDC compiler infrastructure to automatically identify the approximation opportunities in an HDC application, construct the design space spanning both software and hardware levels, and search it efficiently under a user-specified quality-of-service constraint, retargeting the result across CPU, GPU, and simulated ReRAM/PCM backends. It reaches up to 17.25× speedup on CPUs, 15.02× on GPUs, and 4.69× on SpecPCM, outperforming the prior state-of-the-art MicroHD by 3.49× at the same accuracy bar.
+    </p>
+  </div>
+
+  <div class="project-card">
+    <h3>Binary Code Size Reduction — DeduBB</h3>
+    <p class="project-venue"><a href="/publication/dedubb-2026-lctes/">LCTES 2026</a></p>
+    <p>
+      Modern software binaries keep growing due to feature expansion, which slows upgrades, raises maintenance costs, and degrades performance once code size outgrows the smaller, more efficient code models. DeduBB is a post-link optimizer that de-duplicates identical basic blocks across procedure and module boundaries. Where earlier techniques relied on function outlining and therefore missed many duplicates — including code patterns that manipulate the program stack — DeduBB replaces redundant blocks with a lightweight save-and-jump sequence that covers far more cases. Built for the scalable post-link optimizers BOLT and Propeller, and guided by profiles so that only cold blocks are touched, it shrinks benchmark binaries by 1.55%–18.63% on Arm and x86 and warehouse-scale binaries by up to 25.8%, retaining over 82% of the maximal savings without hurting performance. The work was done during my student researcher position on the Compiler Optimization team at Google.
+    </p>
+  </div>
+
+
+  <div class="project-card">
     <h3>A Unified Compiler for Dynamic Programming Accelerators — DP-MLIR</h3>
     <p class="project-venue"><span>Under Submission</span></p>
     <p>
@@ -37,22 +54,6 @@ editable: false
     <p class="project-venue"><span>Design Document</span></p>
     <p>
       GlassML is a panel-level glass interposer whose reconfigurable multi-plane optical fabric carries the collectives of a large language model training job. The fabric exposes a single communication primitive: a plane holds a permutation for some duration after paying a reconfiguration delay. Everything else — which permutations are held, on which planes, for how long, and in what order across a training iteration — is a compiler problem. GlassMLIR lowers a model and its parallelism plan through sharded tensors, demand matrices, and plane-time slots, and ends at the slot contract the hardware already exposes. Demand that follows from the parallelism plan is decomposed offline and preloaded, while the data-dependent demand of mixture-of-experts routing is shaped by the compiler and solved by the on-package controller at run time. Along the way the compiler plans parallelism degrees, places and replicates experts, pins persistent circuits, allocates planes across the iteration timeline much as a register allocator allocates registers, hides transfers behind compute, and emits the coordinated compute, fabric, DMA, and control-domain programs that each tile executes.
-    </p>
-  </div>
-
-  <div class="project-card">
-    <h3>Approximation Tuning for Hyperdimensional Computing — ApproxHDC</h3>
-    <p class="project-venue"><a href="/publication/approxhdc-2027-asplos/">ASPLOS 2027</a></p>
-    <p>
-      Hyperdimensional computing (HDC) is intrinsically tolerant to noise and approximation, which makes it a strong match for heterogeneous hardware — CPUs, GPUs, and FPGAs, as well as in-memory technologies such as ReRAM and phase-change memory. Deciding <em>which</em> approximations to apply and how aggressively, however, is a search problem whose space grows exponentially with the number of operations. ApproxHDC extends the HPVM-HDC compiler infrastructure to automatically identify the approximation opportunities in an HDC application, construct the design space spanning both software and hardware levels, and search it efficiently under a user-specified quality-of-service constraint, retargeting the result across CPU, GPU, and simulated ReRAM/PCM backends. It reaches up to 17.25× speedup on CPUs, 15.02× on GPUs, and 4.69× on SpecPCM, outperforming the prior state-of-the-art MicroHD by 3.49× at the same accuracy bar.
-    </p>
-  </div>
-
-  <div class="project-card">
-    <h3>Binary Code Size Reduction — DeduBB</h3>
-    <p class="project-venue"><a href="/publication/dedubb-2026-lctes/">LCTES 2026</a></p>
-    <p>
-      Modern software binaries keep growing due to feature expansion, which slows upgrades, raises maintenance costs, and degrades performance once code size outgrows the smaller, more efficient code models. DeduBB is a post-link optimizer that de-duplicates identical basic blocks across procedure and module boundaries. Where earlier techniques relied on function outlining and therefore missed many duplicates — including code patterns that manipulate the program stack — DeduBB replaces redundant blocks with a lightweight save-and-jump sequence that covers far more cases. Built for the scalable post-link optimizers BOLT and Propeller, and guided by profiles so that only cold blocks are touched, it shrinks benchmark binaries by 1.55%–18.63% on Arm and x86 and warehouse-scale binaries by up to 25.8%, retaining over 82% of the maximal savings without hurting performance. The work was done during my student researcher position on the Compiler Optimization team at Google.
     </p>
   </div>
 </div>
