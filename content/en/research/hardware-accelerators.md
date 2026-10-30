@@ -25,10 +25,10 @@ editable: false
   </div>
 
   <div class="project-card">
-    <h3>Tier-Aware 3D-DRAM Processing-in-Memory for Dynamic Programming</h3>
-    <p class="project-venue"><a href="/publication/genmlir-2027-aspdac/">ASP-DAC 2027</a></p>
+    <h3>Heterogeneous PIM for Graph Dynamic Programming — GEN-Graph</h3>
+    <p class="project-venue"><a href="https://arxiv.org/abs/2604.15361">arXiv 2026</a></p>
     <p>
-      Dynamic-programming kernels such as all-pairs shortest path and sequence alignment are bound by memory, not arithmetic, which makes them a natural target for processing-in-memory on monolithic 3D DRAM. These architectures expose memory tiers with very different latencies and a mix of heterogeneous processing units, so performance depends entirely on how a kernel is tiled, where each tile lives, which unit executes it, and how results are communicated. My current work at UC San Diego studies this hardware/software boundary: characterizing which DP recurrences the hardware can support, and co-designing the compiler (see GenMLIR under Compiler Optimization) with tier-aware placement and communication strategies across ReRAM, PCM, and HBM3-based accelerator architectures.
+      Graph-based dynamic programming divides into two archetypes that stress different parts of a machine. Matrix-centric kernels such as all-pairs shortest path are dense and regular, and their limit is arithmetic throughput; topology-centric kernels such as sequence-to-graph alignment over pangenome references are sparse and pointer-chasing, and their limit is memory latency and effective bandwidth. No single homogeneous substrate serves both well, which is why programmable frameworks pay a penalty against task-specific ASICs and fixed-function designs cannot follow a new dataflow. GEN-Graph is a chiplet-based heterogeneous processing-in-memory accelerator that gives each archetype the substrate it wants: a PCM-based matrix tile performing bit-serial Floyd–Warshall and min-plus reductions in place, and an HBM3-based traversal tile whose near-memory processing elements run windowed bit-parallel alignment against banked SRAM. A tiered HBM–PCM–FeNAND hierarchy stages data by access frequency, and the hardware/software co-design — recursive partitioning sized to the memory arrays, reconfigurable bit-parallel logic, and compiler-driven mapping and scheduling — keeps every DP update exact rather than approximate while keeping both tiles busy.
     </p>
   </div>
 </div>
@@ -59,7 +59,8 @@ editable: false
   margin: 0 0 0.75rem 0 !important;
   text-align: left !important;
 }
-.project-venue a {
+.project-venue a,
+.project-venue span {
   display: inline-block;
   margin: 0 0.35rem 0.35rem 0;
   padding: 0.12rem 0.65rem;
@@ -71,6 +72,10 @@ editable: false
   color: #555;
   text-decoration: none;
   transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+.project-venue span {
+  border-style: dashed;
+  color: #777;
 }
 .project-venue a:hover,
 .project-venue a:focus {
@@ -90,6 +95,10 @@ editable: false
 .dark .project-venue a {
   border-color: #4a4a4a;
   color: #cfcfcf;
+}
+.dark .project-venue span {
+  border-color: #4a4a4a;
+  color: #a8a8a8;
 }
 .dark .project-venue a:hover,
 .dark .project-venue a:focus {

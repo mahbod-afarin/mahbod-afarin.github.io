@@ -17,6 +17,30 @@ editable: false
   </div>
 
   <div class="project-card">
+    <h3>A Unified Compiler for Dynamic Programming Accelerators — DP-MLIR</h3>
+    <p class="project-venue"><span>Under Submission</span></p>
+    <p>
+      Dynamic-programming kernels sit at the heart of graph analytics and bioinformatics — Floyd–Warshall for all-pairs shortest path, Smith–Waterman and Needleman–Wunsch for sequence alignment — and custom accelerators run them far faster than CPUs or GPUs can. The catch is that each new accelerator means re-implementing the algorithm by hand in hardware-specific form, with loop transformations, tiling strategy, and memory management tuned to one architecture and one algorithm variant, so design cycles stretch into months and nothing is reusable. DP-MLIR removes that per-target rewrite. A hardware-agnostic front-end language, DP++, states what to compute, over which domain, and which approximations are permitted; a shared mid-end performs DP-aware dependence analysis and wavefront scheduling, selects band widths and tile sizes that respect accuracy and capacity limits, resolves precision, and plans memory layouts that match each device's dataflow; and target-specific back-ends lower the result into compact runtime command streams. The same program therefore retargets across accelerators as different as a ReRAM-based sequence-alignment engine, a PCM-based APSP engine, and an HBM-based blocked Floyd–Warshall engine, without a line of source changing.
+    </p>
+  </div>
+
+  <div class="project-card">
+    <h3>Compiling Graph Dynamic Programming for Heterogeneous PIM — Forge</h3>
+    <p class="project-venue"><span>Under Submission</span></p>
+    <p>
+      Graph-based dynamic programming splits into regimes that pull hardware in opposite directions: matrix-centric kernels such as all-pairs shortest path are dense and regular and bound by arithmetic throughput, while topology-centric kernels such as sequence-to-graph alignment are sparse and irregular and bound by memory latency. Heterogeneous processing-in-memory accelerators answer this by pairing a PCM matrix substrate with an HBM traversal substrate inside one package, but programming such a machine by hand means reasoning simultaneously about recursive graph partitioning, bit-serial in-situ arithmetic, windowed bit-parallel alignment, a tiered memory hierarchy, and instruction sets that have nothing in common. Forge is an MLIR compiler that hides all of it. A Python-embedded DSL asks the programmer for the recurrence and its parallel structure and for nothing about the silicon; a progressively lowering pipeline then classifies the workload archetype, derives the recursive partitioning and windowed segmentation, assigns every buffer to a memory tier, lowers abstract bitwise recurrences into per-cycle micro-operations, and emits the host driver together with microcode for both compute tiles. The generated code reaches the quality of expert hand-tuned mappings from a compact, hardware-agnostic program, and because the language names no hardware construct, the same source retargets to other accelerators whose runtime implements the interface — as demonstrated by a second back-end for an independently designed alignment accelerator.
+    </p>
+  </div>
+
+  <div class="project-card">
+    <h3>Compiling LLM Training for a Reconfigurable Optical Fabric — GlassMLIR</h3>
+    <p class="project-venue"><span>Design Document</span></p>
+    <p>
+      GlassML is a panel-level glass interposer whose reconfigurable multi-plane optical fabric carries the collectives of a large language model training job. The fabric exposes a single communication primitive: a plane holds a permutation for some duration after paying a reconfiguration delay. Everything else — which permutations are held, on which planes, for how long, and in what order across a training iteration — is a compiler problem. GlassMLIR lowers a model and its parallelism plan through sharded tensors, demand matrices, and plane-time slots, and ends at the slot contract the hardware already exposes. Demand that follows from the parallelism plan is decomposed offline and preloaded, while the data-dependent demand of mixture-of-experts routing is shaped by the compiler and solved by the on-package controller at run time. Along the way the compiler plans parallelism degrees, places and replicates experts, pins persistent circuits, allocates planes across the iteration timeline much as a register allocator allocates registers, hides transfers behind compute, and emits the coordinated compute, fabric, DMA, and control-domain programs that each tile executes.
+    </p>
+  </div>
+
+  <div class="project-card">
     <h3>Approximation Tuning for Hyperdimensional Computing — ApproxHDC</h3>
     <p class="project-venue"><a href="/publication/approxhdc-2027-asplos/">ASPLOS 2027</a></p>
     <p>
@@ -59,7 +83,8 @@ editable: false
   margin: 0 0 0.75rem 0 !important;
   text-align: left !important;
 }
-.project-venue a {
+.project-venue a,
+.project-venue span {
   display: inline-block;
   margin: 0 0.35rem 0.35rem 0;
   padding: 0.12rem 0.65rem;
@@ -71,6 +96,10 @@ editable: false
   color: #555;
   text-decoration: none;
   transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+.project-venue span {
+  border-style: dashed;
+  color: #777;
 }
 .project-venue a:hover,
 .project-venue a:focus {
@@ -90,6 +119,10 @@ editable: false
 .dark .project-venue a {
   border-color: #4a4a4a;
   color: #cfcfcf;
+}
+.dark .project-venue span {
+  border-color: #4a4a4a;
+  color: #a8a8a8;
 }
 .dark .project-venue a:hover,
 .dark .project-venue a:focus {
